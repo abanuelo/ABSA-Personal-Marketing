@@ -1,0 +1,1539 @@
+complete niello porsche multipoint inspection front tires  mm  mm rear tires  mm  mm front brakes  mm rear brakes  mm found the following concerns during inspection rodent damage to vehicle $T$ harness at left rear rodent damage to coolant hose at coolant reservoir
+body
+0
+complete niello porsche multipoint inspection front tires  mm  mm $T$  mm  mm front brakes  mm rear brakes  mm found the following concerns during inspection rodent damage to vehicle body harness at left rear rodent damage to coolant hose at coolant reservoir
+rear tires
+1
+complete niello porsche multipoint inspection front tires  mm  mm rear tires  mm  mm front $T$  mm rear brakes  mm found the following concerns during inspection rodent damage to vehicle body harness at left rear rodent damage to coolant hose at coolant reservoir
+brakes
+1
+complete niello porsche multipoint inspection front tires  mm  mm rear tires  mm  mm front brakes  mm rear $T$  mm found the following concerns during inspection rodent damage to vehicle body harness at left rear rodent damage to coolant hose at coolant reservoir
+brakes
+1
+complete niello porsche multipoint inspection $T$  mm  mm rear tires  mm  mm front brakes  mm rear brakes  mm found the following concerns during inspection rodent damage to vehicle body harness at left rear rodent damage to coolant hose at coolant reservoir
+front tires
+1
+complete niello porsche multipoint inspection front brakes  mm  mm rear tires  mm  mm front brakes  mm rear brakes  mm found the following concerns during inspection rodent damage to vehicle body harness at left rear rodent damage to coolant $T$ at coolant reservoir
+hose
+0
+complete niello porsche $T$ front tires  mm  mm rear tires  mm  mm front brakes  mm rear brakes  mm found the following concerns during inspection rodent damage to vehicle body harness at left rear rodent damage to coolant hose at coolant reservoir
+multipoint inspection
+1
+complete niello porsche multipoint $T$ front tires  mm  mm rear tires  mm  mm front brakes  mm rear brakes  mm found the following concerns during inspection rodent damage to vehicle body harness at left rear rodent damage to coolant hose at coolant reservoir
+inspection
+1
+complete niello porsche multipoint inspection front $T$  mm  mm rear tires  mm  mm front brakes  mm rear brakes  mm found the following concerns during inspection rodent damage to vehicle body harness at left rear rodent damage to coolant hose at coolant reservoir
+tires
+1
+complete niello porsche multipoint inspection front tire  mm  mm rear $T$  mm  mm front brakes  mm rear brakes  mm found the following concerns during inspection rodent damage to vehicle body harness at left rear rodent damage to coolant hose at coolant reservoir
+tires
+1
+complete niello porsche multipoint inspection front tire  mm  mm rear tires  mm  mm front brakes  mm rear brakes  mm found the following concerns during inspection rodent damage to vehicle body harness at left rear rodent damage to coolant hose at $T$ reservoir
+coolant
+0
+front tires  mm  mm $T$  mm  mm tire pressures before front  psi  psi rear  psi  psi set tire pressures to  psi front and  psi rear
+rear tires
+1
+$T$  mm  mm front tires  mm  mm tire pressures before front  psi  psi rear  psi  psi set tire pressures to  psi front and  psi rear
+front tires
+1
+front tires  mm  mm front tires  mm  mm tire pressures before front  psi  psi rear  psi  psi set $T$ pressures to  psi front and  psi rear
+tire
+1
+verified customer concern coolant leaking from rear of vehicle coolant can be seen coming down from top of engine area remove engine cover and fans pressure test cooling system and check for leaks coolant hose at coolant reservoir is chewed through there is also some wiring that is damaged at left front of engine bay remove rear latch support panel for better visual access body harness is chewed on but no wires appear to be chewed through check fault memory no faults stored harness may be able to be pulled through firewall and repaired from inside the car unable to know for sure without attempting remove engine air cleaner housing and coolant reservoir to access wiring harness loosen mounting clips for engine harness remove interior trim to access wire harnessfirewall grommet pull harness through firewall and inspect unable to separate the wires from the body grommet grommet has been vulcanized onto wire harness and is completely surrounding individual wires recommend replacing rear body harness remove interior from vehicle remove $T$ transmission unit from vehicle remove dash support and ac box remove steering column and pedal assembly remove all components from front cowl remove front bumper and radiators loosen fuel tank and lower to gain access to harness remove all underbody covers remove front axle lift system and tunnel braces remove main vehicle harness and install new harness ensure proper routing of harness and begin reinstalling vehicle components route aftermarket radar detector equipment once all components had been installed and connected turn ignition on and clear all faults no faults currently present reinstall remainder of components fill and bleed cooling system and brake system road test vehicle multiple times no warnings or faults present at this time
+engine
+0
+verified customer concern coolant leaking from rear of vehicle coolant can be seen coming down from top of engine area remove engine cover and fans pressure test cooling system and check for leaks coolant hose at coolant reservoir is chewed through there is also some wiring that is damaged at left front of engine bay remove rear latch support panel for better visual access body harness is chewed on but no wires appear to be chewed through check fault memory no faults stored harness may be able to be pulled through firewall and repaired from inside the car unable to know for sure without attempting remove engine air cleaner housing and coolant reservoir to access wiring harness loosen mounting clips for engine harness remove interior trim to access wire harnessfirewall grommet pull harness through firewall and inspect unable to separate the wires from the body grommet grommet has been vulcanized onto wire harness and is completely surrounding individual wires recommend replacing rear body harness remove interior from vehicle remove transmission unit from vehicle remove dash support and ac box remove steering column and pedal assembly remove all components from front cowl remove front bumper and radiators loosen fuel tank and lower to gain access to harness remove all underbody covers remove front $T$ lift system and tunnel braces remove main vehicle harness and install new harness ensure proper routing of harness and begin reinstalling vehicle components route aftermarket radar detector equipment once all components had been installed and connected turn ignition on and clear all faults no faults currently present reinstall remainder of components fill and bleed cooling system and brake system road test vehicle multiple times no warnings or faults present at this time
+axle
+0
+verified customer concern coolant leaking from rear of vehicle coolant can be seen coming down from top of engine area remove engine cover and fans pressure test cooling system and check for leaks coolant hose at coolant reservoir is chewed through there is also some wiring that is damaged at left front of engine bay remove rear latch support panel for better visual access body harness is chewed on but no wires appear to be chewed through check fault memory no faults stored harness may be able to be pulled through firewall and repaired from inside the car unable to know for sure without attempting remove engine air cleaner housing and coolant reservoir to access wiring harness loosen mounting clips for engine harness remove interior trim to access wire harnessfirewall grommet pull harness through firewall and inspect unable to separate the wires from the body grommet grommet has been vulcanized onto wire harness and is completely surrounding individual wires recommend replacing rear $T$ harness remove interior from vehicle remove transmission unit from vehicle remove dash support and ac box remove steering column and pedal assembly remove all components from front cowl remove front bumper and radiators loosen fuel tank and lower to gain access to harness remove all underbody covers remove front axle lift system and tunnel braces remove main vehicle harness and install new harness ensure proper routing of harness and begin reinstalling vehicle components route aftermarket radar detector equipment once all components had been installed and connected turn ignition on and clear all faults no faults currently present reinstall remainder of components fill and bleed cooling system and brake system road test vehicle multiple times no warnings or faults present at this time
+body
+0
+verified customer concern coolant leaking from rear of vehicle coolant can be seen coming down from top of engine area remove engine cover and fans pressure test cooling system and check for leaks coolant hose at coolant reservoir is chewed through there is also some wiring that is damaged at left front of engine bay remove rear latch support panel for better visual access body harness is chewed on but no wires appear to be chewed through check fault memory no faults stored harness may be able to be pulled through firewall and repaired from inside the car unable to know for sure without attempting remove engine air cleaner housing and $T$ reservoir to access wiring harness loosen mounting clips for engine harness remove interior trim to access wire harnessfirewall grommet pull harness through firewall and inspect unable to separate the wires from the body grommet grommet has been vulcanized onto wire harness and is completely surrounding individual wires recommend replacing rear body harness remove interior from vehicle remove transmission unit from vehicle remove dash support and ac box remove steering column and pedal assembly remove all components from front cowl remove front bumper and radiators loosen fuel tank and lower to gain access to harness remove all underbody covers remove front axle lift system and tunnel braces remove main vehicle harness and install new harness ensure proper routing of harness and begin reinstalling vehicle components route aftermarket radar detector equipment once all components had been installed and connected turn ignition on and clear all faults no faults currently present reinstall remainder of components fill and bleed cooling system and brake system road test vehicle multiple times no warnings or faults present at this time
+coolant
+0
+verified customer concern coolant leaking from rear of vehicle coolant can be seen coming down from top of engine area remove engine cover and fans pressure test cooling system and check for leaks coolant $T$ at coolant reservoir is chewed through there is also some wiring that is damaged at left front of engine bay remove rear latch support panel for better visual access body harness is chewed on but no wires appear to be chewed through check fault memory no faults stored harness may be able to be pulled through firewall and repaired from inside the car unable to know for sure without attempting remove engine air cleaner housing and coolant reservoir to access wiring harness loosen mounting clips for engine harness remove interior trim to access wire harnessfirewall grommet pull harness through firewall and inspect unable to separate the wires from the body grommet grommet has been vulcanized onto wire harness and is completely surrounding individual wires recommend replacing rear body harness remove interior from vehicle remove transmission unit from vehicle remove dash support and ac box remove steering column and pedal assembly remove all components from front cowl remove front bumper and radiators loosen fuel tank and lower to gain access to harness remove all underbody covers remove front axle lift system and tunnel braces remove main vehicle harness and install new harness ensure proper routing of harness and begin reinstalling vehicle components route aftermarket radar detector equipment once all components had been installed and connected turn ignition on and clear all faults no faults currently present reinstall remainder of components fill and bleed cooling system and brake system road test vehicle multiple times no warnings or faults present at this time
+hose
+0
+verified customer concern coolant leaking from rear of vehicle coolant can be seen coming down from top of engine area remove engine cover and fans pressure test cooling system and check for leaks coolant hose at coolant reservoir is chewed through there is also some wiring that is damaged at left front of engine bay remove rear latch support panel for better visual access body harness is chewed on but no wires appear to be chewed through check fault memory no faults stored harness may be able to be pulled through firewall and repaired from inside the car unable to know for sure without attempting remove engine air cleaner housing and coolant reservoir to access wiring harness loosen mounting clips for engine harness remove interior trim to access wire harnessfirewall grommet pull harness through firewall and inspect unable to separate the wires from the body grommet grommet has been vulcanized onto wire harness and is completely surrounding individual wires recommend replacing rear body harness remove interior from vehicle remove transmission unit from vehicle remove dash support and ac box remove steering column and pedal assembly remove all components from front cowl remove front bumper and $T$ loosen fuel tank and lower to gain access to harness remove all underbody covers remove front axle lift system and tunnel braces remove main vehicle harness and install new harness ensure proper routing of harness and begin reinstalling vehicle components route aftermarket radar detector equipment once all components had been installed and connected turn ignition on and clear all faults no faults currently present reinstall remainder of components fill and bleed cooling system and brake system road test vehicle multiple times no warnings or faults present at this time
+radiator
+0
+verified customer concern coolant leaking from rear of vehicle coolant can be seen coming down from top of engine area remove engine cover and fans pressure test cooling system and check for leaks coolant hose at coolant reservoir is chewed through there is also some wiring that is damaged at left front of engine bay remove rear latch support panel for better visual access body harness is chewed on but no wires appear to be chewed through check fault memory no faults stored harness may be able to be pulled through firewall and repaired from inside the car unable to know for sure without attempting remove engine air cleaner housing and coolant reservoir to access wiring harness loosen mounting clips for engine harness remove interior trim to access wire harnessfirewall grommet pull harness through firewall and inspect unable to separate the wires from the body grommet grommet has been vulcanized onto wire harness and is completely surrounding individual wires recommend replacing rear body harness remove interior from vehicle remove transmission unit from vehicle remove dash support and ac box remove steering column and pedal assembly remove all components from front cowl remove front $T$ and radiator loosen fuel tank and lower to gain access to harness remove all underbody covers remove front axle lift system and tunnel braces remove main vehicle harness and install new harness ensure proper routing of harness and begin reinstalling vehicle components route aftermarket radar detector equipment once all components had been installed and connected turn ignition on and clear all faults no faults currently present reinstall remainder of components fill and bleed cooling system and brake system road test vehicle multiple times no warnings or faults present at this time
+bumper
+0
+verified customer concern coolant leaking from rear of vehicle coolant can be seen coming down from top of engine area remove engine cover and fans pressure test cooling system and check for leaks coolant hose at coolant reservoir is chewed through there is also some wiring that is damaged at left front of engine bay remove rear latch support panel for better visual access body harness is chewed on but no wires appear to be chewed through check fault memory no faults stored harness may be able to be pulled through firewall and repaired from inside the car unable to know for sure without attempting remove engine air cleaner housing and coolant reservoir to access wiring harness loosen mounting clips for engine harness remove interior trim to access wire harnessfirewall grommet pull harness through firewall and inspect unable to separate the wires from the body grommet grommet has been vulcanized onto wire harness and is completely surrounding individual wires recommend replacing rear body harness remove interior from vehicle remove transmission unit from vehicle remove dash support and ac box remove $T$ column and pedal assembly remove all components from front cowl remove front bumper and radiator loosen fuel tank and lower to gain access to harness remove all underbody covers remove front axle lift system and tunnel braces remove main vehicle harness and install new harness ensure proper routing of harness and begin reinstalling vehicle components route aftermarket radar detector equipment once all components had been installed and connected turn ignition on and clear all faults no faults currently present reinstall remainder of components fill and bleed cooling system and brake system road test vehicle multiple times no warnings or faults present at this time
+steering
+0
+verified customer concern coolant leaking from rear of vehicle coolant can be seen coming down from top of engine area remove engine cover and fans pressure test cooling system and check for leaks coolant hose at coolant reservoir is chewed through there is also some wiring that is damaged at left front of engine bay remove rear latch support panel for better visual access body harness is chewed on but no wires appear to be chewed through check fault memory no faults stored harness may be able to be pulled through firewall and repaired from inside the car unable to know for sure without attempting remove engine air cleaner housing and coolant reservoir to access wiring harness loosen mounting clips for engine harness remove interior trim to access wire harnessfirewall grommet pull harness through firewall and inspect unable to separate the wires from the body grommet grommet has been vulcanized onto wire harness and is completely surrounding individual wires recommend replacing rear body harness remove interior from vehicle remove $T$ unit from vehicle remove dash support and ac box remove steering column and pedal assembly remove all components from front cowl remove front bumper and radiator loosen fuel tank and lower to gain access to harness remove all underbody covers remove front axle lift system and tunnel braces remove main vehicle harness and install new harness ensure proper routing of harness and begin reinstalling vehicle components route aftermarket radar detector equipment once all components had been installed and connected turn ignition on and clear all faults no faults currently present reinstall remainder of components fill and bleed cooling system and brake system road test vehicle multiple times no warnings or faults present at this time
+transmission
+0
+verified customer concern coolant leaking from rear of vehicle coolant can be seen coming down from top of engine area remove engine cover and fans pressure test cooling system and check for leaks coolant hose at coolant reservoir is chewed through there is also some wiring that is damaged at left front of engine bay remove rear latch support panel for better visual access body harness is chewed on but no wires appear to be chewed through check fault memory no faults stored harness may be able to be pulled through firewall and repaired from inside the car unable to know for sure without attempting remove engine $T$ housing and coolant reservoir to access wiring harness loosen mounting clips for engine harness remove interior trim to access wire harnessfirewall grommet pull harness through firewall and inspect unable to separate the wires from the body grommet grommet has been vulcanized onto wire harness and is completely surrounding individual wires recommend replacing rear body harness remove interior from vehicle remove transmission unit from vehicle remove dash support and ac box remove steering column and pedal assembly remove all components from front cowl remove front bumper and radiator loosen fuel tank and lower to gain access to harness remove all underbody covers remove front axle lift system and tunnel braces remove main vehicle harness and install new harness ensure proper routing of harness and begin reinstalling vehicle components route aftermarket radar detector equipment once all components had been installed and connected turn ignition on and clear all faults no faults currently present reinstall remainder of components fill and bleed cooling system and brake system road test vehicle multiple times no warnings or faults present at this time
+air cleaner
+0
+verified customer concern coolant leaking from rear of vehicle coolant can be seen coming down from top of engine area remove engine cover and fans pressure test cooling system and check for leaks coolant hose at coolant reservoir is chewed through there is also some wiring that is damaged at left front of engine bay remove rear latch support panel for better visual access body harness is chewed on but no wires appear to be chewed through check fault memory no faults stored harness may be able to be pulled through firewall and repaired from inside the car unable to know for sure without attempting remove engine air cleaner housing and coolant reservoir to access wiring harness loosen mounting clips for engine harness remove interior $T$ to access wire harnessfirewall grommet pull harness through firewall and inspect unable to separate the wires from the body grommet grommet has been vulcanized onto wire harness and is completely surrounding individual wires recommend replacing rear body harness remove interior from vehicle remove transmission unit from vehicle remove dash support and ac box remove steering column and pedal assembly remove all components from front cowl remove front bumper and radiator loosen fuel tank and lower to gain access to harness remove all underbody covers remove front axle lift system and tunnel braces remove main vehicle harness and install new harness ensure proper routing of harness and begin reinstalling vehicle components route aftermarket radar detector equipment once all components had been installed and connected turn ignition on and clear all faults no faults currently present reinstall remainder of components fill and bleed cooling system and brake system road test vehicle multiple times no warnings or faults present at this time
+trim
+0
+perform maintenance service change oil  filter check pollen filter  air filter clean out drains  radiators lube all seals  hinges top off all fluids check under body of vehicle for fluid leaks none found check brake and tire wear  set pressures check system for faults using piwis tester reset service reminder light check all lights note car needs four  tires and rear $T$  required for safety customer advised and declined  r   r n
+brake pads
+-1
+perform $T$ change oil  filter check pollen filter  air filter clean out drains  radiators lube all seals  hinges top off all fluids check under body of vehicle for fluid leaks none found check brake and tire wear  set pressures check system for faults using piwis tester reset service reminder light check all lights note car needs four  tires and rear brake pads  required for safety customer advised and declined  r   r n
+maintenance service
+1
+perform maintenance service change oil  filter check pollen filter  air filter clean out drains  radiators lube all seals  $T$ top off all fluids check under body of vehicle for fluid leaks none found check brake and tire wear  set pressures check system for faults using piwis tester reset service reminder light check all lights note car needs four  tires and rear brake pads  required for safety customer advised and declined  r   r n
+hinge
+1
+perform maintenance service change oil  filter check pollen filter  $T$ clean out drains  radiators lube all seals  hinges top off all fluids check under body of vehicle for fluid leaks none found check brake and tire wear  set pressures check system for faults using piwis tester reset service reminder light check all lights note car needs four  tires and rear brake pads  required for safety customer advised and declined  r   r n
+air filter
+1
+perform maintenance service change oil  filter check pollen filter  air filter clean out drains  $T$ lube all seals  hinges top off all fluids check under body of vehicle for fluid leaks none found check brake and tire wear  set pressures check system for faults using piwis tester reset service reminder light check all lights note car needs four  tires and rear brake pads  required for safety customer advised and declined  r   r n
+radiator
+1
+perform maintenance service change oil  filter check pollen filter  air filter clean out drains  radiators lube all seals  hinges top off all fluids check under body of vehicle for fluid leaks none found check brake and tire wear  set pressures check system for faults using piwis tester reset service reminder light check all lights note car needs four  $T$ and rear brake pads  required for safety customer advised and declined  r   r n
+tires
+-1
+performed performed porsche $T$ service changed engine oil and filter set all tire pressures to spec vehicle visual inspection brakes f  mm r  mm tires f  mm r  mm
+oil change
+1
+performed performed porsche oil change service changed $T$ and filter set all tire pressures to spec vehicle visual inspection brakes f  mm r  mm tires f  mm r  mm
+engine oil
+1
+performed performed porsche oil change service changed engine $T$ set all tire pressures to spec vehicle visual inspection brakes f  mm r  mm tires f  mm r  mm
+oil and filter
+1
+performed performed porsche oil change service changed engine oil and filter set all tire pressures to spec vehicle $T$ brakes f  mm r  mm tires f  mm r  mm
+visual inspection
+1
+performed performed porsche oil change service changed engine oil and filter set all tire pressures to spec vehicle visual inspection $T$ f  mm r  mm tires f  mm r  mm
+brakes
+1
+performed performed porsche oil change service changed engine oil and filter set all $T$ pressures to spec vehicle visual inspection brakes f  mm r  mm tires f  mm r  mm
+tire
+1
+tires fmm mm r mm mm air set to fpsi rpsi rear tires have cords showing on the inside edge time for $T$
+tire replacement
+0
+completed $T$ brakes fmm rmm tires fmm rmm vehicle is ready for tire replacement cords are showing on the rear tires inside edge recommend alignment  rear tire wear
+multi point inspection
+1
+completed multi point inspection brakes fmm rmm tires fmm rmm vehicle is ready for $T$ cords are showing on the rear tires inside edge recommend alignment  rear tire wear
+tire replacement
+0
+completed multi point inspection brakes fmm rmm tires fmm rmm vehicle is ready for tire replacement cords are showing on the rear tires inside edge recommend $T$  rear tire wear
+alignment
+0
+completed multi point inspection brakes fmm rmm tires fmm rmm vehicle is ready for tire replacement cords are showing on the rear tires inside edge recommend alignment  $T$ wear
+rear tire
+0
+completed multi $T$ brakes fmm rmm tires fmm rmm vehicle is ready for tire replacement cords are showing on the rear tires inside edge recommend alignment  rear tire wear
+point inspection
+1
+vehicle requires two  $T$ replaced worn to  mm  customer advised and currently declined pirelli scorpion verde  r no
+rear tires
+-1
+drained and refilled $T$ with mobil  w full synthetic oil and replaced filter front brake pads have mm remaining rear brake pads have mm remaining left front tire has mm of thread remaining right front tire has mm of tread remaining left rear tire has mm of tread remaining right rear tire has mm of tread remaining adjusted fluid levels reset service indicator road test ok psmp date tu recommend replacing front brakes with rotors
+engine oil
+1
+drained and refilled engine oil with mobil  w full synthetic oil and replaced filter front brake pads have mm remaining rear brake pads have mm remaining left front tire has mm of thread remaining right front tire has mm of tread remaining left rear tire has mm of tread remaining right rear tire has mm of tread remaining adjusted $T$ reset service indicator road test ok psmp date tu recommend replacing front brakes with rotors
+fluid levels
+1
+drained and refilled engine oil with mobil  w full synthetic oil and replaced filter front brake pads have mm remaining rear brake pads have mm remaining left front tire has mm of thread remaining right front tire has mm of tread remaining left rear tire has mm of tread remaining right rear tire has mm of tread remaining adjusted fluid levels reset service indicator road test ok psmp date tu recommend replacing front $T$ with rotors
+brakes
+0
+drained and refilled engine oil with mobil  w full synthetic oil and replaced filter front brake pads have mm remaining rear brake pads have mm remaining left front tire has mm of thread remaining right front tire has mm of tread remaining left rear tire has mm of tread remaining right rear tire has mm of tread remaining adjusted fluid levels reset service indicator road test ok psmp date tu recommend replacing front brakes with $T$
+rotor
+0
+set $T$ pressures front  psi rear  psi
+tire
+1
+performed $T$
+multipoint inspection
+1
+performed multipoint $T$
+inspection
+1
+customer declined $T$ and alignment
+tires
+-1
+customer declined tires and $T$
+alignment
+-1
+catches and hangs  electromechanical inspected vehicle for ac $T$ concern removed and powered with v still intermittently operates replaced ac blower motor and verified proper operation
+blower motor
+1
+catches and hangs  electromechanical inspected vehicle for ac blower motor concern removed and powered with v still intermittently operates replaced ac $T$ and verified proper operation
+blower motor
+1
+catches and hangs  electromechanical inspected vehicle for ac blower motor concern removed and powered with v still intermittently operates replaced $T$ blower motor and verified proper operation
+ac
+1
+$T$ at psi  rear tires at psi
+front tires
+1
+front tires at psi  $T$ at psi
+rear tires
+1
+cleaned $T$ bore and plate of all carbon deposits performed throttle adaptation with tester to ensure throttle angle is correct and functioning as per specifications performed induction service to clean fuel injection system and restore performance checked to make sure airfuel mixture was within proper parameters road tested vehicle
+throttle
+1
+cleaned throttle bore and plate of all carbon deposits performed $T$ adaptation with tester to ensure throttle angle is correct and functioning as per specifications performed induction service to clean fuel injection system and restore performance checked to make sure airfuel mixture was within proper parameters road tested vehicle
+throttle
+1
+cleaned throttle bore and plate of all carbon deposits performed throttle adaptation with tester to ensure throttle angle is correct and functioning as per specifications performed $T$ service to clean fuel injection system and restore performance checked to make sure airfuel mixture was within proper parameters road tested vehicle
+induction
+1
+performed $T$ deodorizer service made sure all vents are blowing at  degrees and are free of any bacteria checked ac pressures ensuring they were within specification ran the ac system functioning correctly
+ac
+1
+performed ac deodorizer service made sure all $T$ are blowing at  degrees and are free of any bacteria checked ac pressures ensuring they were within specification ran the ac system functioning correctly
+vent
+1
+performed ac deodorizer service made sure all vents are blowing at  degrees and are free of any bacteria checked ac pressures ensuring they were within specification ran the $T$ system functioning correctly
+ac
+1
+when upholstery $T$ vendor returns the quote chris will contact you
+repair
+0
+performed $T$
+multipoint inspection
+1
+performed multipoint $T$
+inspection
+1
+customer declined $T$ and alignment
+tires
+-1
+customer declined tires and $T$
+alignment
+-1
+catches and hangs electromechanical inspected vehicle for ac $T$ concern removed and powered with v still intermittently operates replaced ac blower motor and verified proper operation
+blower motor
+1
+catches and hangs electromechanical inspected vehicle for ac blower motor concern removed and powered with v still intermittently operates replaced ac $T$ and verified proper operation
+blower motor
+1
+catches and hangs electromechanical inspected vehicle for ac blower motor concern removed and powered with v still intermittently operates replaced $T$ blower motor and verified proper operation
+ac
+1
+$T$ at psi rear tires at psi
+front tires
+1
+front tires at psi $T$ at psi
+rear tires
+1
+recommendations $T$ svc  diagnose rear window washer jetsno washer fluid coming out client declined any further repairs at thi s time
+brake fluid
+-1
+recommendations brake fluid svc  diagnose rear window washer jetsno washer fluid coming out client declined any further $T$ at thi s time
+repairs
+-1
+as per ro tech completed vehicle $T$  please see inspection sheet for information
+inspection
+1
+as per maint schedule  tech  completed k mile service  drain $T$ and replace oil filter oring seal drain plug washer and top of with l added fuel additive completed vehicle inspection and top of fluid levels as needed performed  mile test drive and set tire pressures  clock and recheck oil level reset service interval and stamp service book
+engine oil
+1
+as per maint schedule  tech  completed k mile service  drain engine oil and replace oil filter oring seal drain plug washer and top of with l added fuel additive completed vehicle inspection and top of $T$ as needed performed  mile test drive and set tire pressures  clock and recheck oil level reset service interval and stamp service book
+fluid levels
+1
+as per maint schedule  tech  completed k mile service  drain engine oil and replace $T$ oring seal drain plug washer and top of with l added fuel additive completed vehicle inspection and top of fluid levels as needed performed  mile test drive and set tire pressures  clock and recheck oil level reset service interval and stamp service book
+oil filter
+1
+as per maint schedule  tech  completed k mile service  drain engine oil and replace oil filter oring seal drain plug washer and top of with l added fuel additive completed vehicle $T$ and top of fluid levels as needed performed  mile test drive and set tire pressures  clock and recheck oil level reset service interval and stamp service book
+inspection
+1
+loose tape tech  check and adjust passengers front door $T$ tape
+panel
+1
+loose tape tech  check and adjust passengers front $T$ panel tape
+door
+1
+required tech  set $T$ pressures and torque wheels to specs
+tire
+1
+front $T$ are at mm and rear brakes are a t mm lf front tire is at mm rf tire is at mm and lr mm and rr mm
+brakes
+1
+front brakes are at mm and rear $T$ are a t mm lf front tire is at mm rf tire is at mm and lr mm and rr mm
+brakes
+1
+per pcna  completed ah campaign  replace filter flange of $T$ pump scope 
+fuel
+1
+per customers request  completed $T$ per customers request
+multipoint inspection
+1
+per customers request  completed multipoint $T$ per customers request
+inspection
+1
+maintenance  drained and refilled $T$ with mobil  w full synthetic oil replaced filter seal and drain plug screw front brake pads have mm remaining rear brake pads have mm remaining left front tire has mm of thread remaining right front tire has mm of tread remaining left rear tire has mm of tread remaining right rear tire has mm of tread remaining adjusted fluid levels reset service indicator road test ok tires are  years old and have cracks and dry rot recommend replacing tires
+engine oil
+1
+maintenance  drained and refilled engine oil with mobil  w full synthetic oil replaced filter seal and drain plug screw front brake pads have mm remaining rear brake pads have mm remaining left front tire has mm of thread remaining right front tire has mm of tread remaining left rear tire has mm of tread remaining right rear tire has mm of tread remaining adjusted $T$ reset service indicator road test ok tires are  years old and have cracks and dry rot recommend replacing tires
+fluid levels
+1
+maintenance  drained and refilled engine oil with mobil  w full synthetic oil replaced filter seal and drain plug screw front brake pads have mm remaining rear brake pads have mm remaining left front tire has mm of thread remaining right front tire has mm of tread remaining left rear tire has mm of tread remaining right rear tire has mm of tread remaining adjusted fluid levels reset service indicator road test ok tires are  years old and have cracks and dry rot recommend $T$
+replacing tires
+0
+maintenance  drained and refilled engine oil with mobil  w full synthetic oil replaced filter seal and drain plug screw front brake pads have mm remaining rear $T$ have mm remaining left front tire has mm of thread remaining right front tire has mm of tread remaining left rear tire has mm of tread remaining right rear tire has mm of tread remaining adjusted fluid levels reset service indicator road test ok tires are  years old and have cracks and dry rot recommend replacing tires
+brake pads
+1
+maintenance  drained and refilled engine oil with mobil  w full synthetic oil replaced filter seal and drain plug screw front $T$ have mm remaining rear brake pads have mm remaining left front tire has mm of thread remaining right front tire has mm of tread remaining left rear tire has mm of tread remaining right rear tire has mm of tread remaining adjusted fluid levels reset service indicator road test ok tires are  years old and have cracks and dry rot recommend replacing tires
+brake pads
+1
+replace both $T$ from remote
+batt
+0
+remove and replace $T$
+exhaust
+0
+client returning vehicle  to finalize $T$ install
+muffler
+1
+perform $T$ customer needs all  tires wires showing under inspection found batter weak
+mpi
+1
+perform mpi customer needs all  $T$ wires showing under inspection found batter weak
+tires
+0
+perform mpi customer needs all  tires wires showing under inspection found $T$ weak
+batt
+0
+set $T$ pressures front  psi rear  psi
+tire
+1
+performed $T$ front brake pads at mm remaining rear brake pads at mm remaining left front tire has mm of thread remaining right front tire has mm of tread remaining left rear tire has mm of tread remaining right rear tire has mm of tread remaining adjusted fluid levels road test ok
+multipoint inspection
+1
+performed multipoint $T$ front brake pads at mm remaining rear brake pads at mm remaining left front tire has mm of thread remaining right front tire has mm of tread remaining left rear tire has mm of tread remaining right rear tire has mm of tread remaining adjusted fluid levels road test ok
+inspection
+1
+performed multipoint inspection front $T$ at mm remaining rear brake pads at mm remaining left front tire has mm of thread remaining right front tire has mm of tread remaining left rear tire has mm of tread remaining right rear tire has mm of tread remaining adjusted fluid levels road test ok
+brake pads
+1
+performed multipoint inspection front brake pads at mm remaining rear $T$ at mm remaining left front tire has mm of thread remaining right front tire has mm of tread remaining left rear tire has mm of tread remaining right rear tire has mm of tread remaining adjusted fluid levels road test ok
+brake pads
+1
+performed multipoint inspection front brake pads at mm remaining rear brake pads at mm remaining left $T$ has mm of thread remaining right front tire has mm of tread remaining left rear tire has mm of tread remaining right rear tire has mm of tread remaining adjusted fluid levels road test ok
+front tire
+1
+performed multipoint inspection front brake pads at mm remaining rear brake pads at mm remaining left front tire has mm of thread remaining right front tire has mm of tread remaining left $T$ has mm of tread remaining right rear tire has mm of tread remaining adjusted fluid levels road test ok
+rear tire
+1
+performed multipoint inspection front brake pads at mm remaining rear brake pads at mm remaining left front tire has mm of thread remaining right front tire has mm of tread remaining left rear tire has mm of tread remaining right rear tire has mm of tread remaining adjusted $T$ road test ok
+fluid levels
+1
+removed left front wheel and found $T$ wearing out abnormal found rotor cutting into brake pad and resistance bracket loose and possible and shim no longer holding tension cause a metallic noise unable to verify if install correctly and if there after market brakes cust decline replacement of front pads and rotors bracket
+brake pad
+0
+removed left front wheel and found brake pad wearing out abnormal found rotor cutting into brake pad and resistance bracket loose and possible and shim no longer holding tension cause a metallic noise unable to verify if install correctly and if there after market brakes cust decline replacement of front $T$ and rotors bracket
+pads
+0
+removed left front wheel and found brake pad wearing out abnormal found rotor cutting into brake pad and resistance bracket loose and possible and shim no longer holding tension cause a metallic noise unable to verify if install correctly and if there after market brakes cust decline replacement of front pads and $T$ bracket
+rotors
+0
+set $T$ pressures front  psi rear  psi
+tire
+1
+performed $T$ front brake pads at mm remaining rear brake pads at mm remaining left front tire has mm of thread remaining right front tire has mm of tread remaining left rear tire has mm of tread remaining right rear tire has mm of tread remaining adjusted fluid levels road test ok recommend rear tires recommend two rear tires alignment
+multipoint inspection
+1
+performed multipoint $T$ front brake pads at mm remaining rear brake pads at mm remaining left front tire has mm of thread remaining right front tire has mm of tread remaining left rear tire has mm of tread remaining right rear tire has mm of tread remaining adjusted fluid levels road test ok recommend rear tires recommend two rear tires alignment
+inspection
+1
+performed multipoint inspection front brake pads at mm remaining rear brake pads at mm remaining left front tire has mm of thread remaining right front tire has mm of tread remaining left rear tire has mm of tread remaining right rear tire has mm of tread remaining adjusted $T$ road test ok recommend rear tires recommend two rear tires
+fluid levels
+1
+performed multipoint inspection front brake pads at mm remaining rear brake pads at mm remaining left front tire has mm of thread remaining right front tire has mm of tread remaining left rear tire has mm of tread remaining right rear tire has mm of tread remaining adjusted fluid levels road test ok recommend rear tires recommend two $T$ alignment
+rear tires
+0
+performed multipoint inspection front brake pads at mm remaining rear brake pads at mm remaining left front tire has mm of thread remaining right front tire has mm of tread remaining left rear tire has mm of tread remaining right rear tire has mm of tread remaining adjusted fluid levels road test ok recommend rear tires recommend two rear tires $T$
+alignment
+0
+set $T$ pressures front  psi rear  psi
+tire
+1
+front tires at mm rear tires at mm set front and rear tire pressures to factory spec as indicated on sticker on inside of front hood recommend replacement of all  $T$ and alignment be performed
+tires
+0
+front tires at mm rear tires at mm set front and rear tire pressures to factory spec as indicated on sticker on inside of front hood recommend replacement of all  tires and $T$ be performed
+alignment
+0
+$T$ at mm rear tires at mm set front and rear tire pressures to factory spec as indicated on sticker on inside of front hood recommend replacement of all  tires and alignment be performed
+front tires
+1
+front tires at mm rear tires at mm set front and $T$ pressures to factory spec as indicated on sticker on inside of front hood recommend replacement of all  tires and alignment be performed
+rear tires
+1
+$T$ service complete change engine oil and filter top up fluids complete visual inspection front brakes at mm until wear indicators rear brakes at mm until wear indicators front tires at mm rear tires at mm
+oil change
+1
+oil change service complete change $T$ and filter top up fluids complete visual inspection front brakes at mm until wear indicators rear brakes at mm until wear indicators front tires at mm rear tires at mm
+engine oil
+1
+oil change service complete change engine oil and filter top up fluids complete $T$ front brakes at mm until wear indicators rear brakes at mm until wear indicators front tires at mm rear tires at mm
+visual inspection
+1
+oil change service complete change engine $T$ top up fluids complete visual inspection front brakes at mm until wear indicators rear brakes at mm until wear indicators front tires at mm rear tires at mm
+oil and filter
+1
+complete niello porsche $T$ front brakes at mm until wear indicators rear brakes at mm until wear indicators front tires at mm rear tires at mm all fluids at correct levels battery checks good found the following concerns during inspection recommend replacement of all  tires and alignment be performed as general maintenance oil fill tube is leaking oil and oil leaks onto ground when filling oil recommend replacement service history for major service brake fluid service and air bag service is past due no other immediate concerns found at this time
+multipoint inspection
+1
+complete niello porsche multipoint inspection front brakes at mm until wear indicators rear brakes at mm until wear indicators front tires at mm rear tires at mm all fluids at correct levels battery checks good found the following concerns during inspection recommend replacement of all  $T$ and alignment be performed as general maintenance oil fill tube is leaking oil and oil leaks onto ground when filling oil recommend replacement service history for major service brake fluid service and air bag service is past due no other immediate concerns found at this time
+tires
+0
+complete niello porsche multipoint inspection front brakes at mm until wear indicators rear brakes at mm until wear indicators front tires at mm rear tires at mm all fluids at correct levels battery checks good found the following concerns during inspection recommend replacement of all  tires and $T$ be performed as general maintenance oil fill tube is leaking oil and oil leaks onto ground when filling oil recommend replacement service history for major service brake fluid service and air bag service is past due no other immediate concerns found at this time
+alignment
+0
+complete niello porsche multipoint inspection front brakes at mm until wear indicators rear brakes at mm until wear indicators front tires at mm rear tires at mm all fluids at correct levels battery checks good found the following concerns during inspection recommend replacement of all  tires and alignment be performed as general maintenance oil fill tube is leaking oil and $T$ onto ground when filling oil recommend replacement service history for major service brake fluid service and air bag service is past due no other immediate concerns found at this time
+oil leaks
+0
+complete niello porsche multipoint inspection front brakes at mm until wear indicators rear brakes at mm until wear indicators front tires at mm rear tires at mm all fluids at correct levels battery checks good found the following concerns during inspection recommend replacement of all  tires and alignment be performed as general maintenance oil fill tube is leaking oil and oil leaks onto ground when filling oil recommend replacement service history for major service $T$ service and air bag service is past due no other immediate concerns found at this time
+brake fluid
+0
+complete niello porsche multipoint inspection front brakes at mm until wear indicators rear brakes at mm until wear indicators front tires at mm rear tires at mm all fluids at correct levels battery checks good found the following concerns during inspection recommend replacement of all  tires and alignment be performed as general maintenance oil fill tube is leaking oil and oil leaks onto ground when filling oil recommend replacement service history for major service brake fluid service and $T$ service is past due no other immediate concerns found at this time
+air bag
+0
+complete niello porsche multipoint $T$ front brakes at mm until wear indicators rear brakes at mm until wear indicators front tires at mm rear tires at mm all fluids at correct levels battery checks good found the following concerns during inspection recommend replacement of all  tires and alignment be performed as general maintenance oil fill tube is leaking oil and oil leaks onto ground when filling oil recommend replacement service history for major service brake fluid service and air bag service is past due no other immediate concerns found at this time
+inspection
+1
+front tires at mm rear tires at mm set front and rear tire pressures to factory spec as indicated on sticker on inside of front hood recommend replacement of all  $T$ and alignment be performed
+tires
+0
+front tires at mm rear tires at mm set front and rear tire pressures to factory spec as indicated on sticker on inside of front hood recommend replacement of all  tires and $T$ be performed
+alignment
+0
+wsabfef contact preferred call james with $T$ results
+inspection
+1
+cdw  client declined removal of bumper at this time
+bumper
+-1
+cna auth  for right front $T$ p l t total amount payable fax for payment to
+tire replacement
+1
+cp  tu road force $T$ wheels and tires all tires were out of balance and roadforcing was necessary as tires exceeded limits all tires were brought to under  lbs of roadforce and balanced
+balance
+1
+cp  tu road force balance wheels and tires all $T$ were out of balance and roadforcing was necessary as tires exceeded limits all tires were brought to under  lbs of roadforce and balanced
+tires
+1
+recommend removal and realignment of front $T$  includes inspection for possible underlying damage
+bumper
+0
+recommend removal and realignment of front bumper  includes $T$ for possible underlying damage
+inspection
+0
+cp  tu performed $T$
+state inspection
+1
+cp  tu performed k $T$ service
+oil change
+1
+tire pol  tu old tire dot fdkvpja new tire dot fdkvpja right front tire has bubble in outer sidewall replaced right $T$ per tire policy
+front tire
+1
+performed interm service $T$ and filter change engine air filter replacement cabin air pollen filter replacement brake fluid replacement drain clean wiper blades replacement brake pad disc and hose inspection steering gear and axle inspection radiator and air inlet inspection body and sunroof drain cleaning and inspection coolant and coolant hose inspection windshield wiper and washer inspection tire condition and pressure inspection headlights horn and other electrical system inspection battery condition inspection perform full multipoint inspection check for any updates
+engine oil
+1
+performed interm service engine $T$ change engine air filter replacement cabin air pollen filter replacement brake fluid replacement drain clean wiper blades replacement brake pad disc and hose inspection steering gear and axle inspection radiator and air inlet inspection body and sunroof drain cleaning and inspection coolant and coolant hose inspection windshield wiper and washer inspection tire condition and pressure inspection headlights horn and other electrical system inspection battery condition inspection perform full multipoint inspection check for any updates
+oil and filter
+1
+performed interm service engine oil and filter change engine $T$ replacement cabin air pollen filter replacement brake fluid replacement drain clean wiper blades replacement brake pad disc and hose inspection steering gear and axle inspection radiator and air inlet inspection body and sunroof drain cleaning and inspection coolant and coolant hose inspection windshield wiper and washer inspection tire condition and pressure inspection headlights horn and other electrical system inspection battery condition inspection perform full multipoint inspection check for any updates
+air filter
+1
+performed interm service engine oil and filter change engine air filter replacement $T$ pollen filter replacement brake fluid replacement drain clean wiper blades replacement brake pad disc and hose inspection steering gear and axle inspection radiator and air inlet inspection body and sunroof drain cleaning and inspection coolant and coolant hose inspection windshield wiper and washer inspection tire condition and pressure inspection headlights horn and other electrical system inspection battery condition inspection perform full multipoint inspection check for any updates
+cabin air
+1
+performed interm service engine oil and filter change engine air filter replacement cabin air pollen filter replacement $T$ replacement drain clean wiper blades replacement brake pad disc and hose inspection steering gear and axle inspection radiator and air inlet inspection body and sunroof drain cleaning and inspection coolant and coolant hose inspection windshield wiper and washer inspection tire condition and pressure inspection headlights horn and other electrical system inspection battery condition inspection perform full multipoint inspection check for any updates
+brake fluid
+1
+performed interm service engine oil and filter change engine air filter replacement cabin air pollen filter replacement brake fluid replacement drain clean $T$ replacement brake pad disc and hose inspection steering gear and axle inspection radiator and air inlet inspection body and sunroof drain cleaning and inspection coolant and coolant hose inspection windshield wiper and washer inspection tire condition and pressure inspection headlights horn and other electrical system inspection battery condition inspection perform full multipoint inspection check for any updates
+wiper blades
+1
+performed interm service engine oil and filter change engine air filter replacement cabin air pollen filter replacement brake fluid replacement drain clean wiper blades replacement $T$ disc and hose inspection steering gear and axle inspection radiator and air inlet inspection body and sunroof drain cleaning and inspection coolant and coolant hose inspection windshield wiper and washer inspection tire condition and pressure inspection headlights horn and other electrical system inspection battery condition inspection perform full multipoint inspection check for any updates
+brake pad
+1
+performed interm service engine oil and filter change engine air filter replacement cabin air pollen filter replacement brake fluid replacement drain clean wiper blades replacement brake pad disc and $T$ inspection steering gear and axle inspection radiator and air inlet inspection body and sunroof drain cleaning and inspection coolant and coolant hose inspection windshield wiper and washer inspection tire condition and pressure inspection headlights horn and other electrical system inspection battery condition inspection perform full multipoint inspection check for any updates
+hose
+1
+performed interm service engine oil and filter change engine air filter replacement cabin air pollen filter replacement brake fluid replacement drain clean wiper blades replacement brake pad disc and hose inspection $T$ gear and axle inspection radiator and air inlet inspection body and sunroof drain cleaning and inspection coolant and coolant hose inspection windshield wiper and washer inspection tire condition and pressure inspection headlights horn and other electrical system inspection battery condition inspection perform full multipoint inspection check for any updates
+steering
+1
+performed interm service engine oil and filter change engine air filter replacement cabin air pollen filter replacement brake fluid replacement drain clean wiper blades replacement brake pad disc and hose inspection steering gear and axle inspection $T$ and air inlet inspection body and sunroof drain cleaning and inspection coolant and coolant hose inspection windshield wiper and washer inspection tire condition and pressure inspection headlights horn and other electrical system inspection battery condition inspection perform full multipoint inspection check for any updates
+radiator
+1
+performed interm service engine oil and filter change engine air filter replacement cabin air pollen filter replacement brake fluid replacement drain clean wiper blades replacement brake pad disc and hose inspection steering gear and axle inspection radiator and air inlet inspection body and sunroof drain cleaning and inspection $T$ and coolant hose inspection windshield wiper and washer inspection tire condition and pressure inspection headlights horn and other electrical system inspection battery condition inspection perform full multipoint inspection check for any updates
+coolant
+1
+performed interm service engine oil and filter change engine air filter replacement cabin air pollen filter replacement brake fluid replacement drain clean wiper blades replacement brake pad disc and hose inspection steering gear and axle inspection radiator and air inlet inspection body and sunroof drain cleaning and inspection coolant and coolant hose inspection windshield $T$ and washer inspection tire condition and pressure inspection headlights horn and other electrical system inspection battery condition inspection perform full multipoint inspection check for any updates
+wiper
+1
+performed interm service engine oil and filter change engine air filter replacement cabin air pollen filter replacement brake fluid replacement drain clean wiper blades replacement brake pad disc and hose inspection steering gear and axle inspection radiator and air inlet inspection body and sunroof drain cleaning and inspection coolant and coolant hose inspection windshield wiper and washer inspection tire condition and pressure inspection headlights horn and other $T$ system inspection battery condition inspection perform full multipoint inspection check for any updates
+electrical
+1
+performed interm service engine oil and filter change engine air filter replacement cabin air pollen filter replacement brake fluid replacement drain clean wiper blades replacement brake pad disc and hose inspection steering gear and axle inspection radiator and air inlet inspection body and sunroof drain cleaning and inspection coolant and coolant hose inspection windshield wiper and washer inspection tire condition and pressure inspection headlights horn and other electrical system inspection $T$ condition inspection perform full multipoint inspection check for any updates
+battery
+1
+performed interm service engine oil and filter change engine air filter replacement cabin air pollen filter replacement brake fluid replacement drain clean wiper blades replacement brake pad disc and hose inspection steering gear and axle inspection radiator and air inlet inspection body and sunroof drain cleaning and inspection coolant and coolant hose inspection windshield wiper and washer inspection tire condition and pressure inspection headlights horn and other electrical system inspection battery condition inspection perform full $T$ check for any updates
+multipoint inspection
+1
+performed interm service engine oil and filter change engine air filter replacement cabin air pollen filter replacement brake fluid replacement drain clean wiper blades replacement brake pad disc and hose inspection steering gear and $T$ inspection radiator and air inlet inspection body and sunroof drain cleaning and inspection coolant and coolant hose inspection windshield wiper and washer inspection tire condition and pressure inspection headlights horn and other electrical system inspection battery condition inspection perform full multipoint inspection check for any updates
+axle
+1
+test drove vehicle with customer vehicle is jerking when accellerating forward performed programming to $T$ case and test drove again issue is still there raised vehicle on lift and unplugged control unit test drove vehicle again jerking is not there anymore transfer case is at fault  part on order removed transfer case and installed updated unit with new vent line and bolts programmed transfer case and coded cleared all faults and test drove vehicle no jerking felt vehicle is driving as designed
+transfer
+1
+test drove vehicle with customer vehicle is jerking when accellerating forward performed programming to transfer case and test drove again issue is still there raised vehicle on lift and unplugged control unit test drove vehicle again jerking is not there anymore transfer case is at fault  part on order removed transfer case and installed updated unit with new vent line and bolts programmed $T$ case and coded cleared all faults and test drove vehicle no jerking felt vehicle is driving as designed
+transfer
+1
+test drove vehicle with customer vehicle is jerking when accellerating forward performed programming to transfer case and test drove again issue is still there raised vehicle on lift and unplugged control unit test drove vehicle again jerking is not there anymore transfer case is at fault  part on order removed transfer case and installed updated unit with new $T$ line and bolts programmed transfer case and coded cleared all faults and test drove vehicle no jerking felt vehicle is driving as designed
+vent
+1
+nysi performed nys $T$
+safety inspection
+1
+performed $T$ recommendations tire rotation due alignment due
+multipoint inspection
+1
+performed multipoint inspection recommendations $T$ due alignment due
+tire rotation
+0
+performed multipoint inspection recommendations tire rotation due $T$ due
+alignment
+0
+removed rear left and right $T$ due to punctures near sidewall tires were replaced with two of the same make model size and rating replaced and dynamically balanced tires set torque on wheels to factory recommended value set all tires to factory recommended pressure road tested vehicle good right rear old dot  xn b p  measurement mm right rear new dot  xn b p  measurement mm left rear old dot  xn b p  measurement mm left rear new dot  xn b p  measurement mm
+tires
+1
+removed rear left and right tires due to punctures near sidewall tires were replaced with two of the same make model size and rating replaced and dynamically $T$ tires set torque on wheels to factory recommended value set all tires to factory recommended pressure road tested vehicle good right rear old dot  xn b p  measurement mm right rear new dot  xn b p  measurement mm left rear old dot  xn b p  measurement mm left rear new dot  xn b p  measurement mm
+balance
+1
+performed $T$ front brake pads at mm remaining rear brake pads at mm remaining left front tire has mm of thread remaining right front tire has mm of tread remaining left rear tire has mm of tread remaining right rear tire has mm of tread remaining adjusted fluid levels road test ok recommend replacing both front tires due to uneven wear and thread damage four wheel alignment
+multipoint inspection
+1
+performed multipoint inspection front brake pads at mm remaining rear brake pads at mm remaining left front tire has mm of thread remaining right front tire has mm of tread remaining left rear tire has mm of tread remaining right rear tire has mm of tread remaining adjusted $T$ road test ok recommend replacing both front tires due to uneven wear and thread damage four wheel alignment
+fluid levels
+1
+performed multipoint inspection front brake pads at mm remaining rear brake pads at mm remaining left front tire has mm of thread remaining right front tire has mm of tread remaining left rear tire has mm of tread remaining right rear tire has mm of tread remaining adjusted fluid levels road test ok recommend replacing both $T$ due to uneven wear and thread damage four wheel alignment
+front tires
+0
+performed multipoint inspection front brake pads at mm remaining rear brake pads at mm remaining left front tire has mm of thread remaining right front tire has mm of tread remaining left rear tire has mm of tread remaining right rear tire has mm of tread remaining adjusted fluid levels road test ok recommend replacing both front tires due to uneven wear and thread damage four $T$
+wheel alignment
+0
+performed multipoint inspection front brake pads at mm remaining rear brake pads at mm remaining left front tire has mm of thread remaining right front tire has mm of tread remaining left rear tire has mm of tread remaining right rear tire has mm of tread remaining adjusted fluid levels road test ok recommend replacing both front tires due to uneven wear and thread damage four wheel $T$
+alignment
+0
+set $T$ pressures front  psi rear  psi
+tire
+1
+performed $T$ of front and rear suspension components and inspected engine compartment area including belts hose seals and gaskets checked interior cabimm remaining front tires have mm of tread rear tires have mm of tread remaining
+visual inspection
+1
+performed visual inspection of front and rear $T$ components and inspected engine compartment area including belts hose seals and gaskets checked interior cabimm remaining front tires have mm of tread rear tires have mm of tread remaining
+suspension
+1
+performed visual inspection of front and rear suspension components and inspected $T$ compartment area including belts hose seals and gaskets checked interior cabimm remaining front tires have mm of tread rear tires have mm of tread remaining
+engine
+1
+performed visual inspection of front and rear suspension components and inspected engine compartment area including $T$ hose seals and gaskets checked interior cabimm remaining front tires have mm of tread rear tires have mm of tread remaining
+belt
+1
+wsaeaeba customer requested a loaner creat ed    pm taken by bryce walters nail in right rear tire customer declines $T$ at this time
+tire replacement
+-1
+adjusted $T$ pressure to oem spec of f r
+tire
+1
+sw mr c will call in morning wit h decision on plugs amp $T$
+coils
+0
+annual service performed annual $T$
+service
+1
+annual $T$ performed annual service
+service
+1
+$T$ complete  tech noted power steering noise tech noted oil leak from engine need to clean and trace cause tech noted transmission slipping tech recommends a tire replacement
+point inspection
+1
+point inspection complete  tech noted power $T$ noise tech noted oil leak from engine need to clean and trace cause tech noted transmission slipping tech recommends a tire replacement
+steering
+0
+point inspection complete  tech noted power steering noise tech noted $T$ from engine need to clean and trace cause tech noted transmission slipping tech recommends a tire replacement
+oil leak
+0
+point inspection complete  tech noted power steering noise tech noted oil leak from engine need to clean and trace cause tech noted $T$ slipping tech recommends a tire replacement
+transmission
+0
+point inspection complete  tech noted power steering noise tech noted oil leak from engine need to clean and trace cause tech noted transmission slipping tech recommends a $T$
+tire replacement
+0
+fault trace general misfire codes recommend replacement of ignition coils  $T$ plugs customer advised and declined
+spark
+-1
+fault trace general misfire codes recommend replacement of ignition $T$  sparks plugs customer advised and declined
+coils
+-1
+service   $T$ did not see performed in history oil change is due right now body drains are still in the vehicle
+mile
+1
+service   miles did not see performed in history $T$ is due right now body drains are still in the vehicle
+oil change
+1
+service   miles did not see performed in history oil change is due right now $T$ drains are still in the vehicle
+body
+0
+perform $T$ service recommended every  years no history of the service
+brake fluid
+1
+replace $T$ drivers rear tire measured at  passenger rear tire measured at  pirelli pzero  n
+two tires
+1
+did not see history of spark plugs replaced price on $T$ torque arm boltsnuts
+spark plugs
+1
+did not see history of spark plugs replaced price on spark plugs torque $T$ boltsnuts
+arm
+1
+rear brakes at mm liight will come on soon rear tires below war bars will need soon $T$ on  estimate provided
+service light
+0
+rear brakes at mm liight will come on soon $T$ below war bars will need soon service light on  estimate provided
+rear tires
+0
+brake pads and rotors rear  replace rear $T$ are at mm at this time recommending replacing
+brakes
+0
+brake pads and $T$ rear  replace rear brakes are at mm at this time recommending replacing
+rotors
+0
+$T$ and rotors rear  replace rear brakes are at mm at this time recommending replacing
+brake pads
+0
+driver side front marker light bulb out recommend replacing marker light $T$
+bulb
+0
+driver side front marker light $T$ out recommend replacing marker light bulb
+bulb
+0
+removed $T$ replaced rear brake pads and rotors re installed wheels and road tested vehicle
+rear wheel
+1
+removed rear wheels replaced rear $T$ and rotors re installed wheels and road tested vehicle
+brake pads
+1
+removed rear wheels replaced rear brake pads and $T$ re installed wheels and road tested vehicle
+rotors
+1
+$T$ tires
+mount and balance
+1
+$T$ can not be repaired through pdr process due to location nicksscratches are not covered under contract client purchased
+dent
+-1
+replaced rear $T$
+wiper blade
+1
+found front tires between nds recommend replacing $T$ on vehicle customer declined at this time
+front tires
+-1
+checked for faults and performed diagnostic procedure found $T$ box with internal failure replaced transfer box assembly and verify repair afterwards
+transfer
+1
+checked for faults and performed diagnostic procedure found transfer box with internal failure replaced $T$ box assembly and verify repair afterwards
+transfer
+1
+checked for faults and performed diagnostic procedure found transfer box with internal failure replaced transfer $T$ assembly and verify repair afterwards
+box
+1
+completed  year $T$ including engine oil and filter service pollen filter top fluids rubber care treatment on seals clean water drains clean radiators oil drain plug tire sealant engine air filter key battery pdk oil and filter service brake flush obd check and inspection
+mile service
+1
+completed  year mile service including $T$ and filter service pollen filter top fluids rubber care treatment on seals clean water drains clean radiators oil drain plug tire sealant engine air filter key battery pdk oil and filter service brake flush obd check and inspection
+engine oil
+1
+completed  year mile service including engine $T$ service pollen filter top fluids rubber care treatment on seals clean water drains clean radiators oil drain plug tire sealant engine air filter key battery pdk oil and filter service brake flush obd check and inspection
+oil and filter
+1
+completed  year mile service including engine oil and filter service $T$ filter top fluids rubber care treatment on seals clean water drains clean radiators oil drain plug tire sealant engine air filter key battery pdk oil and filter service brake flush obd check and inspection
+pollen
+1
+completed  year mile service including engine oil and filter service pollen filter top fluids rubber care treatment on seals clean water drains clean radiators oil drain plug tire sealant engine $T$ key battery pdk oil and filter service brake flush obd check and inspection
+air filter
+1
+completed  year mile service including engine oil and filter service pollen filter top fluids rubber care treatment on seals clean water drains clean radiators oil drain plug tire sealant engine air filter key battery $T$ oil and filter service brake flush obd check and inspection
+pdk
+1
+completed  year mile service including engine oil and filter service pollen filter top fluids rubber care treatment on seals clean water drains clean radiators oil drain plug tire sealant engine air filter key battery pdk oil and filter service $T$ obd check and inspection
+brake flush
+1
+completed  year mile service including engine oil and filter service pollen filter top fluids rubber care treatment on seals clean water drains clean radiators oil drain plug tire sealant engine air filter key $T$ pdk oil and filter service brake flush obd check and inspection
+battery
+1
+front tires between mm recommend replacing $T$ michelin lattitude hp 
+front tires
+1
+hrs replaced rear $T$ rotors sensors
+brake pads
+1
+hrs replaced rear brake pads $T$ sensors
+rotors
+1
+hrs replaced rear brake pads rotors $T$
+sensors
+1
+nc customer declined $T$
+major service
+-1
+removed $T$ housing drive belt was removed and replaced with new drive belt
+air cleaner
+1
+removed air cleaner housing drive belt was removed and replaced with new drive $T$
+belt
+1
+removed air cleaner housing drive $T$ was removed and replaced with new drive belt
+belt
+1
+completed $T$ found rear tires nds found wiper blades streaking recommended replacing rear tires and wiper blades at this time customer deferred recommendations
+inspection
+1
+completed inspection found rear tires nds found wiper blades streaking recommended replacing $T$ and wiper blades at this time customer deferred recommendations
+rear tires
+-1
+completed inspection found rear tires nds found wiper blades streaking recommended replacing rear tires and $T$ at this time customer deferred recommendations
+wiper blades
+-1
+technician performed and completed  year $T$
+mile
+1
+intermediate $T$
+maintenance service
+1
+changed $T$ set oil level reset service light for k service completed and confirmed in cluster
+oil and filter
+1
+changed oil and filter set oil level reset $T$ for k service completed and confirmed in cluster
+service light
+1
+mobil one w or w $T$ change service reset oil change reminder light includes complimentary multipoint inspectionmulti point inspection  complimentaryperform walk around vehicle with customerclient does not need a loaner at this timepatchplug tire
+oil and filter
+1
+mobil one w or w oil and filter change service reset $T$ reminder light includes complimentary multipoint inspectionmulti point inspection  complimentaryperform walk around vehicle with customerclient does not need a loaner at this timepatchplug tire
+oil change
+1
+mobil one w or w oil and filter change service reset oil change reminder light includes complimentary $T$ multi point inspection  complimentaryperform walk around vehicle with customerclient does not need a loaner at this timepatchplug tire
+multipoint inspection
+1
+mobil one w or w oil and filter change service reset oil change reminder light includes complimentary multipoint inspectionmulti point inspection  complimentaryperform walk around vehicle with customerclient does not need a loaner at this time patch plug $T$
+tire
+1
+repaired passenger $T$ patch plug center of tire where a nail had punctured confirmed with soapy water before repairing
+rear tire
+1
+right rear tire has a nail in the center but tread is near wear bars recommend replacing $T$ but if customer requests it should be able to be repaired right rear tire has a nail in the center but tread is near wear bars recommend replacing rear tires but if customer requests it should be able to be repaired
+rear tires
+0
+right rear tire has a nail in the center but tread is near wear bars recommend replacing rear tires but if customer requests it should be able to be repaired right rear tire has a nail in the center but tread is near wear bars recommend replacing $T$ but if customer requests it should be able to be repaired
+rear tires
+0
+endurance extended warranty authorization number c authorized credit card payment amount fax ok by phone gary cooper ok to replace faulty $T$ and repair ac customer portion
+battery
+0
+endurance extended warranty authorization number c authorized credit card payment amount fax ok by phone gary cooper ok to replace faulty batter and repair $T$ customer portion
+ac
+0
+customer declined to replace right $T$ at this time
+rear tire
+-1
+drained $T$ system removed front bumper cover loosened radiator replaced ac condenser reinstalled in reverse order filled ac system
+ac
+1
+drained ac system removed front $T$ cover loosened radiator replaced ac condenser reinstalled in reverse order filled ac system
+bumper
+1
+drained ac system removed front bumper cover loosened $T$ replaced ac condenser reinstalled in reverse order filled ac system
+radiator
+1
+drained ac system removed front bumper cover loosened radiator replaced ac condenser reinstalled in reverse order filled $T$ system
+ac
+1
+drained ac system removed front bumper cover loosened radiator replaced $T$ condenser reinstalled in reverse order filled ac system
+ac
+1
+completed world class $T$
+inspection
+1
+installed customer supplied $T$
+battery
+1
+recommend front and rear $T$ soon
+brake pads
+0
+check top off all fluids pls note front and rear $T$ needed soon advised client
+brake pads
+0
+performed annual maintenance including $T$ service checked and adjusted fluid levels and tire pressure performed all necessary inspections and adjustments checked and cleaned out all body drains
+oil and filter
+1
+performed annual maintenance including oil and filter service checked and adjusted $T$ and tire pressure performed all necessary inspections and adjustments checked and cleaned out all body drains
+fluid levels
+1
+performed annual maintenance including oil and filter service checked and adjusted fluid levels and tire pressure performed all necessary $T$ and adjustments checked and cleaned out all body drains
+inspection
+1
+performed annual maintenance including oil and filter service checked and adjusted fluid levels and tire pressure performed all necessary inspections and adjustments checked and cleaned out all $T$ drains
+body
+1
+$T$ right rear tire
+mount and balance
+1
+perform wf   replacing tank $T$ diagnosis module
+leakage
+0
+replace front and rear $T$ only as per customer  done
+pads
+1
+lof only $T$ light was reset in need of interm service and major service    mile   year maintenance
+lof
+1
+lof only lof light was reset in need of interm service and $T$    mile   year maintenance
+major service
+1
+replace ls wwasher $T$ in hood
+hose
+0
+performed $T$ recommendations recheck brakes and tires declined major
+multipoint inspection
+1
+performed multipoint inspection recommendations recheck $T$ and tires declined major
+brakes
+-1
+performed multipoint inspection recommendations recheck brakes and $T$ declined major
+tires
+-1
+performed val found dtc for vacuum $T$ inspected engine vacuum found engine vacuum at switch over valve not properly fittted  resecured cleared dtc no dtc present
+leak
+1
+performed val found dtc for vacuum leak inspected engine vacuum found $T$ vacuum at switch over valve not properly fittted  resecured cleared dtc no dtc present
+engine
+1
+performed val found dtc for vacuum leak inspected $T$ vacuum found engine vacuum at switch over valve not properly fittted  resecured cleared dtc no dtc present
+engine
+1
+performed $T$ and filter service top fluids reset oil change reminder no draining cleaning performed
+oil change
+1
+thank you for $T$ at porsche of silver spring
+service
+1
+confirmed vehicle hesitates while accelerating performed ti sy  for transfer case diag vehicle needs $T$ case replaced rr transfer case and install vent line now ok
+transfer
+0
+confirmed vehicle hesitates while accelerating performed ti sy  for transfer case diag vehicle needs transfer case replaced rr transfer case and install $T$ line now ok
+vent
+1
+confirmed vehicle hesitates while accelerating performed ti sy  for transfer case diag vehicle needs transfer case replaced rr $T$ case and install vent line now ok
+1
+at first could not hear any abnormal noises after about  minutes i was able to confirm the front right mid range door speaker has some static right front mid range door $T$ needs replaced replaced speaker now ok
+speaker
+0
+at first could not hear any abnormal noises after about  minutes i was able to confirm the front right mid range door speaker has some static right front mid range door speaker needs replaced replaced $T$ now ok
+speaker
+1
+$T$ was completed however major service bf due noted rr tire has nailvery slight leak both rear tires mmboth front tires mmchoppy recommend replacing all tires and performing alignment
+oil change
+1
+oil change was completed however major servicebf due noted rr tire has nailvery slight leak both rear tires mmboth front tires mmchoppy recommend replacing all $T$ and performing alignment
+tires
+0
+oil change was completed however major servicebf due noted rr tire has nailvery slight leak both rear tires mmboth front tires mmchoppy recommend replacing all tires and performing $T$
+alignment
+0
+oil change was completed however major servicebf due noted rr tire has nailvery slight $T$ both rear tires mmboth front tires mmchoppy recommend replacing all tires and performing alignment
+leak
+0
+perform $T$
+wheel alignment
+1
+tires and wheels $T$ goodyear eagle ls n 
+mount and balance
+1
+worn front upper control $T$ and sway bar bushings and alignment
+arm
+0
+worn front $T$ and sway bar bushings and alignment
+upper control arm
+0
+worn front upper control arms and $T$ bushings and alignment
+sway bar
+0
+worn front upper control arms and sway bar $T$ and alignment
+bushings
+0
+worn front upper control arms and sway bar bushings and $T$
+alignment
+0
+worn front upper $T$ and sway bar bushings and alignment
+control arm
+0
+worn front upper control arms and sway $T$ bushings and alignment
+bar
+0
+customer was advised car ready for pu   note customer declined front left and right wishbone control $T$  repl swaybar bushings align  declined at this time 
+arm
+-1
+customer was advised car ready for pu   note customer declined front left and right wishbone control arm  repl $T$ bushings align  declined at this time 
+swaybar
+-1
+customer was advised car ready for pu   note customer declined front left and right wi shbone contro trol arms  repl swa y bar bushins $T$  declined at this time 
+align
+-1
+confirmed found active fault for major tank vent $T$ p cleared coded ran vacuum test found vent valve intermittently getting stuck recommend rreplace tank vent valve comp
+leak
+0
+confirmed found active fault for major tank vent leak p cleared coded ran vacuum test found $T$ valve intermittently getting stuck recommend rreplace tank vent valve comp
+vent
+0
+confirmed found active fault for major tank vent leak p cleared coded ran vacuum test found vent valve intermittently getting stuck recommend rreplace tank $T$ valve comp
+vent
+0
+performed $T$ as per checklist comp
+mpi
+1
+set $T$ pressures fvornt   torque ftlbs comp
+tire
+1
+found both $T$ worn to minimum spec recommend replace both front tires parts  pirelli pzero no
+front tires
+0
+found both front tires worn to minimum spec recommend replace both $T$ parts  pirelli pzero no
+front tires
+0
+workshop campaign wh complete reworked $T$ fan housing and replaced pressure tube per workshop instructions scope
+cooling
+1
+$T$ k complete
+psmp
+1
+$T$ complete
+brake flush
+1
+$T$ front pads mm rear mm front tires mm rear mm battery v rec replace rear tires clock seconds hand missing wiper jets cloggedcleaned right front wiper jetsok
+mpi
+1
+mpi front pads mm rear mm front tires mm rear mm battery v rec replace $T$ clock seconds hand missing wiper jets cloggedcleaned right front wiper jetsok
+rear tires
+0
+mpi front pads mm rear mm front tires mm rear mm battery v rec replace rear tires $T$ seconds hand missing wiper jets cloggedcleaned right front wiper jetsok
+clock
+0
+mpi front pads mm rear mm front tires mm rear mm battery v rec replace rear tires clock seconds hand missing $T$ jets cloggedcleaned right front wiper jetsok
+wiper
+0
+clock missing seconds hand  clock missing seconds hand created val scanned faults removed and replaced $T$ cleared faults customer concern no longer present
+clock
+1
+$T$ missing seconds hand  clock missing seconds hand created val scanned faults removed and replaced clock cleared faults customer concern no longer present
+clock
+0
+$T$  performed brake fluid flush and topped off fluids performed caliper bleed procedure torqued all fasteners test drove vehicle customer concern no longer present
+brake flush
+1
+brake flush  performed $T$ flush and topped off fluids performed caliper bleed procedure torqued all fasteners test drove vehicle customer concern no longer present
+brake fluid
+1
+brake flush  performed brake fluid flush and topped off fluids performed $T$ bleed procedure torqued all fasteners test drove vehicle customer concern no longer present
+caliper
+1
+$T$ pressures adjusted tire pressures to  psi front and  psi rear
+tire
+1
+k service  performed k $T$ torqued all fasteners topped off fluids reset service intervals test drove vehicle replaced pollen filter cleaned wiper jets customer concern no longer present
+service
+1
+k service  performed k service torqued all fasteners topped off fluids reset service intervals test drove vehicle replaced $T$ filter cleaned wiper jets customer concern no longer present
+pollen
+1
+k service  performed k service torqued all fasteners topped off fluids reset service intervals test drove vehicle replaced pollen filter cleaned $T$ jets customer concern no longer present
+wiper
+1
+tires rear  removed and replaced $T$ with dotnet jlr mounted and balanced torqued all fasteners test drove vehicle customer concern no longer present
+rear tires
+1
+$T$  removed and replaced rear tires with dotnet jlr mounted and balanced torqued all fasteners test drove vehicle customer concern no longer present
+rear tire
+1
+tires rear  removed and replaced rear tires with dotnet jlr $T$ and balanced torqued all fasteners test drove vehicle customer concern no longer present
+mounted
+1
+removed left rear wheel and removed brake $T$ and bracket unbolted ball joint end of lower control arm and removed tie rod end as wheel unbolted axle shaft at hub unscrewed top nuts of shock tower and removed wheel carrier assembly with shock absorber disassembled shock and installed spring and bump stop to new shock absorber re installed all components and torqued to manufacturer specifications performed test drive to verify repair but noticed vehicle will need alignment as vehicle drifts to the right
+caliper
+1
+removed left rear wheel and removed brake caliper and bracket unbolted $T$ end of lower control arm and removed tie rod end as wheel unbolted axle shaft at hub unscrewed top nuts of shock tower and removed wheel carrier assembly with shock absorber disassembled shock and installed spring and bump stop to new shock absorber re installed all components and torqued to manufacturer specifications performed test drive to verify repair but noticed vehicle will need alignment as vehicle drifts to the right
+ball joint
+1
+removed left rear wheel and removed brake caliper and bracket unbolted ball joint end of lower control arm and removed $T$ end as wheel unbolted axle shaft at hub unscrewed top nuts of shock tower and removed wheel carrier assembly with shock absorber disassembled shock and installed spring and bump stop to new shock absorber re installed all components and torqued to manufacturer specifications performed test drive to verify repair but noticed vehicle will need alignment as vehicle drifts to the right
+tie rod
+1
+removed left rear wheel and removed brake caliper and bracket unbolted ball joint end of lower control arm and removed tie rod end as wheel unbolted $T$ shaft at hub unscrewed top nuts of shock tower and removed wheel carrier assembly with shock absorber disassembled shock and installed spring and bump stop to new shock absorber re installed all components and torqued to manufacturer specifications performed test drive to verify repair but noticed vehicle will need alignment as vehicle drifts to the right
+axle
+1
+removed left rear wheel and removed brake caliper and bracket unbolted ball joint end of lower control arm and removed tie rod end as wheel unbolted axle shaft at hub unscrewed top nuts of $T$ tower and removed wheel carrier assembly with shock absorber disassembled shock and installed spring and bump stop to new shock absorber re installed all components and torqued to manufacturer specifications performed test drive to verify repair but noticed vehicle will need alignment as vehicle drifts to the right
+shock
+1
+removed left rear wheel and removed brake caliper and bracket unbolted ball joint end of lower control arm and removed tie rod end as wheel unbolted axle shaft at hub unscrewed top nuts of shock tower and removed wheel $T$ assembly with shock absorber disassembled shock and installed spring and bump stop to new shock absorber re installed all components and torqued to manufacturer specifications performed test drive to verify repair but noticed vehicle will need alignment as vehicle drifts to the right
+carrier
+1
+removed left rear wheel and removed brake caliper and bracket unbolted ball joint end of lower control arm and removed tie rod end as wheel unbolted axle shaft at hub unscrewed top nuts of shock tower and removed wheel carrier assembly with shock absorber disassembled shock and installed spring and bump stop to new $T$ absorber re installed all components and torqued to manufacturer specifications performed test drive to verify repair but noticed vehicle will need alignment as vehicle drifts to the right
+shock
+1
+removed left rear wheel and removed brake caliper and bracket unbolted ball joint end of lower control arm and removed tie rod end as wheel unbolted axle shaft at hub unscrewed top nuts of shock tower and removed wheel carrier assembly with shock absorber disassembled shock and installed spring and bump stop to new shock absorber re installed all components and torqued to manufacturer specifications performed test drive to verify repair but noticed vehicle will need $T$ as vehicle drifts to the right
+alignment
+0
+removed left rear wheel and removed brake caliper and bracket unbolted ball joint end of lower $T$ and removed tie rod end as wheel unbolted axle shaft at hub unscrewed top nuts of shock tower and removed wheel carrier assembly with shock absorber disassembled shock and installed spring and bump stop to new shock absorber re installed all components and torqued to manufacturer specifications performed test drive to verify repair but noticed vehicle will need alignment as vehicle drifts to the right
+control arm
+1
+carried  $T$ as requested put vehicle on alignment rack and mounted sensors carried out caster sweep and performed adjustments at rear then adjusted front printed results and attached to ro performed road test to verify repair
+wheel alignment
+1
+carried  wheel alignment as requested put vehicle on alignment rack and mounted $T$ carried out caster sweep and performed adjustments at rear then adjusted front printed results and attached to ro performed road test to verify repair
+sensor
+1
+adjusted $T$ pressures to manufacturer specification tread depth measurements frontmm mm rearmm mm
+tire
+1
+performed yearly $T$ and maintenance performed engine oil and filter change performed body drain and seal treatment verified proper oil level upon completion reset maintenance interval as applicable
+inspection
+1
+performed yearly inspection and maintenance performed $T$ and filter change performed body drain and seal treatment verified proper oil level upon completion reset maintenance interval as applicable
+engine oil
+1
+performed yearly inspection and maintenance performed engine $T$ change performed body drain and seal treatment verified proper oil level upon completion reset maintenance interval as applicable
+oil and filter
+1
+performed yearly inspection and maintenance performed engine oil and filter change performed $T$ drain and seal treatment verified proper oil level upon completion reset maintenance interval as applicable
+body
+1
+performed porsche $T$ rear tires are bellow wear limit recommend mounting and balancing  rear tires no other concerns found at this time see inspection sheet for details
+multipoint inspection
+1
+performed porsche multipoint inspection rear tires are bellow wear limit recommend $T$  rear tires no other concerns found at this time see inspection sheet for details
+mounting and balancing
+0
+performed porsche multipoint inspection rear tires are bellow wear limit recommend mounting and balancing  $T$ no other concerns found at this time see inspection sheet for details
+rear tires
+0
+performed porsche multipoint inspection $T$ are bellow wear limit recommend mounting and balancing  rear tires no other concerns found at this time see inspection sheet for details
+rear tires
+0
+verified customers concern upon inspection found the inside of the passenger $T$ has a dent causing the vibration
+front wheel
+0
+verified customers concern upon $T$ found the inside of the passenger front wheel has a dent causing the vibration
+inspection
+1
+verified customers concern upon inspection found the inside of the passenger front wheel has a $T$ causing the vibration
+dent
+0
+rear tires are between   to replace both $T$  to repair bent wheel
+rear tires
+0
+$T$ and balanced  rear tires found left rear wheel has bendwas able to balance at this time rec replace left rear wheel in future
+mounted
+1
+mounted and balanced  rear tires found left rear wheel has bendwas able to balance at this time rec replace left $T$ in future
+rear wheel
+0
+mounted and balanced  rear tires found left rear wheel has bendwas able to $T$ at this time rec replace left rear wheel in future
+balance
+1
+verified customer concern removed $T$ to find metal shavings internal failure in engine customer declined replacement of engine at this time customer will have vehicle towed out
+oil filter
+1
+verified customer concern removed oil filter to find metal shavings internal failure in $T$ customer declined replacement of engine at this time customer will have vehicle towed out
+engine
+-1
+verified customer concern removed oil filter to find metal shavings internal failure in engine customer declined replacement of $T$ at this time customer will have vehicle towed out
+engine
+-1
+replaced $T$
+wiper blades
+1
+found temp rising during road test performed val no codes temp $T$ not reading properly removed ls engine covers lock support fender liner and air cleaner replaced cooling temp sensor due to electrical fault checked and concern persisted checked coolant flow in lines and through valve under fender found okay checked vacuum supply at solenoid valve on the front of the engine going to water pump and found okay checked the solenoid itself and found stuck open faulty due to mechanical fault causing temp sensor not to work properly replaced valve reinstalled all items performed road test and found working in specs pn  apg
+sensor
+0
+found temp rising during road test performed val no codes temp sensor not reading properly removed ls engine covers lock support fender liner and air cleaner replaced cooling temp $T$ due to electrical fault checked and concern persisted checked coolant flow in lines and through valve under fender found okay checked vacuum supply at solenoid valve on the front of the engine going to water pump and found okay checked the solenoid itself and found stuck open faulty due to mechanical fault causing temp sensor not to work properly replaced valve reinstalled all items performed road test and found working in specs pn  apg
+sensor
+1
+found temp rising during road test performed val no codes temp sensor not reading properly removed ls engine covers lock support fender liner and $T$ replaced cooling temp sensor due to electrical fault checked and concern persisted checked coolant flow in lines and through valve under fender found okay checked vacuum supply at solenoid valve on the front of the engine going to water pump and found okay checked the solenoid itself and found stuck open faulty due to mechanical fault causing temp sensor not to work properly replaced valve reinstalled all items performed road test and found working in specs pn  apg
+air cleaner
+1
+found temp rising during road test performed val no codes temp sensor not reading properly removed ls engine covers lock support fender liner and air cleaner replaced cooling temp sensor due to electrical fault checked and concern persisted checked $T$ flow in lines and through valve under fender found okay checked vacuum supply at solenoid valve on the front of the engine going to water pump and found okay checked the solenoid itself and found stuck open faulty due to mechanical fault causing temp sensor not to work properly replaced valve reinstalled all items performed road test and found working in specs pn  apg
+coolant
+1
+found temp rising during road test performed val no codes temp sensor not reading properly removed ls engine covers lock support fender liner and air cleaner replaced cooling temp sensor due to $T$ fault checked and concern persisted checked coolant flow in lines and through valve under fender found okay checked vacuum supply at solenoid valve on the front of the engine going to water pump and found okay checked the solenoid itself and found stuck open faulty due to mechanical fault causing temp sensor not to work properly replaced valve reinstalled all items performed road test and found working in specs pn  apg
+electrical
+0
+performed val pressure tested system and checked for leaks found $T$ pump leaking due to mechanical fault drained coolant removed and replaced pump filled and bled coolant cleaned area pressure tested and found okay performed road test and found temperature not reading correctly see line f
+coolant
+0
+performed val pressure tested system and checked for leaks found coolant pump leaking due to mechanical fault drained $T$ removed and replaced pump filled and bled coolant cleaned area pressure tested and found okay performed road test and found temperature not reading correctly see line f
+coolant
+1
+performed val pressure tested system and checked for leaks found coolant pump leaking due to mechanical fault drained coolant removed and replaced pump filled and bled $T$ cleaned area pressure tested and found okay performed road test and found temperature not reading correctly see line f
+coolant
+1
+performed val pressure tested system and checked for $T$ found coolant pump leaking due to mechanical fault drained coolant removed and replaced pump filled and bled coolant cleaned area pressure tested and found okay performed road test and found temperature not reading correctly see line f
+leak
+0
+recommend $T$ est  each  rec front pads and rotors est
+rear tires
+0
+recommend rear tires est  each  rec front $T$ and rotors est
+pads
+0
+recommend rear tires est  each  rec front pads and $T$ est
+rotors
+0
+perofrmed $T$   drained and refilled engine oil with mobil  w full synthetic oil replaced filter seal and drain plug screw front brake pads have mm remaining rear brake pads have mm remaining left front tire has mm of thread remaining right front tire has mm of tread remaining left rear tire has mm of tread remaining right rear tire has mm of tread remaining adjusted fluid levels reset service indicator road test ok note during vehicle inspection found head lamp washer system not working and transmission support mount torn out recommend replace recommend  mile service with engine rive belt but customer decline the repairs at this time 
+oil change
+1
+perofrmed oil change   drained and refilled $T$ with mobil  w full synthetic oil replaced filter seal and drain plug screw front brake pads have mm remaining rear brake pads have mm remaining left front tire has mm of thread remaining right front tire has mm of tread remaining left rear tire has mm of tread remaining right rear tire has mm of tread remaining adjusted fluid levels reset service indicator road test ok note during vehicle inspection found head lamp washer system not working and transmission support mount torn out recommend replace recommend  mile service with engine rive belt but customer decline the repairs at this time 
+engine oil
+1
+perofrmed oil change   drained and refilled engine oil with mobil  w full synthetic oil replaced filter seal and drain plug screw front brake pads have mm remaining rear brake pads have mm remaining left front tire has mm of thread remaining right front tire has mm of tread remaining left rear tire has mm of tread remaining right rear tire has mm of tread remaining adjusted $T$ reset service indicator road test ok note during vehicle inspection found head lamp washer system not working and transmission support mount torn out recommend replace recommend  mile service with engine rive belt but customer decline the repairs at this time 
+fluid levels
+1
+perofrmed oil change   drained and refilled engine oil with mobil  w full synthetic oil replaced filter seal and drain plug screw front brake pads have mm remaining rear brake pads have mm remaining left front tire has mm of thread remaining right front tire has mm of tread remaining left rear tire has mm of tread remaining right rear tire has mm of tread remaining adjusted fluid levels reset service indicator road test ok note during vehicle inspection found head lamp washer system not working and $T$ support mount torn out recommend replace recommend  mile service with engine rive belt but customer decline the repairs at this time 
+transmission
+-1
+perofrmed oil change   drained and refilled engine oil with mobil  w full synthetic oil replaced filter seal and drain plug screw front brake pads have mm remaining rear brake pads have mm remaining left front tire has mm of thread remaining right front tire has mm of tread remaining left rear tire has mm of tread remaining right rear tire has mm of tread remaining adjusted fluid levels reset service indicator road test ok note during vehicle $T$ found head lamp washer system not working and transmission support mount torn out recommend replace recommend  mile service with engine rive belt but customer decline the repairs at this time 
+inspection
+1
+perofrmed oil change   drained and refilled engine oil with mobil  w full synthetic oil replaced filter seal and drain plug screw front brake pads have mm remaining rear brake pads have mm remaining left front tire has mm of thread remaining right front tire has mm of tread remaining left rear tire has mm of tread remaining right rear tire has mm of tread remaining adjusted fluid levels reset service indicator road test ok note during vehicle inspection found head lamp washer system not working and transmission support mount torn out recommend replace recommend  $T$ with engine rive belt but customer decline the repairs at this time 
+mile service
+-1
+perofrmed oil change   drained and refilled engine oil with mobil  w full synthetic oil replaced filter seal and drain plug screw front brake pads have mm remaining rear brake pads have mm remaining left front tire has mm of thread remaining right front tire has mm of tread remaining left rear tire has mm of tread remaining right rear tire has mm of tread remaining adjusted fluid levels reset service indicator road test ok note during vehicle inspection found head lamp washer system not working and transmission support mount torn out recommend replace recommend  mile service with engine rive $T$ but customer decline the repairs at this time 
+belt
+-1
+perofrmed oil change   drained and refilled engine oil with mobil  w full synthetic oil replaced filter seal and drain plug screw front brake pads have mm remaining rear brake pads have mm remaining left front tire has mm of thread remaining right front tire has mm of tread remaining left rear tire has mm of tread remaining right rear tire has mm of tread remaining adjusted fluid levels reset service indicator road test ok note during vehicle inspection found head lamp washer system not working and transmission support mount torn out recommend replace recommend  mile service with $T$ rive belt but customer decline the repairs at this time
+engine
+-1
+performed $T$ pressure as per pcna  set tire pressure front psi  rear psi 
+tire
+1
+performed tire pressure as per pcna  set $T$ pressure front psi  rear psi 
+tire
+1
+system analysis found no faults we test drove vehicle multiple times  total test drives in two to ten mile intervals and did not experience any problems or concerns i did find that the button on the outside door handle that is used to $T$ the doors when exiting the vehicle do not work although the entry and drive function does operate properly we prepared a estimate to fix the outside door handle and you may speak to the advisor about the details please keep in mind the the exterior locking button does not have a effect on whether or not or why the vehicle died at the stop light and the error messages appeared so at this point i am not sure what happened as we have not experienced this situation
+lock
+0
+system analysis found no faults we test drove vehicle multiple times  total test drives in two to ten mile intervals and did not experience any problems or concerns i did find that the button on the outside door handle that is used to lock the doors when exiting the vehicle do not work although the entry and drive function does operate properly we prepared a estimate to fix the outside $T$ handle and you may speak to the advisor about the details please keep in mind the the exterior locking button does not have a effect on whether or not or why the vehicle died at the stop light and the error messages appeared so at this point i am not sure what happened as we have not experienced this situation
+door
+0
+system analysis found no faults we test drove vehicle multiple times  total test drives in two to ten mile intervals and did not experience any problems or concerns i did find that the button on the outside door handle that is used to lock the doors when exiting the vehicle do not work although the entry and drive function does operate properly we prepared a estimate to fix the outside door $T$ and you may speak to the advisor about the details please keep in mind the the exterior locking button does not have a effect on whether or not or why the vehicle died at the stop light and the error messages appeared so at this point i am not sure what happened as we have not experienced this situation
+handle
+0
+recommended repairs due to the kessy button or the exterior $T$ buttons do not function properly recommend replace the outside door handles on both front doors we prepared a estimate for this service please speak to advisor for additional information
+lock
+0
+recommended repairs due to the kessy button or the exterior lock buttons do not function properly recommend replace the outside door $T$ on both front doors we prepared a estimate for this service please speak to advisor for additional information
+handles
+0
+recommended repairs due to the kessy button or the exterior lock buttons do not function properly recommend replace the outside $T$ handles on both front doors we prepared a estimate for this service please speak to advisor for additional information
+door
+0
+recommended $T$ due to the kessy button or the exterior lock buttons do not function properly recommend replace the outside door handles on both front doors we prepared a estimate for this service please speak to advisor for additional information
+repairs
+0
+recommended repairs due to the kessy button or the exterior lock buttons do not function properly recommend replace the outside door handles on both front $T$ we prepared a estimate for this service please speak to advisor for additional information
+door
+0
+performed porsche $T$ recommend replace all  tires due to age per porsche rear main seal and passengers side valve cover have slight oil leaks recommend inspect during next service
+multi point inspection
+1
+performed porsche multi $T$ recommend replace all  tires due to age per porsche rear main seal and passengers side valve cover have slight oil leaks recommend inspect during next service
+point inspection
+1
+performed porsche multi point $T$ recommend replace all  tires due to age per porsche rear main seal and passengers side valve cover have slight oil leaks recommend inspect during next service
+inspection
+1
+performed porsche multi point inspection recommend replace all  $T$ due to age per porsche rear main seal and passengers side valve cover have slight oil leaks recommend inspect during next service
+tires
+0
+performed porsche multi point inspection recommend replace all  tires due to age per porsche rear main seal and passengers side valve cover have slight $T$ recommend inspect during next service
+oil leaks
+0
+performed porsche multi point inspection recommend replace all  tires due to age per porsche rear main seal and passengers side valve cover have slight oil leaks recommend inspect during next $T$
+service
+0
+drained the $T$ and filled with new fluid
+trans
+1
+flushed the $T$ system with new fluid
+brake
+1
+inspected and cleaned surface with $T$ number m 
+engine
+1
+perform $T$ change oil filter check pollen filter  air filter clean out drains  radiators lube all seals  hinges top off all fluids check under body of vehicle for fluid leaks none found check brake and tire wear  set pressures check system for faults using piwis tester reset service reminder light check all lights note rear tires are at  mm  recommended tire replacement customer declined currently  zr  n
+maintenance service
+
+perform maintenance service change $T$ check pollen filter  air filter clean out drains  radiators lube all seals  hinges top off all fluids check under body of vehicle for fluid leaks none found check brake and tire wear  set pressures check system for faults using piwis tester reset service reminder light check all lights note rear tires are at  mm  recommended tire replacement customer declined currently  zr  n
+oil filter
+1
+perform maintenance service change oil  filter check $T$ filter  air filter clean out drains  radiators lube all seals  hinges top off all fluids check under body of vehicle for fluid leaks none found check brake and tire wear  set pressures check system for faults using piwis tester reset service reminder light check all lights note rear tires are at  mm  recommended tire replacement customer declined currently  zr  n
+pollen
+1
+perform maintenance service change oil  filter check pollen filter  $T$ clean out drains  radiators lube all seals  hinges top off all fluids check under body of vehicle for fluid leaks none found check brake and tire wear  set pressures check system for faults using piwis tester reset service reminder light check all lights note rear tires are at  mm  recommended tire replacement customer declined currently  zr  n
+air filter
+1
+perform maintenance service change oil  filter check pollen filter  air filter clean out drains  $t$ lube all seals  hinges top off all fluids check under body of vehicle for fluid leaks none found check brake and tire wear  set pressures check system for faults using piwis tester reset service reminder light check all lights note rear tires are at  mm  recommended tire replacement customer declined currently  zr  n
+radiator
+1
+perform maintenance service change oil  filter check pollen filter  air filter clean out drains  radiators lube all seals  hinges top off all fluids check under body of vehicle for fluid leaks none found check brake and tire wear  set pressures check system for faults using piwis tester reset service reminder light check all lights note rear tires are at  mm  recommended $T$ customer declined currently  zr  n
+tire replacement
+-1
+perform maintenance service change oil  filter check pollen filter  air filter clean out drains  radiators lube all seals  hinges top off all fluids check under body of vehicle for fluid leaks none found check $T$ and tire wear  set pressures check system for faults using piwis tester reset service reminder light check all lights note rear tires are at  mm  recommended tire replacement customer declined currently  zr  n
+brake
+0
+perform maintenance service change oil  filter check pollen filter  air filter clean out drains  radiators lube all seals  hinges top off all fluids check under body of vehicle for fluid leaks none found check brake and $T$ wear  set pressures check system for faults using piwis tester reset service reminder light check all lights note rear tires are at  mm  recommended tire replacement customer declined currently  zr  n
+tire
+0
+client states $T$ four tire mounted and balanced four tires as requested following mount and balance test drove vehicle and verified correct tpm system operation vehicle operating as designed following repair
+mount and balance
+1
+client states mount and balance four tire mounted and balanced four tires as requested following $T$ test drove vehicle and verified correct tpm system operation vehicle operating as designed following repair
+mount and balance
+1
+client states mount and balance four tire $T$ four tires as requested following mount and balance test drove vehicle and verified correct tpm system operation vehicle operating as designed following repair
+mount and balance
+1
+due to front brake pads at minimal thickness causing light to illuminate inspected front and rear brakes front brakes have reached replacement spec and have cut through wear sensor causing warning recommend new front $T$ tech  performed front brake pad rotor and sensor replacement as requested following repair test drove vehicle and verified correct braking operation vehicle operating as designed following repair
+brakes
+0
+due to front brake pads at minimal thickness causing light to illuminate inspected front and rear brakes front brakes have reached replacement spec and have cut through wear sensor causing warning recommend new front brakes tech  performed front brake pad $T$ and sensor replacement as requested following repair test drove vehicle and verified correct braking operation vehicle operating as designed following repair
+rotor
+1
+due to front brake pads at minimal thickness causing light to illuminate inspected front and rear brakes front brakes have reached replacement spec and have cut through wear sensor causing warning recommend new front brakes tech  performed front brake pad rotor and $T$ replacement as requested following repair test drove vehicle and verified correct braking operation vehicle operating as designed following repair
+sensor
+1
+due to front brake pads at minimal thickness causing light to illuminate inspected front and rear brakes front brakes have reached replacement spec and have cut through wear $T$ causing warning recommend new front brakes tech  performed front brake pad rotor and sensor replacement as requested following repair test drove vehicle and verified correct braking operation vehicle operating as designed following repair
+sensor
+0
+due to internal failure of both front body acceleration $T$ performed diagnosis of chassis failure warning scanned fault memory faults stored in level control system  left and right body acceleration sensors short to b or ground removed front left and right wheel well liners checked left and right body acceleration sensors tech  performed both front and rear center body acceleration sensor replacement as requested following repair cleared fault memory and test drove to ensure proper vehicle operation vehicle operating as designed following repair
+sensors
+1
+due to internal failure of both front body acceleration sensors performed diagnosis of chassis failure warning scanned fault memory faults stored in level control system  left and right $T$ acceleration sensors short to b or ground removed front left and right wheel well liners checked left and right body acceleration sensors tech  performed both front and rear center body acceleration sensor replacement as requested following repair cleared fault memory and test drove to ensure proper vehicle operation vehicle operating as designed following repair
+body
+1
+due to internal failure of both front body acceleration sensors performed diagnosis of chassis failure warning scanned fault memory faults stored in level control system  left and right body acceleration sensors short to b or ground removed front left and right wheel well liners checked left and right body acceleration sensors tech  performed both front and rear center body acceleration sensor replacement as requested following $T$ cleared fault memory and test drove to ensure proper vehicle operation vehicle operating as designed following repair
+repair
+1
+removed winter wheel set $T$ summer wheel set set tire pressures reset tpms
+mounted
+1
+removed winter wheel set mounted summer wheel set set $T$ pressures reset tpms
+tire
+1
+performed pmi $T$   front  rear brakes   front  rear
+tires
+1
+verified complaint vehicle shakes at highway speeds raised vehicle and inspected found $T$ worn unevenly and in need of replacement wear at front and rear brakes may also be contributing to concern recommend  new tires and  wheel alignment front brakes recommended on line a customer declines repairs at this time customer has summer wheel set in storage and would like summer wheel set mounted to confirm tires will correct vibration removed front and rear wheels mounted summer wheel set set tire pressures unable to reset tpm due to active chassis warning customer has declined repairs to chassis system test drove vehicle vibration no longer felt
+tires
+0
+verified complaint vehicle shakes at highway speeds raised vehicle and inspected found tires worn unevenly and in need of replacement wear at front and rear $T$ may also be contributing to concern recommend  new tires and  wheel alignment front brakes recommended on line a customer declines repairs at this time customer has summer wheel set in storage and would like summer wheel set mounted to confirm tires will correct vibration removed front and rear wheels mounted summer wheel set set tire pressures unable to reset tpm due to active chassis warning customer has declined repairs to chassis system test drove vehicle vibration no longer felt
+brakes
+0
+verified complaint vehicle shakes at highway speeds raised vehicle and inspected found tires worn unevenly and in need of replacement wear at front and rear brakes may also be contributing to concern recommend  new tires and  wheel alignment front brakes recommended on line a customer declines $T$ at this time customer has summer wheel set in storage and would like summer wheel set mounted to confirm tires will correct vibration removed front and rear wheels mounted summer wheel set set tire pressures unable to reset tpm due to active chassis warning customer has declined repairs to chassis system test drove vehicle vibration no longer felt
+repairs
+-1
+verified complaint vehicle shakes at highway speeds raised vehicle and inspected found tires worn unevenly and in need of replacement wear at front and rear brakes may also be contributing to concern recommend  new tires and  wheel alignment front brakes recommended on line a customer declines repairs at this time customer has summer wheel set in storage and would like summer wheel set $T$ to confirm tires will correct vibration removed front and rear wheels mounted summer wheel set set tire pressures unable to reset tpm due to active chassis warning customer has declined repairs to chassis system test drove vehicle vibration no longer felt
+mounted
+0
+verified complaint vehicle shakes at highway speeds raised vehicle and inspected found tires worn unevenly and in need of replacement wear at front and rear brakes may also be contributing to concern recommend  new tires and  wheel alignment front brakes recommended on line a customer declines repairs at this time customer has summer wheel set in storage and would like summer wheel set mounted to confirm tires will correct vibration removed front and rear wheels $T$ summer wheel set set tire pressures unable to reset tpm due to active chassis warning customer has declined repairs to chassis system test drove vehicle vibration no longer felt
+mounted
+1
+verified complaint vehicle shakes at highway speeds raised vehicle and inspected found tires worn unevenly and in need of replacement wear at front and rear brakes may also be contributing to concern recommend  new tires and  wheel alignment front brakes recommended on line a customer declines repairs at this time customer has summer wheel set in storage and would like summer wheel set mounted to confirm tires will correct vibration removed front and rear wheels mounted summer wheel set set tire pressures unable to reset tpm due to active chassis warning customer has declined $T$ to chassis system test drove vehicle vibration no longer felt
+repairs
+-1
+verified complaint vehicle shakes at highway speeds raised vehicle and inspected found tires worn unevenly and in need of replacement wear at front and rear brakes may also be contributing to concern recommend  new tires and  $T$ front brakes recommended on line a customer declines repairs at this time customer has summer wheel set in storage and would like summer wheel set mounted to confirm tires will correct vibration removed front and rear wheels mounted summer wheel set set tire pressures unable to reset tpm due to active chassis warning customer has declined repairs to chassis system test drove vehicle vibration no longer felt
+wheel alignment
+0
+verified complaint vehicle shakes at highway speeds raised vehicle and inspected found tires worn unevenly and in need of replacement wear at front and rear brakes may also be contributing to concern recommend  new tires and  wheel alignment front $T$ recommended on line a customer declines repairs at this time customer has summer wheel set in storage and would like summer wheel set mounted to confirm tires will correct vibration removed front and rear wheels mounted summer wheel set set tire pressures unable to reset tpm due to active chassis warning customer has declined repairs to chassis system test drove vehicle vibration no longer felt
+brakes
+0
+verified complaint vehicle shakes at highway speeds raised vehicle and inspected found tires worn unevenly and in need of replacement wear at front and rear brakes may also be contributing to concern recommend  $T$ and  wheel alignment front brakes recommended on line a customer declines repairs at this time customer has summer wheel set in storage and would like summer wheel set mounted to confirm tires will correct vibration removed front and rear wheels mounted summer wheel set set tire pressures unable to reset tpm due to active chassis warning customer has declined repairs to chassis system test drove vehicle vibration no longer felt
+new tires
+0
+created  pm taken by is the re any way to get my car in earlier to be looked at since im not sure if its safe to drive my car for three weeks like this i tried to call and leave a message with the $T$ center but nobody called back
+service
+0
+performed minor maintenance reset $T$ interval
+service
+1
+thank you for $T$ at porsche of silver spring
+serv
+1
+verified customer complaint driver front and passenger front foot wells are soaked in water inspected all drains and cleaned all drains started by clearing $T$ drains and verifying repairs next i removed the cowl drains to drain out the water cleaned and cleared ac drain pulled floor mats vac out water from both foot wells pulled cabin filter soaked in water needs replaced
+roof
+1
+verified customer complaint driver front and passenger front foot wells are soaked in water inspected all drains and cleaned all drains started by clearing sunroof drains and verifying repairs next i removed the cowl drains to drain out the water cleaned and cleared $T$ drain pulled floor mats vac out water from both foot wells pulled cabin filter soaked in water needs replaced
+ac
+1
+verified customer complaint driver front and passenger front foot wells are soaked in water inspected all drains and cleaned all drains started by clearing sunroof drains and verifying repairs next i removed the cowl drains to drain out the water cleaned and cleared ac drain pulled floor mats vac out water from both foot wells pulled $T$ soaked in water needs replaced
+cabin filter
+1
+removed old $T$ installed oem cabin filter and verified repairs
+cabin filter
+1
+removed old cabin filter installed oem $T$ and verified repairs
+cabin filter
+1
+removed old cabin filter installed oem cabin filter and verified $T$
+repairs
+1
+front tires mm mm rear tires mm mm tire pressure before front psi psi rear psi psi set $T$ pressure to manufactures specification
+tires
+1
+$T$ mm mm rear tires mm mm tire pressure before front psi psi rear psi psi set tire pressure to manufactures specification
+front tires
+1
+complete niello porsche $T$ front tires mm mm rear tires mm mm front brakes mm rear brakes mm to wear sensors found the following concerns during inspection found passenger side door panel end cap is missing recommend replace missing cap found front hood struts are weak recommend replace weak gas struts found power mirror switch is broken recommend replace broken mirror switch found both vanity mirror housings are broken recommend replace both mirror housings found right side coat hook trim missing recommend replace missing coat hook trim found front lower cover and diagonal brace are damaged recommend replace lower cover and diagonal brace found right front fender liner is damaged recommend replace damaged fender liner found front trunk emergency release lever is broken recommend replace release lever due to no service history recommend yr service airbag maintenance brake system flush and drive belt replacement found ac oil collecting near receiver dryer area recommend check ac system for leak found engine oil is overfilled recommend adjust oil level found coolant bottle is cracked and leaking recommend replace coolant bottle and cap found horn sounds strange high tone not working recommend replace defective horn found fuel door hinge is broken recommend replace fuel door hinge found gas cap seal is cracked recommend replace gas cap found hour hand on sport chrono clock has fallen off recommend replace sport chrono clock found tire sealant has expired recommend replace tire sealant
+multipoint inspection
+1
+complete niello porsche multipoint $T$ front tires mm mm rear tires mm mm front brakes mm rear brakes mm to wear sensors found the following concerns during inspection found passenger side door panel end cap is missing recommend replace missing cap found front hood struts are weak recommend replace weak gas struts found power mirror switch is broken recommend replace broken mirror switch found both vanity mirror housings are broken recommend replace both mirror housings found right side coat hook trim missing recommend replace missing coat hook trim found front lower cover and diagonal brace are damaged recommend replace lower cover and diagonal brace found right front fender liner is damaged recommend replace damaged fender liner found front trunk emergency release lever is broken recommend replace release lever due to no service history recommend yr service airbag maintenance brake system flush and drive belt replacement found ac oil collecting near receiver dryer area recommend check ac system for leak found engine oil is overfilled recommend adjust oil level found coolant bottle is cracked and leaking recommend replace coolant bottle and cap found horn sounds strange high tone not working recommend replace defective horn found fuel door hinge is broken recommend replace fuel door hinge found gas cap seal is cracked recommend replace gas cap found hour hand on sport chrono clock has fallen off recommend replace sport chrono clock found tire sealant has expired recommend replace tire sealant
+inspection
+1
+complete niello porsche multipoint inspection front tires mm mm rear tires mm mm front brakes mm rear brakes mm to wear $T$ found the following concerns during inspection found passenger side door panel end cap is missing recommend replace missing cap found front hood struts are weak recommend replace weak gas struts found power mirror switch is broken recommend replace broken mirror switch found both vanity mirror housings are broken recommend replace both mirror housings found right side coat hook trim missing recommend replace missing coat hook trim found front lower cover and diagonal brace are damaged recommend replace lower cover and diagonal brace found right front fender liner is damaged recommend replace damaged fender liner found front trunk emergency release lever is broken recommend replace release lever due to no service history recommend yr service airbag maintenance brake system flush and drive belt replacement found ac oil collecting near receiver dryer area recommend check ac system for leak found engine oil is overfilled recommend adjust oil level found coolant bottle is cracked and leaking recommend replace coolant bottle and cap found horn sounds strange high tone not working recommend replace defective horn found fuel door hinge is broken recommend replace fuel door hinge found gas cap seal is cracked recommend replace gas cap found hour hand on sport chrono clock has fallen off recommend replace sport chrono clock found tire sealant has expired recommend replace tire sealant
+sensors
+0
+complete niello porsche multipoint inspection front tires mm mm rear tires mm mm front brakes mm rear brakes mm to wear sensors found the following concerns during inspection found passenger side $T$ panel end cap is missing recommend replace missing cap found front hood struts are weak recommend replace weak gas struts found power mirror switch is broken recommend replace broken mirror switch found both vanity mirror housings are broken recommend replace both mirror housings found right side coat hook trim missing recommend replace missing coat hook trim found front lower cover and diagonal brace are damaged recommend replace lower cover and diagonal brace found right front fender liner is damaged recommend replace damaged fender liner found front trunk emergency release lever is broken recommend replace release lever due to no service history recommend yr service airbag maintenance brake system flush and drive belt replacement found ac oil collecting near receiver dryer area recommend check ac system for leak found engine oil is overfilled recommend adjust oil level found coolant bottle is cracked and leaking recommend replace coolant bottle and cap found horn sounds strange high tone not working recommend replace defective horn found fuel door hinge is broken recommend replace fuel door hinge found gas cap seal is cracked recommend replace gas cap found hour hand on sport chrono clock has fallen off recommend replace sport chrono clock found tire sealant has expired recommend replace tire sealant
+door
+0
+complete niello porsche multipoint inspection front tires mm mm rear tires mm mm front brakes mm rear brakes mm to wear sensors found the following concerns during inspection found passenger side door panel end cap is missing recommend replace missing cap found front hood $T$ are weak recommend replace weak gas struts found power mirror switch is broken recommend replace broken mirror switch found both vanity mirror housings are broken recommend replace both mirror housings found right side coat hook trim missing recommend replace missing coat hook trim found front lower cover and diagonal brace are damaged recommend replace lower cover and diagonal brace found right front fender liner is damaged recommend replace damaged fender liner found front trunk emergency release lever is broken recommend replace release lever due to no service history recommend yr service airbag maintenance brake system flush and drive belt replacement found ac oil collecting near receiver dryer area recommend check ac system for leak found engine oil is overfilled recommend adjust oil level found coolant bottle is cracked and leaking recommend replace coolant bottle and cap found horn sounds strange high tone not working recommend replace defective horn found fuel door hinge is broken recommend replace fuel door hinge found gas cap seal is cracked recommend replace gas cap found hour hand on sport chrono clock has fallen off recommend replace sport chrono clock found tire sealant has expired recommend replace tire sealant
+struts
+0
+complete niello porsche multipoint inspection front tires mm mm rear tires mm mm front brakes mm rear brakes mm to wear sensors found the following concerns during inspection found passenger side door panel end cap is missing recommend replace missing cap found front $T$ struts are weak recommend replace weak gas struts found power mirror switch is broken recommend replace broken mirror switch found both vanity mirror housings are broken recommend replace both mirror housings found right side coat hook trim missing recommend replace missing coat hook trim found front lower cover and diagonal brace are damaged recommend replace lower cover and diagonal brace found right front fender liner is damaged recommend replace damaged fender liner found front trunk emergency release lever is broken recommend replace release lever due to no service history recommend yr service airbag maintenance brake system flush and drive belt replacement found ac oil collecting near receiver dryer area recommend check ac system for leak found engine oil is overfilled recommend adjust oil level found coolant bottle is cracked and leaking recommend replace coolant bottle and cap found horn sounds strange high tone not working recommend replace defective horn found fuel door hinge is broken recommend replace fuel door hinge found gas cap seal is cracked recommend replace gas cap found hour hand on sport chrono clock has fallen off recommend replace sport chrono clock found tire sealant has expired recommend replace tire sealant
+hood
+0
+complete niello porsche multipoint inspection front tires mm mm rear tires mm mm front brakes mm rear brakes mm to wear sensors found the following concerns during inspection found passenger side door panel end cap is missing recommend replace missing cap found front hood struts are weak recommend replace weak gas $T$ found power mirror switch is broken recommend replace broken mirror switch found both vanity mirror housings are broken recommend replace both mirror housings found right side coat hook trim missing recommend replace missing coat hook trim found front lower cover and diagonal brace are damaged recommend replace lower cover and diagonal brace found right front fender liner is damaged recommend replace damaged fender liner found front trunk emergency release lever is broken recommend replace release lever due to no service history recommend yr service airbag maintenance brake system flush and drive belt replacement found ac oil collecting near receiver dryer area recommend check ac system for leak found engine oil is overfilled recommend adjust oil level found coolant bottle is cracked and leaking recommend replace coolant bottle and cap found horn sounds strange high tone not working recommend replace defective horn found fuel door hinge is broken recommend replace fuel door hinge found gas cap seal is cracked recommend replace gas cap found hour hand on sport chrono clock has fallen off recommend replace sport chrono clock found tire sealant has expired recommend replace tire sealant
+struts
+0
+complete niello porsche multipoint inspection front tires mm mm rear tires mm mm front brakes mm rear brakes mm to wear sensors found the following concerns during inspection found passenger side door panel end cap is missing recommend replace missing cap found front hood struts are weak recommend replace weak gas struts found power $T$ switch is broken recommend replace broken mirror switch found both vanity mirror housings are broken recommend replace both mirror housings found right side coat hook trim missing recommend replace missing coat hook trim found front lower cover and diagonal brace are damaged recommend replace lower cover and diagonal brace found right front fender liner is damaged recommend replace damaged fender liner found front trunk emergency release lever is broken recommend replace release lever due to no service history recommend yr service airbag maintenance brake system flush and drive belt replacement found ac oil collecting near receiver dryer area recommend check ac system for leak found engine oil is overfilled recommend adjust oil level found coolant bottle is cracked and leaking recommend replace coolant bottle and cap found horn sounds strange high tone not working recommend replace defective horn found fuel door hinge is broken recommend replace fuel door hinge found gas cap seal is cracked recommend replace gas cap found hour hand on sport chrono clock has fallen off recommend replace sport chrono clock found tire sealant has expired recommend replace tire sealant
+mirror
+0
+complete niello porsche multipoint inspection front tires mm mm rear tires mm mm front brakes mm rear brakes mm to wear sensors found the following concerns during inspection found passenger side door panel end cap is missing recommend replace missing cap found front hood struts are weak recommend replace weak gas struts found power mirror switch is broken recommend replace broken $T$ switch found both vanity mirror housings are broken recommend replace both mirror housings found right side coat hook trim missing recommend replace missing coat hook trim found front lower cover and diagonal brace are damaged recommend replace lower cover and diagonal brace found right front fender liner is damaged recommend replace damaged fender liner found front trunk emergency release lever is broken recommend replace release lever due to no service history recommend yr service airbag maintenance brake system flush and drive belt replacement found ac oil collecting near receiver dryer area recommend check ac system for leak found engine oil is overfilled recommend adjust oil level found coolant bottle is cracked and leaking recommend replace coolant bottle and cap found horn sounds strange high tone not working recommend replace defective horn found fuel door hinge is broken recommend replace fuel door hinge found gas cap seal is cracked recommend replace gas cap found hour hand on sport chrono clock has fallen off recommend replace sport chrono clock found tire sealant has expired recommend replace tire sealant
+mirror
+0
+complete niello porsche multipoint inspection front tires mm mm rear tires mm mm front brakes mm rear brakes mm to wear sensors found the following concerns during inspection found passenger side door panel end cap is missing recommend replace missing cap found front hood struts are weak recommend replace weak gas struts found power mirror switch is broken recommend replace broken mirror switch found both vanity $T$ housings are broken recommend replace both mirror housings found right side coat hook trim missing recommend replace missing coat hook trim found front lower cover and diagonal brace are damaged recommend replace lower cover and diagonal brace found right front fender liner is damaged recommend replace damaged fender liner found front trunk emergency release lever is broken recommend replace release lever due to no service history recommend yr service airbag maintenance brake system flush and drive belt replacement found ac oil collecting near receiver dryer area recommend check ac system for leak found engine oil is overfilled recommend adjust oil level found coolant bottle is cracked and leaking recommend replace coolant bottle and cap found horn sounds strange high tone not working recommend replace defective horn found fuel door hinge is broken recommend replace fuel door hinge found gas cap seal is cracked recommend replace gas cap found hour hand on sport chrono clock has fallen off recommend replace sport chrono clock found tire sealant has expired recommend replace tire sealant
+mirror
+0
+complete niello porsche multipoint inspection front tires mm mm rear tires mm mm front brakes mm rear brakes mm to wear sensors found the following concerns during inspection found passenger side door panel end cap is missing recommend replace missing cap found front hood struts are weak recommend replace weak gas struts found power mirror switch is broken recommend replace broken mirror switch found both vanity mirror housings are broken recommend replace both $T$ housings found right side coat hook trim missing recommend replace missing coat hook trim found front lower cover and diagonal brace are damaged recommend replace lower cover and diagonal brace found right front fender liner is damaged recommend replace damaged fender liner found front trunk emergency release lever is broken recommend replace release lever due to no service history recommend yr service airbag maintenance brake system flush and drive belt replacement found ac oil collecting near receiver dryer area recommend check ac system for leak found engine oil is overfilled recommend adjust oil level found coolant bottle is cracked and leaking recommend replace coolant bottle and cap found horn sounds strange high tone not working recommend replace defective horn found fuel door hinge is broken recommend replace fuel door hinge found gas cap seal is cracked recommend replace gas cap found hour hand on sport chrono clock has fallen off recommend replace sport chrono clock found tire sealant has expired recommend replace tire sealant
+mirror
+0
+complete niello porsche multipoint inspection front tires mm mm rear tires mm mm front brakes mm rear brakes mm to wear sensors found the following concerns during inspection found passenger side door panel end cap is missing recommend replace missing cap found front hood struts are weak recommend replace weak gas struts found power mirror switch is broken recommend replace broken mirror switch found both vanity mirror housings are broken recommend replace both mirror housings found right side coat hook trim missing recommend replace missing coat hook trim found front lower cover and diagonal $T$ are damaged recommend replace lower cover and diagonal brace found right front fender liner is damaged recommend replace damaged fender liner found front trunk emergency release lever is broken recommend replace release lever due to no service history recommend yr service airbag maintenance brake system flush and drive belt replacement found ac oil collecting near receiver dryer area recommend check ac system for leak found engine oil is overfilled recommend adjust oil level found coolant bottle is cracked and leaking recommend replace coolant bottle and cap found horn sounds strange high tone not working recommend replace defective horn found fuel door hinge is broken recommend replace fuel door hinge found gas cap seal is cracked recommend replace gas cap found hour hand on sport chrono clock has fallen off recommend replace sport chrono clock found tire sealant has expired recommend replace tire sealant
+brace
+0
+complete niello porsche multipoint inspection front tires mm mm rear tires mm mm front brakes mm rear brakes mm to wear sensors found the following concerns during inspection found passenger side door panel end cap is missing recommend replace missing cap found front hood struts are weak recommend replace weak gas struts found power mirror switch is broken recommend replace broken mirror switch found both vanity mirror housings are broken recommend replace both mirror housings found right side coat hook trim missing recommend replace missing coat hook trim found front lower cover and diagonal brace are damaged recommend replace lower cover and diagonal $T$ found right front fender liner is damaged recommend replace damaged fender liner found front trunk emergency release lever is broken recommend replace release lever due to no service history recommend yr service airbag maintenance brake system flush and drive belt replacement found ac oil collecting near receiver dryer area recommend check ac system for leak found engine oil is overfilled recommend adjust oil level found coolant bottle is cracked and leaking recommend replace coolant bottle and cap found horn sounds strange high tone not working recommend replace defective horn found fuel door hinge is broken recommend replace fuel door hinge found gas cap seal is cracked recommend replace gas cap found hour hand on sport chrono clock has fallen off recommend replace sport chrono clock found tire sealant has expired recommend replace tire sealant
+brace
+0
+complete niello porsche multipoint inspection front tires mm mm rear tires mm mm front brakes mm rear brakes mm to wear sensors found the following concerns during inspection found passenger side door panel end cap is missing recommend replace missing cap found front hood struts are weak recommend replace weak gas struts found power mirror switch is broken recommend replace broken mirror switch found both vanity mirror housings are broken recommend replace both mirror housings found right side coat hook trim missing recommend replace missing coat hook trim found front lower cover and diagonal brace are damaged recommend replace lower cover and diagonal brace found right front $T$ liner is damaged recommend replace damaged fender liner found front trunk emergency release lever is broken recommend replace release lever due to no service history recommend yr service airbag maintenance brake system flush and drive belt replacement found ac oil collecting near receiver dryer area recommend check ac system for leak found engine oil is overfilled recommend adjust oil level found coolant bottle is cracked and leaking recommend replace coolant bottle and cap found horn sounds strange high tone not working recommend replace defective horn found fuel door hinge is broken recommend replace fuel door hinge found gas cap seal is cracked recommend replace gas cap found hour hand on sport chrono clock has fallen off recommend replace sport chrono clock found tire sealant has expired recommend replace tire sealant
+fender
+0
+complete niello porsche multipoint inspection front tires mm mm rear tires mm mm front brakes mm rear brakes mm to wear sensors found the following concerns during inspection found passenger side door panel end cap is missing recommend replace missing cap found front hood struts are weak recommend replace weak gas struts found power mirror switch is broken recommend replace broken mirror switch found both vanity mirror housings are broken recommend replace both mirror housings found right side coat hook trim missing recommend replace missing coat hook trim found front lower cover and diagonal brace are damaged recommend replace lower cover and diagonal brace found right front fender liner is damaged recommend replace damaged $T$ liner found front trunk emergency release lever is broken recommend replace release lever due to no service history recommend yr service airbag maintenance brake system flush and drive belt replacement found ac oil collecting near receiver dryer area recommend check ac system for leak found engine oil is overfilled recommend adjust oil level found coolant bottle is cracked and leaking recommend replace coolant bottle and cap found horn sounds strange high tone not working recommend replace defective horn found fuel door hinge is broken recommend replace fuel door hinge found gas cap seal is cracked recommend replace gas cap found hour hand on sport chrono clock has fallen off recommend replace sport chrono clock found tire sealant has expired recommend replace tire sealant
+fender
+0
+complete niello porsche multipoint inspection front tires mm mm rear tires mm mm front brakes mm rear brakes mm to wear sensors found the following concerns during inspection found passenger side door panel end cap is missing recommend replace missing cap found front hood struts are weak recommend replace weak gas struts found power mirror switch is broken recommend replace broken mirror switch found both vanity mirror housings are broken recommend replace both mirror housings found right side coat hook trim missing recommend replace missing coat hook trim found front lower cover and diagonal brace are damaged recommend replace lower cover and diagonal brace found right front fender liner is damaged recommend replace damaged fender liner found front $T$ emergency release lever is broken recommend replace release lever due to no service history recommend yr service airbag maintenance brake system flush and drive belt replacement found ac oil collecting near receiver dryer area recommend check ac system for leak found engine oil is overfilled recommend adjust oil level found coolant bottle is cracked and leaking recommend replace coolant bottle and cap found horn sounds strange high tone not working recommend replace defective horn found fuel door hinge is broken recommend replace fuel door hinge found gas cap seal is cracked recommend replace gas cap found hour hand on sport chrono clock has fallen off recommend replace sport chrono clock found tire sealant has expired recommend replace tire sealant
+trunk
+0
+complete niello porsche multipoint inspection front tires mm mm rear tires mm mm front brakes mm rear brakes mm to wear sensors found the following concerns during inspection found passenger side door panel end cap is missing recommend replace missing cap found front hood struts are weak recommend replace weak gas struts found power mirror switch is broken recommend replace broken mirror switch found both vanity mirror housings are broken recommend replace both mirror housings found right side coat hook trim missing recommend replace missing coat hook trim found front lower cover and diagonal brace are damaged recommend replace lower cover and diagonal brace found right front fender liner is damaged recommend replace damaged fender liner found front trunk emergency release lever is broken recommend replace release $T$ due to no service history recommend yr service airbag maintenance brake system flush and drive belt replacement found ac oil collecting near receiver dryer area recommend check ac system for leak found engine oil is overfilled recommend adjust oil level found coolant bottle is cracked and leaking recommend replace coolant bottle and cap found horn sounds strange high tone not working recommend replace defective horn found fuel door hinge is broken recommend replace fuel door hinge found gas cap seal is cracked recommend replace gas cap found hour hand on sport chrono clock has fallen off recommend replace sport chrono clock found tire sealant has expired recommend replace tire sealant
+lever
+0
+complete niello porsche multipoint inspection front tires mm mm rear tires mm mm front brakes mm rear brakes mm to wear sensors found the following concerns during inspection found passenger side door panel end cap is missing recommend replace missing cap found front hood struts are weak recommend replace weak gas struts found power mirror switch is broken recommend replace broken mirror switch found both vanity mirror housings are broken recommend replace both mirror housings found right side coat hook trim missing recommend replace missing coat hook trim found front lower cover and diagonal brace are damaged recommend replace lower cover and diagonal brace found right front fender liner is damaged recommend replace damaged fender liner found front trunk emergency release $T$ is broken recommend replace release lever due to no service history recommend yr service airbag maintenance brake system flush and drive belt replacement found ac oil collecting near receiver dryer area recommend check ac system for leak found engine oil is overfilled recommend adjust oil level found coolant bottle is cracked and leaking recommend replace coolant bottle and cap found horn sounds strange high tone not working recommend replace defective horn found fuel door hinge is broken recommend replace fuel door hinge found gas cap seal is cracked recommend replace gas cap found hour hand on sport chrono clock has fallen off recommend replace sport chrono clock found tire sealant has expired recommend replace tire sealant
+lever
+0
+complete niello porsche multipoint inspection front tires mm mm rear tires mm mm front brakes mm rear brakes mm to wear sensors found the following concerns during inspection found passenger side door panel end cap is missing recommend replace missing cap found front hood struts are weak recommend replace weak gas struts found power mirror switch is broken recommend replace broken mirror switch found both vanity mirror housings are broken recommend replace both mirror housings found right side coat hook trim missing recommend replace missing coat hook trim found front lower cover and diagonal brace are damaged recommend replace lower cover and diagonal brace found right front fender liner is damaged recommend replace damaged fender liner found front trunk emergency release lever is broken recommend replace release lever due to no service history recommend yr service airbag maintenance $T$ and drive belt replacement found ac oil collecting near receiver dryer area recommend check ac system for leak found engine oil is overfilled recommend adjust oil level found coolant bottle is cracked and leaking recommend replace coolant bottle and cap found horn sounds strange high tone not working recommend replace defective horn found fuel door hinge is broken recommend replace fuel door hinge found gas cap seal is cracked recommend replace gas cap found hour hand on sport chrono clock has fallen off recommend replace sport chrono clock found tire sealant has expired recommend replace tire sealant
+brake system flush
+0
+complete niello porsche multipoint inspection front tires mm mm rear tires mm mm front brakes mm rear brakes mm to wear sensors found the following concerns during inspection found passenger side door panel end cap is missing recommend replace missing cap found front hood struts are weak recommend replace weak gas struts found power mirror switch is broken recommend replace broken mirror switch found both vanity mirror housings are broken recommend replace both mirror housings found right side coat hook trim missing recommend replace missing coat hook trim found front lower cover and diagonal brace are damaged recommend replace lower cover and diagonal brace found right front fender liner is damaged recommend replace damaged fender liner found front trunk emergency release lever is broken recommend replace release lever due to no service history recommend yr service airbag maintenance brake system flush and drive $T$ replacement found ac oil collecting near receiver dryer area recommend check ac system for leak found engine oil is overfilled recommend adjust oil level found coolant bottle is cracked and leaking recommend replace coolant bottle and cap found horn sounds strange high tone not working recommend replace defective horn found fuel door hinge is broken recommend replace fuel door hinge found gas cap seal is cracked recommend replace gas cap found hour hand on sport chrono clock has fallen off recommend replace sport chrono clock found tire sealant has expired recommend replace tire sealant
+belt
+0
+complete niello porsche multipoint inspection front tires mm mm rear tires mm mm front brakes mm rear brakes mm to wear sensors found the following concerns during inspection found passenger side door panel end cap is missing recommend replace missing cap found front hood struts are weak recommend replace weak gas struts found power mirror switch is broken recommend replace broken mirror switch found both vanity mirror housings are broken recommend replace both mirror housings found right side coat hook trim missing recommend replace missing coat hook trim found front lower cover and diagonal brace are damaged recommend replace lower cover and diagonal brace found right front fender liner is damaged recommend replace damaged fender liner found front trunk emergency release lever is broken recommend replace release lever due to no service history recommend yr service airbag maintenance brake system flush and drive belt replacement found ac oil collecting near receiver dryer area recommend check $T$ system for leak found engine oil is overfilled recommend adjust oil level found coolant bottle is cracked and leaking recommend replace coolant bottle and cap found horn sounds strange high tone not working recommend replace defective horn found fuel door hinge is broken recommend replace fuel door hinge found gas cap seal is cracked recommend replace gas cap found hour hand on sport chrono clock has fallen off recommend replace sport chrono clock found tire sealant has expired recommend replace tire sealant
+ac
+0
+complete niello porsche multipoint inspection front tires mm mm rear tires mm mm front brakes mm rear brakes mm to wear sensors found the following concerns during inspection found passenger side door panel end cap is missing recommend replace missing cap found front hood struts are weak recommend replace weak gas struts found power mirror switch is broken recommend replace broken mirror switch found both vanity mirror housings are broken recommend replace both mirror housings found right side coat hook trim missing recommend replace missing coat hook trim found front lower cover and diagonal brace are damaged recommend replace lower cover and diagonal brace found right front fender liner is damaged recommend replace damaged fender liner found front trunk emergency release lever is broken recommend replace release lever due to no service history recommend yr service airbag maintenance brake system flush and drive belt replacement found ac oil collecting near receiver dryer area recommend check ac system for leak found $T$ is overfilled recommend adjust oil level found coolant bottle is cracked and leaking recommend replace coolant bottle and cap found horn sounds strange high tone not working recommend replace defective horn found fuel door hinge is broken recommend replace fuel door hinge found gas cap seal is cracked recommend replace gas cap found hour hand on sport chrono clock has fallen off recommend replace sport chrono clock found tire sealant has expired recommend replace tire sealant
+engine oil
+0
+complete niello porsche multipoint inspection front tires mm mm rear tires mm mm front brakes mm rear brakes mm to wear sensors found the following concerns during inspection found passenger side door panel end cap is missing recommend replace missing cap found front hood struts are weak recommend replace weak gas struts found power mirror switch is broken recommend replace broken mirror switch found both vanity mirror housings are broken recommend replace both mirror housings found right side coat hook trim missing recommend replace missing coat hook trim found front lower cover and diagonal brace are damaged recommend replace lower cover and diagonal brace found right front fender liner is damaged recommend replace damaged fender liner found front trunk emergency release lever is broken recommend replace release lever due to no service history recommend yr service airbag maintenance brake system flush and drive belt replacement found ac oil collecting near receiver dryer area recommend check ac system for leak found engine oil is overfilled recommend adjust oil level found $T$ bottle is cracked and leaking recommend replace coolant bottle and cap found horn sounds strange high tone not working recommend replace defective horn found fuel door hinge is broken recommend replace fuel door hinge found gas cap seal is cracked recommend replace gas cap found hour hand on sport chrono clock has fallen off recommend replace sport chrono clock found tire sealant has expired recommend replace tire sealant
+coolant
+0
+complete niello porsche multipoint inspection front tires mm mm rear tires mm mm front brakes mm rear brakes mm to wear sensors found the following concerns during inspection found passenger side door panel end cap is missing recommend replace missing cap found front hood struts are weak recommend replace weak gas struts found power mirror switch is broken recommend replace broken mirror switch found both vanity mirror housings are broken recommend replace both mirror housings found right side coat hook trim missing recommend replace missing coat hook trim found front lower cover and diagonal brace are damaged recommend replace lower cover and diagonal brace found right front fender liner is damaged recommend replace damaged fender liner found front trunk emergency release lever is broken recommend replace release lever due to no service history recommend yr service airbag maintenance brake system flush and drive belt replacement found ac oil collecting near receiver dryer area recommend check ac system for leak found engine oil is overfilled recommend adjust oil level found coolant bottle is cracked and leaking recommend replace $T$ bottle and cap found horn sounds strange high tone not working recommend replace defective horn found fuel door hinge is broken recommend replace fuel door hinge found gas cap seal is cracked recommend replace gas cap found hour hand on sport chrono clock has fallen off recommend replace sport chrono clock found tire sealant has expired recommend replace tire sealant
+coolant
+0
+complete niello porsche multipoint inspection front tires mm mm rear tires mm mm front brakes mm rear brakes mm to wear sensors found the following concerns during inspection found passenger side door panel end cap is missing recommend replace missing cap found front hood struts are weak recommend replace weak gas struts found power mirror switch is broken recommend replace broken mirror switch found both vanity mirror housings are broken recommend replace both mirror housings found right side coat hook trim missing recommend replace missing coat hook trim found front lower cover and diagonal brace are damaged recommend replace lower cover and diagonal brace found right front fender liner is damaged recommend replace damaged fender liner found front trunk emergency release lever is broken recommend replace release lever due to no service history recommend yr service airbag maintenance brake system flush and drive belt replacement found ac oil collecting near receiver dryer area recommend check ac system for leak found engine oil is overfilled recommend adjust oil level found coolant bottle is cracked and leaking recommend replace coolant bottle and cap found horn sounds strange high tone not working recommend replace defective horn found $T$ door hinge is broken recommend replace fuel door hinge found gas cap seal is cracked recommend replace gas cap found hour hand on sport chrono clock has fallen off recommend replace sport chrono clock found tire sealant has expired recommend replace tire sealant
+fuel
+0
+complete niello porsche multipoint inspection front tires mm mm rear tires mm mm front brakes mm rear brakes mm to wear sensors found the following concerns during inspection found passenger side door panel end cap is missing recommend replace missing cap found front hood struts are weak recommend replace weak gas struts found power mirror switch is broken recommend replace broken mirror switch found both vanity mirror housings are broken recommend replace both mirror housings found right side coat hook trim missing recommend replace missing coat hook trim found front lower cover and diagonal brace are damaged recommend replace lower cover and diagonal brace found right front fender liner is damaged recommend replace damaged fender liner found front trunk emergency release lever is broken recommend replace release lever due to no service history recommend yr service airbag maintenance brake system flush and drive belt replacement found ac oil collecting near receiver dryer area recommend check ac system for leak found engine oil is overfilled recommend adjust oil level found coolant bottle is cracked and leaking recommend replace coolant bottle and cap found horn sounds strange high tone not working recommend replace defective horn found fuel door $T$ is broken recommend replace fuel door hinge found gas cap seal is cracked recommend replace gas cap found hour hand on sport chrono clock has fallen off recommend replace sport chrono clock found tire sealant has expired recommend replace tire sealant
+hinge
+0
+complete niello porsche multipoint inspection front tires mm mm rear tires mm mm front brakes mm rear brakes mm to wear sensors found the following concerns during inspection found passenger side door panel end cap is missing recommend replace missing cap found front hood struts are weak recommend replace weak gas struts found power mirror switch is broken recommend replace broken mirror switch found both vanity mirror housings are broken recommend replace both mirror housings found right side coat hook trim missing recommend replace missing coat hook trim found front lower cover and diagonal brace are damaged recommend replace lower cover and diagonal brace found right front fender liner is damaged recommend replace damaged fender liner found front trunk emergency release lever is broken recommend replace release lever due to no service history recommend yr service airbag maintenance brake system flush and drive belt replacement found ac oil collecting near receiver dryer area recommend check ac system for leak found engine oil is overfilled recommend adjust oil level found coolant bottle is cracked and leaking recommend replace coolant bottle and cap found horn sounds strange high tone not working recommend replace defective horn found fuel door hinge is broken recommend replace $T$ door hinge found gas cap seal is cracked recommend replace gas cap found hour hand on sport chrono clock has fallen off recommend replace sport chrono clock found tire sealant has expired recommend replace tire sealant
+fuel
+0
+complete niello porsche multipoint inspection front tires mm mm rear tires mm mm front brakes mm rear brakes mm to wear sensors found the following concerns during inspection found passenger side door panel end cap is missing recommend replace missing cap found front hood struts are weak recommend replace weak gas struts found power mirror switch is broken recommend replace broken mirror switch found both vanity mirror housings are broken recommend replace both mirror housings found right side coat hook trim missing recommend replace missing coat hook trim found front lower cover and diagonal brace are damaged recommend replace lower cover and diagonal brace found right front fender liner is damaged recommend replace damaged fender liner found front trunk emergency release lever is broken recommend replace release lever due to no service history recommend yr service airbag maintenance brake system flush and drive belt replacement found ac oil collecting near receiver dryer area recommend check ac system for leak found engine oil is overfilled recommend adjust oil level found coolant bottle is cracked and leaking recommend replace coolant bottle and cap found horn sounds strange high tone not working recommend replace defective horn found fuel door hinge is broken recommend replace fuel door $T$ found gas cap seal is cracked recommend replace gas cap found hour hand on sport chrono clock has fallen off recommend replace sport chrono clock found tire sealant has expired recommend replace tire sealant
+hinge
+0
+complete niello porsche multipoint inspection front tires mm mm rear tires mm mm front brakes mm rear brakes mm to wear sensors found the following concerns during inspection found passenger side door panel end cap is missing recommend replace missing cap found front hood struts are weak recommend replace weak gas struts found power mirror switch is broken recommend replace broken mirror switch found both vanity mirror housings are broken recommend replace both mirror housings found right side coat hook trim missing recommend replace missing coat hook trim found front lower cover and diagonal brace are damaged recommend replace lower cover and diagonal brace found right front fender liner is damaged recommend replace damaged fender liner found front trunk emergency release lever is broken recommend replace release lever due to no service history recommend yr service airbag maintenance brake system flush and drive belt replacement found ac oil collecting near receiver dryer area recommend check ac system for leak found engine oil is overfilled recommend adjust oil level found coolant bottle is cracked and leaking recommend replace coolant bottle and cap found horn sounds strange high tone not working recommend replace defective horn found fuel door hinge is broken recommend replace fuel door hinge found gas cap seal is cracked recommend replace gas cap found hour hand on sport chrono $T$ has fallen off recommend replace sport chrono clock found tire sealant has expired recommend replace tire sealant
+clock
+0
+complete niello porsche multipoint inspection front tires mm mm rear tires mm mm front brakes mm rear brakes mm to wear sensors found the following concerns during inspection found passenger side door panel end cap is missing recommend replace missing cap found front hood struts are weak recommend replace weak gas struts found power mirror switch is broken recommend replace broken mirror switch found both vanity mirror housings are broken recommend replace both mirror housings found right side coat hook trim missing recommend replace missing coat hook trim found front lower cover and diagonal brace are damaged recommend replace lower cover and diagonal brace found right front fender liner is damaged recommend replace damaged fender liner found front trunk emergency release lever is broken recommend replace release lever due to no service history recommend yr service airbag maintenance brake system flush and drive belt replacement found ac oil collecting near receiver dryer area recommend check ac system for leak found engine oil is overfilled recommend adjust oil level found coolant bottle is cracked and leaking recommend replace coolant bottle and cap found horn sounds strange high tone not working recommend replace defective horn found fuel door hinge is broken recommend replace fuel door hinge found gas cap seal is cracked recommend replace gas cap found hour hand on sport chrono clock has fallen off recommend replace sport chrono $T$ found tire sealant has expired recommend replace tire sealant
+clock
+0
+verified customers concern airbag warning light is on found passive fault code ba stored triggering unit faulty no fault symptom available guided fault finding suggests possible plug connectionwiring faulty or faulty triggering unit possibly $T$ replacement or battery went dead cleared fault code and road test vehicle fault did not return at this time
+battery
+0
+verified customers concern airbag warning light is on found passive fault code ba stored triggering unit faulty no fault symptom available guided fault finding suggests possible plug connectionwiring faulty or faulty triggering unit possibly battery replacement or $T$ went dead cleared fault code and road test vehicle fault did not return at this time
+battery
+0
+verified customers concern $T$ warning light is on found passive fault code ba stored triggering unit faulty no fault symptom available guided fault finding suggests possible plug connectionwiring faulty or faulty triggering unit possibly battery replacement or battery went dead cleared fault code and road test vehicle fault did not return at this time
+airbag
+0
+needs $T$ harness carpets control modules to st
+body
+0
+needs body harness $T$ control modules to st
+carpet
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
