@@ -64,7 +64,7 @@ keywords = ['ac', 'airbag', 'air bag', 'air condition', 'air conditioning', 'con
 keywords = list(set(keywords))
 
 #Will output textfile 
-file = open('kmeans_ngrams.txt', 'w')
+file = open('./data/kmeans_ngrams.txt', 'w')
 
 #Import CSV File and Insert Comments into List
 df = pd.read_excel('Declined_Final.xlsx', sheet_name='Sheet1')
