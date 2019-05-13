@@ -53,8 +53,8 @@ def sentimentAnalysis(n_gram_sentence, result):
         
 
 def readInData():
-    file = open('kmeans_ngrams.txt', 'r')
-    result = open('kmeans_ngrams_result.txt', 'w')
+    file = open('./data/kmeans_ngrams.txt', 'r')
+    result = open('./data/kmeans_ngrams_result.txt', 'w')
 
     readNextLine = False
     firstLineRead = True
@@ -79,39 +79,5 @@ def readInData():
         if (line == '.'*100 + '\n'):
             readNextLine = True
 
-#method will handle dealing with f1-metrics
-def f1Metrics():
-    #Since we have the true and we also have the not-true labels determining
-    #The precision and accuracy from thos results
-    eval_data = open('kmeans_ngrams_eval.txt', 'r')
-    false_positives = 0
-    true_positives = 0
-    false_negatives = 0
-    continue_calc = True
-    absa_result = 0
-    true_result = 0
-    for line in eval_data:
-        #Checking to see if the calculation can be performed for F1 metrics
-        if continue_calc:
-            if absa_result == true_result:
-                true_positives += 1
-            elif (absa_result == 0 and true_result == 1) or (absa_result == -1 and true_result == 1):
-                false_positives += 1 
-            elif (absa_result == 1 and true_result == 0) or (absa_result == 1 and true_result == -1):
-                false_negative += 1
-            continue_calc = False
-        if line == '0' + '\n' or line == '1' + '\n' or line == '-1' + '\n':
-            absa_result = int(line.strip('\n'))
-        if line == "True: " + '1' + '\n' or line == "True: " + '0' + '\n' or line == "True: " + '-1' + '\n': 
-            true_result = int(line.strip.('\n').split(' ')[1])
-            continue_calc = True
-    precision = true_positives / (true_positives + false_positives)
-    recall = true_positives / (true_positives + false_negatives)
-    F1 = 2*((precision*recall)/(precision + recall))
-    print("F1 Score Using Kmeans-ABSA: ", F1)
-    return
-
-    
 if __name__ == '__main__':
     readInData()
-    f1Metrics()
