@@ -1,0 +1,1008 @@
+Sentence: 
+complete niello porsche multipointinspection fronttires mm mm reartires mm mm front brakes mm rear brakes mm found the following concerns during inspection rodent damage to vehicle body harness at left rear rodent damage to coolant hose at coolant reservoir
+....................................................................................................
+brakes
+fronttires mm mm reartires mm mm front brakes mm rear brakes mm found the following
+1
+True: 1
+coolant
+harness at left rear rodent damage to coolant hose at coolant reservoir
+1
+True: 1
+multipointinspection
+complete niello porsche multipointinspection fronttires mm mm reartires mm mm front
+1
+True: 1
+hose
+at left rear rodent damage to coolant hose at coolant reservoir
+1
+True: 1
+reartires
+complete niello porsche multipointinspection fronttires mm mm reartires mm mm front brakes mm rear brakes
+1
+True: 1
+multipointinspection
+complete niello porsche multipointinspection fronttires mm mm reartires mm mm front
+1
+True: 1
+body
+concerns during inspection rodent damage to vehicle body harness at left rear rodent damage to
+1
+True: 1
+fronttires
+complete niello porsche multipointinspection fronttires mm mm reartires mm mm front brakes
+1
+True: 1
+inspection
+brakes mm found the following concerns during inspection rodent damage to vehicle body harness at
+1
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+fronttires mm mm reartires mm mm tire pressures before front psi psi rear psi psi set tire pressures to psi front and psi rear
+....................................................................................................
+reartires
+fronttires mm mm reartires mm mm tire pressures before front psi
+1
+True: 1
+tire
+fronttires mm mm reartires mm mm tire pressures before front psi psi rear psi
+1
+True: 1
+fronttires
+fronttires mm mm reartires mm mm tire pressures
+1
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+verified customer concern coolant leaking from rear of vehicle coolant can be seen coming down from top of engine area remove engine cover and fans pressure test cooling system and check for leaks coolant hose at coolant reservoir is chewed through there is also some wiring that is damaged at left front of engine bay remove rear latch support panel for better visual access body harness is chewed on but no wires appear to be chewed through check fault memory no faults stored harness may be able to be pulled through firewall and repaired from inside the car unable to know for sure without attempting remove engine aircleaner housing and coolant reservoir to access wiring harness loosen mounting clips for engine harness remove interior trim to access wire harnessfirewall grommet pull harness through firewall and inspect unable to separate the wires from the body grommet grommet has been vulcanized onto wire harness and is completely surrounding individual wires recommend replacing rear body harness remove interior from vehicle remove enginetransmission unit from vehicle remove dash support and ac box remove steering column and pedal assembly remove all components from front cowl remove front bumper and radiators loosen fuel tank and lower to gain access to harness remove all underbody covers remove front axle lift system and tunnel braces remove main vehicle harness and install new harness ensure proper routing of harness and begin reinstalling vehicle components route aftermarket radar detector equipment once all components had been installed and connected turn ignition on and clear all faults no faults currently present reinstall remainder of components fill and bleed cooling system and brake system road test vehicle multiple times no warnings or faults present at this time
+....................................................................................................
+panel
+of engine bay remove rear latch support panel for better visual access body harness is
+1
+True: 
+coolant
+verified customer concern coolant leaking from rear of vehicle coolant can
+1
+True: 1
+hose
+cooling system and check for leaks coolant hose at coolant reservoir is chewed through there
+1
+True: 0
+ac
+unit from vehicle remove dash support and ac box remove steering column and pedal assembly
+1
+True: 1
+top
+coolant can be seen coming down from top of engine area remove engine cover and
+1
+True: 1
+trim
+mounting clips for engine harness remove interior trim to access wire harnessfirewall grommet pull harness
+1
+True: 1
+aircleaner
+know for sure without attempting remove engine aircleaner housing and coolant reservoir to access wiring
+1
+True: 1
+latch
+left front of engine bay remove rear latch support panel for better visual access body
+1
+True: 1
+box
+from vehicle remove dash support and ac box remove steering column and pedal assembly remove
+1
+True: 1
+bumper
+all components from front cowl remove front bumper and radiators loosen fuel tank and lower
+1
+True: 1
+brake
+components fill and bleed cooling system and brake system road test vehicle multiple times no
+1
+True: 1
+engine
+be seen coming down from top of engine area remove engine cover and fans pressure
+1
+True: 1
+cooling
+remove engine cover and fans pressure test cooling system and check for leaks coolant hose
+1
+True: 1
+steering
+remove dash support and ac box remove steering column and pedal assembly remove all components
+1
+True: 1
+body
+latch support panel for better visual access body harness is chewed on but no wires
+1
+True: 1
+axle
+harness remove all underbody covers remove front axle lift system and tunnel braces remove main
+1
+True: 1
+fuel
+cowl remove front bumper and radiators loosen fuel tank and lower to gain access to
+1
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+perform maintenanceservice change oil filter check pollen filter airfilter clean out drains radiators lube all seals hinges top off all fluids check under body of vehicle for fluidleaks none found check brake and tire wear set pressures check system for faults using piwis tester reset service reminder light check all lights note car needs four tires and rear brakepads required for safety customer advised and declined r r n
+....................................................................................................
+airfilter
+maintenanceservice change oil filter check pollen filter airfilter clean out drains radiators lube all seals
+1
+True: 1
+brakepads
+note car needs four tires and rear brakepads required for safety customer advised and declined
+-1
+True: -1
+top
+out drains radiators lube all seals hinges top off all fluids check under body of
+1
+True: 1
+pollen
+perform maintenanceservice change oil filter check pollen filter airfilter clean out drains radiators lube
+1
+True: 1
+brake
+of vehicle for fluidleaks none found check brake and tire wear set pressures check system
+1
+True: 1
+fluidleaks
+fluids check under body of vehicle for fluidleaks none found check brake and tire wear
+1
+True: 1
+tires
+check all lights note car needs four tires and rear brakepads required for safety customer
+0
+True: -1
+airfilter
+maintenanceservice change oil filter check pollen filter airfilter clean out drains radiators lube all seals
+1
+True: 1
+service
+system for faults using piwis tester reset service reminder light check all lights note car
+1
+True: 1
+body
+hinges top off all fluids check under body of vehicle for fluidleaks none found check
+1
+True: 1
+tire
+for fluidleaks none found check brake and tire wear set pressures check system for faults
+1
+True: 1
+maintenanceservice
+perform maintenanceservice change oil filter check pollen filter airfilter
+1
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+performed performed porsche oilchange service changed engineoilandfilter set all tire pressures to spec vehicle visualinspection brakes f mm r mm tires f mm r mm
+....................................................................................................
+brakes
+all tire pressures to spec vehicle visualinspection brakes f mm r mm tires f mm
+1
+True: 1
+tires
+vehicle visualinspection brakes f mm r mm tires f mm r mm
+1
+True: 1
+visualinspection
+set all tire pressures to spec vehicle visualinspection brakes f mm r mm tires f
+1
+True: 1
+service
+performed performed porsche oilchange service changed engineoilandfilter set all tire pressures to
+1
+True: 1
+oilchange
+performed performed porsche oilchange service changed engineoilandfilter set all tire pressures
+1
+True: 1
+tire
+porsche oilchange service changed engineoilandfilter set all tire pressures to spec vehicle visualinspection brakes f
+1
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+tires fmm mm r mm mm air set to fpsi rpsi reartires have cords showing on the inside edge time for tirereplacement
+....................................................................................................
+reartires
+mm mm air set to fpsi rpsi reartires have cords showing on the inside edge
+1
+True: 0
+tires
+tires fmm mm r mm mm air set
+1
+True: 1
+tirereplacement
+showing on the inside edge time for tirereplacement
+1
+True: 0
+----------------------------------------------------------------------------------------------------
+Sentence: 
+completed multi pointinspection brakes fmm rmm tires fmm rmm vehicle is ready for tirereplacement cords are showing on the reartires inside edge recommend alignment reartire wear
+....................................................................................................
+reartire
+on the reartires inside edge recommend alignment reartire wear
+0
+True: 0
+pointinspection
+completed multi pointinspection brakes fmm rmm tires fmm rmm vehicle
+1
+True: 1
+brakes
+completed multi pointinspection brakes fmm rmm tires fmm rmm vehicle is
+1
+True: 1
+reartires
+for tirereplacement cords are showing on the reartires inside edge recommend alignment reartire wear
+0
+True: 0
+tires
+completed multi pointinspection brakes fmm rmm tires fmm rmm vehicle is ready for tirereplacement
+1
+True: 1
+alignment
+showing on the reartires inside edge recommend alignment reartire wear
+0
+True: 0
+tirereplacement
+tires fmm rmm vehicle is ready for tirereplacement cords are showing on the reartires inside
+1
+True: 0
+----------------------------------------------------------------------------------------------------
+Sentence: 
+wait created am taken by rya n giffin
+....................................................................................................
+----------------------------------------------------------------------------------------------------
+Sentence: 
+vehicle requires two reartires replaced worn to mm customer advised and currently declined pirelli scorpion verde r no
+....................................................................................................
+reartires
+vehicle requires two reartires replaced worn to mm customer advised and declined
+-1
+True: -1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+customer requested a loaner web created pm taken by kenneth conston
+....................................................................................................
+----------------------------------------------------------------------------------------------------
+Sentence: 
+drained and refilled engineoil with mobil w full synthetic oil and replaced filter front brakepads have mm remaining rear brakepads have mm remaining left fronttire has mm of thread remaining right fronttire has mm of tread remaining left reartire has mm of tread remaining right reartire has mm of tread remaining adjusted fluidlevels reset service indicator road test ok psmp date tu recommend replacing front brakes with rotors
+....................................................................................................
+reartire
+fronttire has mm of tread remaining left reartire has mm of tread remaining right reartire
+1
+True: 1
+engineoil
+drained and refilled engineoil with mobil w full synthetic oil and
+1
+True: 1
+brakepads
+full synthetic oil and replaced filter front brakepads have mm remaining rear brakepads have mm
+1
+True: 1
+fronttire
+remaining rear brakepads have mm remaining left fronttire has mm of thread remaining right fronttire
+1
+True: 1
+brakes
+ok psmp date tu recommend replacing front brakes with rotors
+0
+True: 0
+rotors
+date tu recommend replacing front brakes with rotors
+0
+True: 0
+psmp
+fluidlevels reset service indicator road test ok psmp date tu recommend replacing front brakes with
+0
+True: 1
+service
+mm of tread remaining adjusted fluidlevels reset service indicator road test ok psmp date tu
+1
+True: 1
+fluidlevels
+reartire has mm of tread remaining adjusted fluidlevels reset service indicator road test ok psmp
+1
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+set tire pressures front psi rear psi
+....................................................................................................
+tire
+set tire pressures front psi rear psi
+1
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+when upholstery repair vendor returns the quote chris will contact you
+....................................................................................................
+repair
+when upholstery repair vendor returns the quote chris will contact
+1
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+performed multipointinspection
+....................................................................................................
+multipointinspection
+performed multipointinspection
+1
+True: 1
+multipointinspection
+performed multipointinspection
+1
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+customer declined tires and alignment
+....................................................................................................
+tires
+customer declined tires and alignment
+-1
+True: -1
+alignment
+customer declined tires and alignment
+-1
+True: -1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+catches and hangs electromechanical inspected vehicle for ac blowermotor concern removed and powered with v still intermittently operates replaced ac blowermotor and verified proper operation
+....................................................................................................
+ac
+catches and hangs electromechanical inspected vehicle for ac blowermotor concern removed and powered with v
+1
+True: 1
+blowermotor
+and hangs electromechanical inspected vehicle for ac blowermotor concern removed and powered with v still
+1
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+fronttires at psi reartires at psi
+....................................................................................................
+reartires
+fronttires at psi reartires at psi
+1
+True: 1
+fronttires
+fronttires at psi reartires at psi
+1
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+cleaned throttle bore and plate of all carbon deposits performed throttle adaptation with tester to ensure throttle angle is correct and functioning as per specifications performed induction service to clean fuel injection system and restore performance checked to make sure airfuel mixture was within proper parameters road tested vehicle
+....................................................................................................
+throttle
+cleaned throttle bore and plate of all carbon deposits
+1
+True: 1
+induction
+correct and functioning as per specifications performed induction service to clean fuel injection system and
+1
+True: 1
+service
+and functioning as per specifications performed induction service to clean fuel injection system and restore
+1
+True: 1
+fuel
+per specifications performed induction service to clean fuel injection system and restore performance checked to
+1
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+created pm taken by michael skulick
+....................................................................................................
+----------------------------------------------------------------------------------------------------
+Sentence: 
+performed ac deodorizer service made sure all vents are blowing at degrees and are free of any bacteria checked ac pressures ensuring they were within specification ran the ac system functioning correctly
+....................................................................................................
+ac
+performed ac deodorizer service made sure all vents are
+1
+True: 1
+service
+performed ac deodorizer service made sure all vents are blowing at
+1
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+when upholstery repair vendor returns the quote chris will contact you
+....................................................................................................
+repair
+when upholstery repair vendor returns the quote chris will contact
+1
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+performed multipointinspection
+....................................................................................................
+multipointinspection
+performed multipointinspection
+1
+True: 1
+multipointinspection
+performed multipointinspection
+1
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+customer declined tires and alignment
+....................................................................................................
+tires
+customer declined tires and alignment
+-1
+True: -1
+alignment
+customer declined tires and alignment
+-1
+True: -1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+catches and hangs electromechanical inspected vehicle for ac blowermotor concern removed and powered with v still intermittently operates replaced ac blowermotor and verified proper operation
+....................................................................................................
+ac
+catches and hangs electromechanical inspected vehicle for ac blowermotor concern removed and powered with v
+1
+True: 1
+blowermotor
+and hangs electromechanical inspected vehicle for ac blowermotor concern removed and powered with v still
+1
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+fronttires at psi reartires at psi
+....................................................................................................
+reartires
+fronttires at psi reartires at psi
+1
+True: 1
+fronttires
+fronttires at psi reartires at psi
+1
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+cleaned throttle bore and plate of all carbon deposits performed throttle adaptation with tester to ensure throttle angle is correct and functioning as per specifications performed induction service to clean fuel injection system and restore performance checked to make sure airfuel mixture was within proper parameters road tested vehicle
+....................................................................................................
+throttle
+cleaned throttle bore and plate of all carbon deposits
+1
+True: 1
+induction
+correct and functioning as per specifications performed induction service to clean fuel injection system and
+1
+True: 1
+service
+and functioning as per specifications performed induction service to clean fuel injection system and restore
+1
+True: 1
+fuel
+per specifications performed induction service to clean fuel injection system and restore performance checked to
+1
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+created pm taken by michael skulick
+....................................................................................................
+----------------------------------------------------------------------------------------------------
+Sentence: 
+performed ac deodorizer service made sure all vents are blowing at degrees and are free of any bacteria checked ac pressures ensuring they were within specification ran the ac system functioning correctly
+....................................................................................................
+ac
+performed ac deodorizer service made sure all vents are
+1
+True: 1
+service
+performed ac deodorizer service made sure all vents are blowing at
+1
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+customer declined
+....................................................................................................
+----------------------------------------------------------------------------------------------------
+Sentence: 
+recommendations brakefluid svc diagnose rear window washer jetsno washer fluid coming out client declined any further repairs at thi s time
+....................................................................................................
+repairs
+fluid coming out client declined any further repairs at thi s time
+-1
+True: -1
+brakefluid
+recommendations brakefluid svc diagnose rear window washer jetsno washer
+0
+True: 0
+svc
+recommendations brakefluid svc diagnose rear window washer jetsno washer fluid
+0
+True: 0
+window
+recommendations brakefluid svc diagnose rear window washer jetsno washer fluid coming out client
+0
+True: 0
+----------------------------------------------------------------------------------------------------
+Sentence: 
+as per ro tech completed vehicle inspection please see inspection sheet for information
+....................................................................................................
+inspection
+as per ro tech completed vehicle inspection please see inspection sheet for information
+1
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+as per maint schedule tech completed k mileservice drain engineoil and replace oilfilter oring seal drain plug washer and top of with l added fuel additive completed vehicle inspection and top of fluidlevels as needed performed mile test drive and set tire pressures clock and recheck oil level reset service interval and stamp service book
+....................................................................................................
+mileservice
+as per maint schedule tech completed k mileservice drain engineoil and replace oilfilter oring seal
+1
+True: 1
+engineoil
+maint schedule tech completed k mileservice drain engineoil and replace oilfilter oring seal drain plug
+1
+True: 1
+oring
+k mileservice drain engineoil and replace oilfilter oring seal drain plug washer and top of
+1
+True: 1
+top
+oilfilter oring seal drain plug washer and top of with l added fuel additive completed
+1
+True: 1
+oring
+k mileservice drain engineoil and replace oilfilter oring seal drain plug washer and top of
+1
+True: 1
+service
+pressures clock and recheck oil level reset service interval and stamp service book
+1
+True: 1
+oilfilter
+completed k mileservice drain engineoil and replace oilfilter oring seal drain plug washer and top
+1
+True: 1
+fluidlevels
+additive completed vehicle inspection and top of fluidlevels as needed performed mile test drive and
+1
+True: 1
+tire
+needed performed mile test drive and set tire pressures clock and recheck oil level reset
+1
+True: 1
+fuel
+washer and top of with l added fuel additive completed vehicle inspection and top of
+1
+True: 1
+mile
+and top of fluidlevels as needed performed mile test drive and set tire pressures clock
+1
+True: 1
+clock
+mile test drive and set tire pressures clock and recheck oil level reset service interval
+1
+True: 1
+inspection
+with l added fuel additive completed vehicle inspection and top of fluidlevels as needed performed
+1
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+loose tape tech check and adjust passengers front door panel tape
+....................................................................................................
+door
+tape tech check and adjust passengers front door panel tape
+1
+True: 1
+panel
+tech check and adjust passengers front door panel tape
+1
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+required tech set tire pressures and torque wheels to specs
+....................................................................................................
+tire
+required tech set tire pressures and torque wheels to specs
+0
+True: 0
+----------------------------------------------------------------------------------------------------
+Sentence: 
+front brakes are at mm and rear brakes are a t mm lf fronttire is at mm rf tire is at mm and lr mm and rr mm
+....................................................................................................
+fronttire
+rear brakes are a t mm lf fronttire is at mm rf tire is at
+1
+True: 1
+brakes
+front brakes are at mm and rear brakes are
+1
+True: 1
+tire
+mm lf fronttire is at mm rf tire is at mm and lr mm and
+1
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+per pcna completed ah campaign replace filter flange of fuel pump scope
+....................................................................................................
+fuel
+completed ah campaign replace filter flange of fuel pump scope
+1
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+per customers request completed multipointinspection per customers request
+....................................................................................................
+multipointinspection
+per customers request completed multipointinspection per customers request
+1
+True: 1
+multipointinspection
+per customers request completed multipointinspection per customers request
+1
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+maintenance drained and refilled engineoil with mobil w full synthetic oil replaced filter seal and drain plug screw front brakepads have mm remaining rear brakepads have mm remaining left fronttire has mm of thread remaining right fronttire has mm of tread remaining left reartire has mm of tread remaining right reartire has mm of tread remaining adjusted fluidlevels reset service indicator road test ok tires are years old and have cracks and dry rot recommend replacingtires
+....................................................................................................
+reartire
+fronttire has mm of tread remaining left reartire has mm of tread remaining right reartire
+1
+True: 1
+engineoil
+maintenance drained and refilled engineoil with mobil w full synthetic oil replaced
+1
+True: 1
+brakepads
+filter seal and drain plug screw front brakepads have mm remaining rear brakepads have mm
+1
+True: 1
+fronttire
+remaining rear brakepads have mm remaining left fronttire has mm of thread remaining right fronttire
+1
+True: 1
+replacingtires
+and have cracks and dry rot recommend replacingtires
+0
+True: 0
+tires
+fluidlevels reset service indicator road test ok tires are years old and have cracks and
+1
+True: 0
+service
+mm of tread remaining adjusted fluidlevels reset service indicator road test ok tires are years
+1
+True: 1
+fluidlevels
+reartire has mm of tread remaining adjusted fluidlevels reset service indicator road test ok tires
+1
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+replace both batteries from remote
+....................................................................................................
+----------------------------------------------------------------------------------------------------
+Sentence: 
+remove and replace exhaust
+....................................................................................................
+exhaust
+remove and replace exhaust
+1
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+client returning vehicle to finalize muffler install
+....................................................................................................
+muffler
+client returning vehicle to finalize muffler install
+1
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+perform mpi customer needs all tires wires showing under inspection found batter weak
+....................................................................................................
+tires
+perform mpi customer needs all tires wires showing under inspection found batter weak
+1
+True: 0
+mpi
+perform mpi customer needs all tires wires showing under
+1
+True: 1
+inspection
+customer needs all tires wires showing under inspection found batter weak
+0
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+set tire pressures front psi rear psi
+....................................................................................................
+tire
+set tire pressures front psi rear psi
+1
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+cust paid over parts counter
+....................................................................................................
+----------------------------------------------------------------------------------------------------
+Sentence: 
+performed multipointinspection front brakepads at mm remaining rear brakepads at mm remaining left fronttire has mm of thread remaining right fronttire has mm of tread remaining left reartire has mm of tread remaining right reartire has mm of tread remaining adjusted fluidlevels road test ok
+....................................................................................................
+reartire
+fronttire has mm of tread remaining left reartire has mm of tread remaining right reartire
+1
+True: 1
+brakepads
+performed multipointinspection front brakepads at mm remaining rear brakepads at mm
+1
+True: 1
+fronttire
+remaining rear brakepads at mm remaining left fronttire has mm of thread remaining right fronttire
+1
+True: 1
+multipointinspection
+performed multipointinspection front brakepads at mm remaining rear brakepads
+1
+True: 1
+multipointinspection
+performed multipointinspection front brakepads at mm remaining rear brakepads
+1
+True: 1
+fluidlevels
+reartire has mm of tread remaining adjusted fluidlevels road test ok
+1
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+removed left frontwheel and found brakepad wearing out abnormal found rotor cutting into brakepad and resistance bracket loose and possible and shim no longer holding tension cause a metallic noise unable to verify if install correctly and if there after market brakes cust decline replacement of front pads and rotors bracket
+....................................................................................................
+brakepad
+removed left frontwheel and found brakepad wearing out abnormal found rotor cutting into
+1
+True: 0
+frontwheel
+removed left frontwheel and found brakepad wearing out abnormal found
+1
+True: 1
+brakes
+install correctly and if there after market brakes cust decline replacement of front pads and
+-1
+True: -1
+rotor
+and found brakepad wearing out abnormal found rotor cutting into brakepad and resistance bracket loose
+1
+True: 0
+pads
+market brakes cust decline replacement of front pads and rotors bracket
+-1
+True: -1
+rotors
+cust decline replacement of front pads and rotors bracket
+-1
+True: -1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+set tire pressures front psi rear psi
+....................................................................................................
+tire
+set tire pressures front psi rear psi
+1
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+performed multipointinspection front brakepads at mm remaining rear brakepads at mm remaining left fronttire has mm of thread remaining right fronttire has mm of tread remaining left reartire has mm of tread remaining right reartire has mm of tread remaining adjusted fluidlevels road test ok recommend reartires recommend two reartires alignment
+....................................................................................................
+reartire
+fronttire has mm of tread remaining left reartire has mm of tread remaining right reartire
+1
+True: 1
+brakepads
+performed multipointinspection front brakepads at mm remaining rear brakepads at mm
+1
+True: 1
+fronttire
+remaining rear brakepads at mm remaining left fronttire has mm of thread remaining right fronttire
+1
+True: 1
+multipointinspection
+performed multipointinspection front brakepads at mm remaining rear brakepads
+1
+True: 1
+reartires
+remaining adjusted fluidlevels road test ok recommend reartires recommend two reartires alignment
+0
+True: 0
+multipointinspection
+performed multipointinspection front brakepads at mm remaining rear brakepads
+1
+True: 1
+alignment
+test ok recommend reartires recommend two reartires alignment
+0
+True: 0
+fluidlevels
+reartire has mm of tread remaining adjusted fluidlevels road test ok recommend reartires recommend two
+0
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+campaign ah complete tu
+....................................................................................................
+----------------------------------------------------------------------------------------------------
+Sentence: 
+set tire pressures front psi rear psi
+....................................................................................................
+tire
+set tire pressures front psi rear psi
+1
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+performed multipointinspection front brakepads at mm remaining rear brakepads at mm remaining left fronttire has mm of thread remaining right fronttire has mm of tread remaining left reartire has mm of tread remaining right reartire has mm of tread remaining adjusted fluidlevels road test ok recommend reartires recommend two reartires alignment
+....................................................................................................
+reartire
+fronttire has mm of tread remaining left reartire has mm of tread remaining right reartire
+1
+True: 1
+brakepads
+performed multipointinspection front brakepads at mm remaining rear brakepads at mm
+1
+True: 1
+fronttire
+remaining rear brakepads at mm remaining left fronttire has mm of thread remaining right fronttire
+1
+True: 1
+multipointinspection
+performed multipointinspection front brakepads at mm remaining rear brakepads
+1
+True: 1
+reartires
+remaining adjusted fluidlevels road test ok recommend reartires recommend two reartires alignment
+0
+True: 0
+multipointinspection
+performed multipointinspection front brakepads at mm remaining rear brakepads
+1
+True: 1
+alignment
+test ok recommend reartires recommend two reartires alignment
+0
+True: 0
+fluidlevels
+reartire has mm of tread remaining adjusted fluidlevels road test ok recommend reartires recommend two
+0
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+campaign ah complete tu
+....................................................................................................
+----------------------------------------------------------------------------------------------------
+Sentence: 
+fronttires at mm reartires at mm set front and reartire pressures to factory spec as indicated on sticker on inside of front hood recommend replacement of all tires and alignment be performed
+....................................................................................................
+reartire
+mm reartires at mm set front and reartire pressures to factory spec as indicated on
+1
+True: 
+reartires
+fronttires at mm reartires at mm set front and reartire pressures
+1
+True: 1
+tires
+of front hood recommend replacement of all tires and alignment be performed
+0
+True: 0
+alignment
+hood recommend replacement of all tires and alignment be performed
+0
+True: 0
+hood
+indicated on sticker on inside of front hood recommend replacement of all tires and alignment
+1
+True: 1 
+fronttires
+fronttires at mm reartires at mm set front
+1
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+oilchange service complete change engineoilandfilter top up fluids complete visualinspection front brakes at mm until wear indicators rear brakes at mm until wear indicators fronttires at mm reartires at mm
+....................................................................................................
+brakes
+engineoilandfilter top up fluids complete visualinspection front brakes at mm until wear indicators rear brakes
+1
+True: 1
+top
+oilchange service complete change engineoilandfilter top up fluids complete visualinspection front brakes at
+1
+True: 1
+reartires
+mm until wear indicators fronttires at mm reartires at mm
+1
+True: 1
+visualinspection
+complete change engineoilandfilter top up fluids complete visualinspection front brakes at mm until wear indicators
+1
+True: 1
+service
+oilchange service complete change engineoilandfilter top up fluids complete
+1
+True: 1
+oilchange
+oilchange service complete change engineoilandfilter top up fluids
+1
+True: 1
+fronttires
+rear brakes at mm until wear indicators fronttires at mm reartires at mm
+1
+True: 1
+----------------------------------------------------------------------------------------------------
+Sentence: 
+complete niello porsche multipointinspection front brakes at mm until wear indicators rear brakes at mm until wear indicators fronttires at mm reartires at mm all fluids at correct levels battery checks good found the following concerns during inspection recommend replacement of all tires and alignment be performed as general maintenance oil fill tube is leaking oil and oilleaks onto ground when filling oil recommend replacement service history for majorservice brakefluid service and airbag service is past due no other immediate concerns found at this time
+....................................................................................................
+oilleaks
+oil fill tube is leaking oil and oilleaks onto ground when filling oil recommend replacement
+0
+True: 0
+brakes
+complete niello porsche multipointinspection front brakes at mm until wear indicators rear brakes
+1
+True: 1
+airbag
+service history for majorservice brakefluid service and airbag service is past due no other immediate
+1
+True: 0
+brakefluid
+oil recommend replacement service history for majorservice brakefluid service and airbag service is past due
+0
+True: 0
+multipointinspection
+complete niello porsche multipointinspection front brakes at mm until wear indicators
+1
+True: 1
+majorservice
+filling oil recommend replacement service history for majorservice brakefluid service and airbag service is past
+0
+True: 0
+reartires
+mm until wear indicators fronttires at mm reartires at mm all fluids at correct levels
+1
+True: 1
+multipointinspection
+complete niello porsche multipointinspection front brakes at mm until wear indicators
+1
+True: 1
+tires
+concerns during inspection recommend replacement of all tires and alignment be performed as general maintenance
+0
+True: 0
+alignment
+inspection recommend replacement of all tires and alignment be performed as general maintenance oil fill
+0
+True: 0
+service
+onto ground when filling oil recommend replacement service history for majorservice brakefluid service and airbag
+0
+True: 0
+airbag
+service history for majorservice brakefluid service and airbag service is past due no other immediate
+1
+True: 0
+fronttires
+rear brakes at mm until wear indicators fronttires at mm reartires at mm all fluids
+1
+True: 1
+battery
+at mm all fluids at correct levels battery checks good found the following concerns during
+1
+True: 1
+inspection
+checks good found the following concerns during inspection recommend replacement of all tires and alignment
+0
+True: 1
+----------------------------------------------------------------------------------------------------
