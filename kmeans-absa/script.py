@@ -68,8 +68,8 @@ keywords = ['ac', 'airbag', 'air bag', 'air condition', 'air conditioning', 'con
 keywords = list(set(keywords))
 
 # Keywords used for determing aspect based sentiment
-completed_words = ['completed', 'performed', 'complete', 'perform', 'finished', 'finish', 'performing', 'completing', 'finishing']
-recommend_words = ['rec', 'recommend', 'recommended', 'recommending', 'need', 'needs', 'recommendations', 'recommendation', 'requires', 'required', 'require', 'replace', 'replacing', 'replaced']
+completed_words = ['completed', 'performed', 'complete', 'perform', 'finished', 'finish', 'performing', 'completing', 'finishing', 'inspect', 'inspected', 'inspecting']
+recommend_words = ['rec', 'recommend', 'recommended', 'recommending', 'need', 'needs', 'recommendations', 'recommendation', 'requires', 'require', 'time to', 'old', 'wear', 'damage', 'damaged', 'damaging']
 declined_words = ['declined', 'deferred', 'dec', 'decline', 'defer', 'declining', 'deferring']
 
 #Dictionary that contains information about the category of service based on keyword
@@ -193,39 +193,82 @@ def kmeansPrediction(keyword, ngram):
     past_verbs = 0
     sentiment = 0
 
+    #indexes of words; initialize to large numbers
+    declined_index = 100
+    recommend_index = 100
+    completed_index = 100
+
     #Finds the category that the keyword belongs in given the dictionary we have to import
     category = findCategory(keyword)
     result.append(category)
+    if category != 'No Servicing Category Detected':
+        category_index = split_sentence.index(keyword)
+    else:
+        return result.append('100') 
+    #print(keyword)
+    #print(split_sentence)
 
+    #update get the word closest to the catgory, without using index
     for d in declined_words:
         if d in split_sentence:
+            #print("declined word ", d)
+            declined_index = split_sentence.index(d)
             sentiment = -1
             result.append(str(sentiment))
             return result
     for r in recommend_words: 
         if r in split_sentence:
-            sentiment = 0
-            result.append(str(sentiment))
-            return result
+            #print("recommended word ", r)
+            
+            curr_dist = 100
+            for i in range(0, len(split_sentence)): 
+                if split_sentence[i] == r: 
+                    if (category_index - i) < curr_dist:
+                        curr_dist = category_index - i
+                        recommend_index = i
+            # sentiment = 0
+            # result.append(str(sentiment))
+            # return result
     for c in completed_words:
         if c in split_sentence:
-            sentiment = 1
-            result.append(str(sentiment))
-            return result
+            #print("completed word ", c)
+            
+            curr_dist = 100
+            for i in range(0, len(split_sentence)):
+                if split_sentence[i] == c: 
+                    if (category_index-i) < curr_dist:
+                        curr_dist = category_index-i
+                        completed_index = i
+            # sentiment = 1
+            # result.append(str(sentiment))
+            # return result
+    d1_dec = abs(category_index-declined_index)
+    d1_rec = abs(category_index-recommend_index)
+    d1_com = abs(category_index-completed_index)
+    #print(d1_dec, d1_rec, d1_com)
+    #print(declined_index, recommend_index, completed_index, category_index)
+    if (d1_rec < d1_dec) and (d1_rec < d1_com):
+        result.append(str(0))
+        return result
+    elif (d1_com < d1_dec) and (d1_com < d1_rec):
+        result.append(str(1))
+        return result
+    else: 
+        result.append('2')
 
-    for item in token_sentence:
-        if item[1] == 'VBD' or item[1] == 'VBN':
-            past_verbs += 1
-        if item[1] == 'VB' or item[1] == 'VBG' or item[1] == 'VBP' or item[1] == 'VBZ':
-            present_verbs += 1
+    #Remove the NLTK Corpus for now
+    # for item in token_sentence:
+    #     if item[1] == 'VBD' or item[1] == 'VBN':
+    #         past_verbs += 1
+    #     if item[1] == 'VB' or item[1] == 'VBG' or item[1] == 'VBP' or item[1] == 'VBZ':
+    #         present_verbs += 1
     
-    if present_verbs >= past_verbs:
-        sentiment = 1
-        result.append(str(sentiment))
-    else:
-        sentiment = 1
-        result.append(str(sentiment))
-
+    # if present_verbs >= past_verbs:
+    #     sentiment = 1
+    #     result.append(str(sentiment))
+    # else:
+    #     sentiment = 1
+    #     result.append(str(sentiment))
     return result
 
 
@@ -253,8 +296,10 @@ def main():
                     print("The declined service is: " + prediction[0])
                 elif prediction[1] == '0':
                     print("The recommended service is: " + prediction[0])
-                else:
+                elif prediction[1] == '1':
                     print("The completed service is: " + prediction[0])
+                # else:
+                #     print("Category is neutral and no updates at this time!")
 
 if __name__ == "__main__":
     main()
