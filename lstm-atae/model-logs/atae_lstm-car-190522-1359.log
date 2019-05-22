@@ -1,0 +1,27 @@
+n_trainable_params: 2525703, n_nontrainable_params: 1389000
+> training arguments:
+>>> model_name: atae_lstm
+>>> dataset: car
+>>> optimizer: <class 'torch.optim.adadelta.Adadelta'>
+>>> initializer: <function xavier_uniform_ at 0x11a61f840>
+>>> learning_rate: 0.001
+>>> dropout: 0.1
+>>> l2reg: 0.01
+>>> num_epoch: 10
+>>> batch_size: 64
+>>> log_step: 5
+>>> embed_dim: 300
+>>> hidden_dim: 300
+>>> bert_dim: 768
+>>> pretrained_bert_name: bert-base-uncased
+>>> max_seq_len: 80
+>>> polarities_dim: 3
+>>> hops: 3
+>>> device: cpu
+>>> seed: None
+>>> valset_ratio: 0
+>>> model_class: <class 'models.atae_lstm.ATAE_LSTM'>
+>>> dataset_file: {'train': './datasets/semeval14/Car_Train.xml.seg', 'test': './datasets/semeval14/Car_Test_Gold.xml.seg'}
+>>> inputs_cols: ['text_raw_indices', 'aspect_indices']
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 0
