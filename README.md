@@ -6,7 +6,7 @@ Will apply several techniques such as kmeans clustering and lstm neural networks
 ### Kmeans ABSA Method 1
 Current kmeans ABSA Script is up and ready to run! Go into the kmeans-absa folder and you will see the script.py. You can see the logic of the algorithm within the script. To run, please go to your command line / power shell and input: 'python3 script.py'. Right now, kmeans ABSA is generating F1-score to about 0.9 and overall accuracy of 0.87. Improvements in process. 
 
-#### ATAE-LSTM Method 2
+### ATAE-LSTM Method 2
 Current attention based LSTM for aspect-level sentiment analysis (ATAE-LSTM) script is up and ready to run as well! In order to run this script there are other steps that need to be done prior to running the script. Complete the following steps below:
 
 1. Download the following two pretrained word vectors: glove.42B.300d.zip and glove.twitter.27B.zip. Unzip the files and place them within the lstm-atae folder. Link for download can be located here: https://github.com/stanfordnlp/GloVe#download-pre-trained-word-vectors
