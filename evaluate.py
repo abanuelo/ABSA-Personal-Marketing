@@ -1,12 +1,18 @@
 import os
-import numpy as np
+import math
 import re
+import pandas as pd
+from pandas import ExcelWriter
+from pandas import ExcelFile
+import sys
+sys.path.insert(0, './lstm-atae/')
 import infer_example
 
 '''
-Rudimentary User-Feedback Feature to get evaluation. 
+Script used for the evaluation of performance of model.
+Test of performance will be using the samples excel file
 Author: Armando Banuelos
-Date: 5/15/19
+Created On: 5/23/19
 '''
 
 #List containing all keywords for auto service repair
@@ -65,6 +71,11 @@ keywords = ['ac', 'airbag', 'air bag', 'air condition', 'air conditioning', 'con
             'wiper blades', 'wiperblade', 'wiperblades', 'wiper insert', 'wiper inserts']
 #Remove any duplicates from the list
 keywords = list(set(keywords))
+
+# Keywords used for determing aspect based sentiment
+completed_words = ['completed', 'performed', 'complete', 'perform', 'finished', 'finish', 'performing', 'completing', 'finishing', 'inspect', 'inspected', 'inspecting']
+recommend_words = ['rec', 'recommend', 'recommended', 'recommending', 'need', 'needs', 'recommendations', 'recommendation', 'requires', 'require', 'time to', 'old', 'wear', 'damage', 'damaged', 'damaging']
+declined_words = ['declined', 'deferred', 'dec', 'decline', 'defer', 'declining', 'deferring']
 
 #Dictionary that contains information about the category of service based on keyword
 serviceToKeyword = {'Air Bag Service':['airbag'], 
@@ -126,6 +137,7 @@ serviceToKeyword = {'Air Bag Service':['airbag'],
                     'Wheel Balance': ['mounted', 'balance', 'mountandbalancetires', 'mountandbalancetires', 'mountandbalancetires', 'mountandbalancetire', 'balancetires', 'mountandbalance'],
                     'Wiper Blade Service': [ 'wiper', 'wipers', 'wiperblade', 'wiperblades', 'wiperblade', 'wiperblades', 'wiperinsert','wiperinserts']}
 
+#FOR KMEANS EVALULATION + LSTM
 def cleanInput(user_input):
     #Convert to lowercase for that data
     user_input = user_input.lower()
@@ -139,6 +151,132 @@ def cleanInput(user_input):
         sentences.remove('')
     return sentences
 
+#FOR KMEANS EVALUATION
+def extractNgrams(cleaned_input):
+    ngrams = {}
+    true_sentence = ' '.join(cleaned_input)
+    n=14 #determines the ngrams to extract from either side of the word
+    if len(cleaned_input) > 0:
+        for w in keywords:
+            if w in true_sentence:
+                #check if > 1 word keywords to single word
+                w_list = w.split(' ')
+                if (len(w_list) > 1):
+                    new_w = ''.join(w_list)
+                    true_sentence = true_sentence.replace(w, new_w)
+        s_list = true_sentence.split(' ')
+        for w in keywords:
+            w = ''.join(w.split(' '))
+            if w in s_list: 
+                w_index = s_list.index(w)
+                n_gram = []
+                counter = int(-n/2)
+                canNotContinue = True
+                while (canNotContinue):
+                    if 0 <= w_index+counter < len(s_list):
+                        n_gram.append(s_list[w_index+counter])
+                    counter += 1
+                    if counter > int(n/2):
+                        canNotContinue = False
+                ngrams[w] = ' '.join(n_gram)
+    return ngrams
+
+#FOR KMEANS EVALUATION + LSTM
+def findCategory(keyword):
+    for key, val in serviceToKeyword.items():
+        if keyword in val:
+            return key
+
+#FOR KMEANS EVALUATION
+def kmeansPrediction(keyword, ngram):
+    result = []
+
+    split_sentence = ngram.split(' ')
+    #text = word_tokenize(ngram)
+    #token_sentence = nltk.pos_tag(text)
+    present_verbs = 0
+    past_verbs = 0
+    sentiment = 0
+
+    #indexes of words; initialize to large numbers
+    declined_index = 100
+    recommend_index = 100
+    completed_index = 100
+
+    #Finds the category that the keyword belongs in given the dictionary we have to import
+    category = findCategory(keyword)
+    result.append(category)
+    if category != 'No Servicing Category Detected':
+        category_index = split_sentence.index(keyword)
+    else:
+        return result.append('100') 
+    #print(keyword)
+    #print(split_sentence)
+
+    #update get the word closest to the catgory, without using index
+    for d in declined_words:
+        if d in split_sentence:
+            #print("declined word ", d)
+            declined_index = split_sentence.index(d)
+            sentiment = -1
+            result.append(str(sentiment))
+            return result
+    for r in recommend_words: 
+        if r in split_sentence:
+            #print("recommended word ", r)
+            
+            curr_dist = 100
+            for i in range(0, len(split_sentence)): 
+                if split_sentence[i] == r: 
+                    if (category_index - i) < curr_dist:
+                        curr_dist = category_index - i
+                        recommend_index = i
+            # sentiment = 0
+            # result.append(str(sentiment))
+            # return result
+    for c in completed_words:
+        if c in split_sentence:
+            #print("completed word ", c)
+            
+            curr_dist = 100
+            for i in range(0, len(split_sentence)):
+                if split_sentence[i] == c: 
+                    if (category_index-i) < curr_dist:
+                        curr_dist = category_index-i
+                        completed_index = i
+            # sentiment = 1
+            # result.append(str(sentiment))
+            # return result
+    d1_dec = abs(category_index-declined_index)
+    d1_rec = abs(category_index-recommend_index)
+    d1_com = abs(category_index-completed_index)
+    #print(d1_dec, d1_rec, d1_com)
+    #print(declined_index, recommend_index, completed_index, category_index)
+    if (d1_rec < d1_dec) and (d1_rec < d1_com):
+        result.append(str(0))
+        return result
+    elif (d1_com < d1_dec) and (d1_com < d1_rec):
+        result.append(str(1))
+        return result
+    else: 
+        result.append('2')
+
+    #Remove the NLTK Corpus for now
+    # for item in token_sentence:
+    #     if item[1] == 'VBD' or item[1] == 'VBN':
+    #         past_verbs += 1
+    #     if item[1] == 'VB' or item[1] == 'VBG' or item[1] == 'VBP' or item[1] == 'VBZ':
+    #         present_verbs += 1
+    
+    # if present_verbs >= past_verbs:
+    #     sentiment = 1
+    #     result.append(str(sentiment))
+    # else:
+    #     sentiment = 1
+    #     result.append(str(sentiment))
+    return result
+
+#FOR LSTM EVALUATION
 def extractSentenceAndKeywords(cleaned_input):
     sentence = ""
     k = []
@@ -157,44 +295,52 @@ def extractSentenceAndKeywords(cleaned_input):
         sentence = true_sentence
     return sentence, k
 
-def findCategory(keyword):
-    for key, val in serviceToKeyword.items():
-        if keyword in val:
-            return key
+#Method used to evaluate the effectiveness of kmeans
+def evalKmeans(sentence, services):
+    correct_count = 0
+    cleaned_input = cleanInput(sentence)
+    ngrams = extractNgrams(cleaned_input)
+    if len(ngrams) > 0:
+        for key, val in ngrams.items():
+            prediction = kmeansPrediction(key,val) #comes out as a tuple ['service type', 'sentiment (ie -1, 0, 1, 2)']
+            if (prediction[0] in services) and (prediction[1] == '-1'):
+                correct_count += 1
+    return correct_count
+
+#Method used to evaluate the effectiveness of lstm model for now
+def evalLSTM(sentence, services):
+    correct_count = 0
+    cleaned_input = cleanInput(sentence)
+    sentence, k = extractSentenceAndKeywords(cleaned_input)
+    for key in k: 
+        category = findCategory(key)
+        sentiment = infer_example.main(sentence, key, './lstm-atae/')
+        if sentiment[0] == -1 and category in services:
+            correct_count += 1
+    return correct_count
+    
 
 def main():
-    print("Introducing LSTM Deep Learning Aspect Based Sentiment Analysis")
-    print("-"*75)
-    print("Please insert an automobile report and we will try our best to find")
-    print("what was performed, recommended, or declined in your servicing history!")
-    print('\n')
-    print("As an example consider this:")
-    print("\'Inspected hood to check if coolant fine. Consider replacing coolant\'")
-    print('\n')
-    while(True):
-        user_input = input(">> ")
-        cleaned_input = cleanInput(user_input)
-        sentence, k = extractSentenceAndKeywords(cleaned_input)
-        list_of_outputs = []
-        for key in k: 
-            category = findCategory(key)
-            sentiment = infer_example.main(sentence, key, '')
-            if sentiment[0] == 1:
-                output = "Completed service on: " + category
-                if output not in list_of_outputs:
-                    list_of_outputs.append(output)
-                    print(output)
-            elif sentiment[0] == -1:
-                output = "Declined service on: " + category
-                if output not in list_of_outputs:
-                    list_of_outputs.append(output)
-                    print(output)
-            elif sentiment[0] == 0:
-                output = "Recommended service on: " + category
-                if output not in list_of_outputs:
-                    list_of_outputs.append(output)
-                    print(output)
+    #Read in file for evaluation
+    df = pd.read_excel('./data/Samples.xlsx')
+    comments = df['Comment']
+    decline_categories = df['Declines']
 
+    total = 0
+    kmeans_correct = 0
+    lstm_correct = 0
+
+    for i in range(len(comments)):
+        #Extract all the decline categories
+        serviceTypes = str(decline_categories[i]).split(", ")
+        if len(serviceTypes) > 0:
+            total += len(serviceTypes)
+            kmeans_correct += evalKmeans(str(comments[i]), serviceTypes)
+            lstm_correct += evalLSTM(str(comments[i]), serviceTypes)
+            print(lstm_correct)
+
+    print('Kmeans Accuracy is Currently At: ', float(kmeans_correct / total))
+    print('ATAE-LSTM Accuracy is Current At: ', float(lstm_correct / total))
 
 
 if __name__ == "__main__":

@@ -13,16 +13,19 @@ from models import IAN, MemNet, ATAE_LSTM, AOA
 
 class Inferer:
     """A simple inference example"""
-    def __init__(self, opt):
+    def __init__(self, opt, path_global):
         self.opt = opt
         self.tokenizer = build_tokenizer(
             fnames=[opt.dataset_file['train'], opt.dataset_file['test']],
             max_seq_len=opt.max_seq_len,
             dat_fname='{0}_tokenizer.dat'.format(opt.dataset))
+     
+        p = path_global + '{0}_{1}_embedding_matrix.dat'.format(str(opt.embed_dim), opt.dataset)
+        #print("THIS IS THE P THAT I AM TRYING TO PRINT YO: ", p)
         embedding_matrix = build_embedding_matrix(
             word2idx=self.tokenizer.word2idx,
             embed_dim=opt.embed_dim,
-            dat_fname='{0}_{1}_embedding_matrix.dat'.format(str(opt.embed_dim), opt.dataset))
+            dat_fname=p)
         self.model = opt.model_class(embedding_matrix, opt)
         #print('loading model {0} ...'.format(opt.model_name))
         self.model.load_state_dict(torch.load(opt.state_dict_path))
@@ -46,7 +49,8 @@ class Inferer:
         t_probs = F.softmax(t_outputs, dim=-1).cpu().numpy()
         return t_probs
 
-def main(sentence, keyword): 
+def main(sentence, keyword, path): 
+
     model_classes = {
         'atae_lstm': ATAE_LSTM,
         'ian': IAN,
@@ -55,7 +59,7 @@ def main(sentence, keyword):
     }
     # set your trained models here
     model_state_dict_paths = {
-        'atae_lstm': 'state_dict/atae_lstm_car_val_acc0.843',
+        'atae_lstm': path + 'state_dict/atae_lstm_car_val_acc0.843',
         # 'ian': 'state_dict/ian_restaurant_acc0.7911',
         # 'memnet': 'state_dict/memnet_restaurant_acc0.7911',
         # 'aoa': 'state_dict/aoa_restaurant_acc0.8063',
@@ -65,9 +69,17 @@ def main(sentence, keyword):
     opt.model_name = 'atae_lstm'
     opt.model_class = model_classes[opt.model_name]
     opt.dataset = 'car'
+    train_path = ''
+    test_path = ''
+    if len(path) > 0:
+        train_path = path + 'datasets/semeval14/Car_Train.xml.seg'
+        test_path = path + 'datasets/semeval14/Car_Test_Gold.xml.seg'
+    else:
+        train_path = './datasets/semeval14/Car_Train.xml.seg'
+        test_path = './datasets/semeval14/Car_Test_Gold.xml.seg'
     opt.dataset_file = {
-        'train': './datasets/semeval14/Car_Train.xml.seg',
-        'test': './datasets/semeval14/Car_Test_Gold.xml.seg'
+        'train': train_path,
+        'test': test_path
     }
     opt.state_dict_path = model_state_dict_paths[opt.model_name]
     opt.embed_dim = 300
@@ -77,11 +89,11 @@ def main(sentence, keyword):
     opt.hops = 3
     opt.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
-    inf = Inferer(opt)
+    inf = Inferer(opt, path)
     t_probs = inf.evaluate([sentence], keyword)
     #print(t_probs.argmax(axis=-1) - 1)
     return (t_probs.argmax(axis=-1) - 1)
 
 
 if __name__ == '__main__':
-    result = main(sentence, keyword)
+    result = main(sentence, keyword, path) #path can either be blank '' or have the root directory info
