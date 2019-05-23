@@ -1,0 +1,65 @@
+n_trainable_params: 2526004, n_nontrainable_params: 1389000
+> training arguments:
+>>> model_name: atae_lstm
+>>> dataset: car
+>>> optimizer: <class 'torch.optim.adagrad.Adagrad'>
+>>> initializer: <function _make_deprecate.<locals>.deprecated_init at 0x118fdd158>
+>>> learning_rate: 2e-05
+>>> dropout: 0.05
+>>> l2reg: 0.01
+>>> num_epoch: 10
+>>> batch_size: 64
+>>> log_step: 5
+>>> embed_dim: 300
+>>> hidden_dim: 300
+>>> bert_dim: 768
+>>> pretrained_bert_name: bert-base-uncased
+>>> max_seq_len: 80
+>>> polarities_dim: 4
+>>> hops: 3
+>>> device: cpu
+>>> seed: None
+>>> valset_ratio: 0
+>>> model_class: <class 'models.atae_lstm.ATAE_LSTM'>
+>>> dataset_file: {'train': './datasets/semeval14/Car_Train.xml.seg', 'test': './datasets/semeval14/Car_Test_Gold.xml.seg'}
+>>> inputs_cols: ['text_raw_indices', 'aspect_indices']
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 0
+loss: 1.3864, acc: 0.3531
+loss: 1.3657, acc: 0.3703
+loss: 1.3587, acc: 0.3812
+loss: 1.3577, acc: 0.3828
+loss: 1.3556, acc: 0.3825
+loss: 1.3533, acc: 0.3849
+loss: 1.3504, acc: 0.3848
+loss: 1.3492, acc: 0.3863
+> val_acc: 0.3822, val_f1: 0.1844
+>> saved: state_dict/atae_lstm_car_val_acc0.3822
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 1
+loss: 1.3678, acc: 0.3438
+loss: 1.3258, acc: 0.4062
+loss: 1.3176, acc: 0.4105
+loss: 1.3205, acc: 0.4082
+loss: 1.3255, acc: 0.3988
+loss: 1.3300, acc: 0.3924
+loss: 1.3327, acc: 0.3901
+loss: 1.3331, acc: 0.3902
+loss: 1.3308, acc: 0.3925
+> val_acc: 0.3822, val_f1: 0.1844
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 2
+loss: 1.3310, acc: 0.3750
+loss: 1.3202, acc: 0.4018
+loss: 1.3129, acc: 0.4062
+loss: 1.3195, acc: 0.3943
+loss: 1.3217, acc: 0.3885
+loss: 1.3148, acc: 0.3981
+loss: 1.3198, acc: 0.3901
+loss: 1.3191, acc: 0.3919
+loss: 1.3170, acc: 0.3958
+> val_acc: 0.3822, val_f1: 0.1844
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 3
+loss: 1.2986, acc: 0.3906
+loss: 1.3185, acc: 0.3828
