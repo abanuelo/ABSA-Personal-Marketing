@@ -337,7 +337,7 @@ def main():
             total += len(serviceTypes)
             kmeans_correct += evalKmeans(str(comments[i]), serviceTypes)
             lstm_correct += evalLSTM(str(comments[i]), serviceTypes)
-            print(lstm_correct)
+            print("Finished Evaluating Example " + str(i) + " of " + str(len(comments)))
 
     print('Kmeans Accuracy is Currently At: ', float(kmeans_correct / total))
     print('ATAE-LSTM Accuracy is Current At: ', float(lstm_correct / total))
