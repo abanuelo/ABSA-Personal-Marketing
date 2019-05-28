@@ -108,7 +108,7 @@ serviceToKeyword = {'Air Bag Service':['airbag'],
                     'Oil & Filter Change': ['oilfilter', 'oilandfilter', 'lof', 'lubeservice','expressservice','quicklube', 'quickservice', 'oilwfilter', 'oilchange', 'lubeoil','expressoil','oilservice', 'engineoil', 'mobilone', 'oilfilter', 'oilchange'],
                     'Oil/Fluid Leak Repair': ['oilleak', 'oilleaking', 'fluidleak', 'fluidleaking', 'oilleaks', 'fluidleaks', 'fluidlevels', 'leakage', 'leak'],
                     'Repairs' : ['repair', 'repairs'],
-                    'Service' : ['service', 'serv', 'svc' , 'ser', ],
+                    'Service' : ['service', 'serv', 'svc' , 'ser'],
                     'Safety Inspection': ['safetyinspection', 'safetyinspect', 'safetyinspec'],
                     'Sensor Service': ['sensor', 'sensors'],
                     'Spark Plugs': ['spark', 'sparkplug', 'sparkplugs', 'sparkplug', 'sparkplugs'],
@@ -124,7 +124,7 @@ serviceToKeyword = {'Air Bag Service':['airbag'],
                     'Tune Up': ['tune', 'tuneup'],
                     'Wheel Alignment Service': ['align', 'alignment', 'wheelalignment'],
                     'Wheel Balance': ['mounted', 'balance', 'mountandbalancetires', 'mountandbalancetires', 'mountandbalancetires', 'mountandbalancetire', 'balancetires', 'mountandbalance'],
-                    'Wiper Blade Service': [ 'wiper', 'wipers', 'wiperblade', 'wiperblades', 'wiperblade', 'wiperblades', 'wiperinsert','wiperinserts']}
+                    'Wiper Blade Service': ['wiper', 'wipers', 'wiperblade', 'wiperblades', 'wiperblade', 'wiperblades', 'wiperinsert','wiperinserts']}
 
 def cleanInput(user_input):
     #Convert to lowercase for that data

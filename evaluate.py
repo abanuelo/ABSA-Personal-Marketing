@@ -7,6 +7,7 @@ from pandas import ExcelFile
 import sys
 sys.path.insert(0, './lstm-atae/')
 import infer_example
+import infer_example_cabasc
 
 '''
 Script used for the evaluation of performance of model.
@@ -149,7 +150,12 @@ def cleanInput(user_input):
     #Delete excess spaces contained with the sentence
     while('' in sentences):
         sentences.remove('')
-    return sentences
+    final = []
+    for s in sentences:
+        if '|' in s:
+            s = s.replace('|', '')
+        final.append(s)
+    return final
 
 #FOR KMEANS EVALUATION
 def extractNgrams(cleaned_input):
@@ -283,7 +289,7 @@ def extractSentenceAndKeywords(cleaned_input):
     true_sentence = ' '.join(cleaned_input)
     if len(cleaned_input) > 0:
         for w in keywords:
-            if w in true_sentence:
+            if w in cleaned_input:
                 #check if > 1 word keywords to single word
                 w_list = w.split(' ')
                 if (len(w_list) > 1):
@@ -319,6 +325,16 @@ def evalLSTM(sentence, services):
             correct_count += 1
     return correct_count
     
+def evalCABASC(sentence, services):
+    correct_count = 0
+    cleaned_input = cleanInput(sentence)
+    sentence, k = extractSentenceAndKeywords(cleaned_input)
+    for key in k: 
+        category = findCategory(key)
+        sentiment = infer_example_cabasc.main(sentence, key, './lstm-atae/')
+        if sentiment[0] == -1 and category in services:
+            correct_count += 1
+    return correct_count
 
 def main():
     #Read in file for evaluation
@@ -329,6 +345,7 @@ def main():
     total = 0
     kmeans_correct = 0
     lstm_correct = 0
+    cabasc_correct = 0
 
     for i in range(len(comments)):
         #Extract all the decline categories
@@ -337,10 +354,13 @@ def main():
             total += len(serviceTypes)
             kmeans_correct += evalKmeans(str(comments[i]), serviceTypes)
             lstm_correct += evalLSTM(str(comments[i]), serviceTypes)
+            cabasc_correct += evalCABASC(str(comments[i]), serviceTypes)
             print("Finished Evaluating Example " + str(i) + " of " + str(len(comments)))
 
     print('Kmeans Accuracy is Currently At: ', float(kmeans_correct / total))
-    print('ATAE-LSTM Accuracy is Current At: ', float(lstm_correct / total))
+    print('ATAE-LSTM Accuracy is Currently At: ', float(lstm_correct / total))
+    print('CABASC Accuracy is Currently At: ', float(cabasc_correct / total))
+
 
 
 if __name__ == "__main__":

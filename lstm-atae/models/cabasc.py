@@ -76,6 +76,18 @@ class Cabasc(nn.Module):
     def forward(self, inputs):
         # inputs
         text_raw_indices, aspect_indices, x_l, x_r = inputs[0], inputs[1], inputs[2], inputs[3]
+        # print("THESE ARE THE RAW TEXT INDICES BEING CREATED!")
+        # print(text_raw_indices[0])
+        # print('-'*40)
+        # print("THESE ARE THE ASPECT INDICES BEING CREATED!")
+        # print(aspect_indices[0])
+        # print('-'*40)
+        # print("THESE ARE THE LEFT INDICES BEING CREATED!")
+        # print(x_l[0])
+        # print('-'*40)
+        # print("THESE ARE THE RIGHT INDICES BEING CREATED!")
+        # print(x_r[0])
+        # print('-'*40)
         memory_len = torch.sum(text_raw_indices != 0, dim = -1)
         aspect_len = torch.sum(aspect_indices != 0, dim = -1)
         
