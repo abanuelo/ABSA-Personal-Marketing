@@ -34,7 +34,7 @@ if __name__ == '__main__':
     #Function will allocate a 80/20 split train/test for data
     distributeData(f, train, test)
     #Close files to avoid memory leaks
-    close(f)
-    close(train)
-    close(test)
+    # close(f)
+    # close(train)
+    # close(test)
 

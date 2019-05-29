@@ -99,8 +99,6 @@ class Instructor:
                 global_step += 1
                 # clear gradient accumulators
                 optimizer.zero_grad()
-                print("samplebatch: ", sample_batched)
-                print("ibatch: ", i_batch)
                 inputs = [sample_batched[col].to(self.opt.device) for col in self.opt.inputs_cols]
                 outputs = self.model(inputs)
                 targets = sample_batched['polarity'].to(self.opt.device)

@@ -39,6 +39,6 @@ def importData(f, list_of_files):
 #Will read through the list of files, format them appropriately, and write them to info.txt
 if  __name__ == "__main__":
     f = open('info.txt','a')
-    list_of_files = ['./data/AirConditioner.csv', './data/ABS.csv', './data/Airbag.csv', './data/Ball-Joint.csv', './data/CabinAirFilter.csv']
+    list_of_files = ['./data/AirConditioner.csv', './data/ABS.csv', './data/Airbag.csv', './data/Ball-Joint.csv', './data/CabinAirFilter.csv', './data/MR-OIL.csv']
     importData(f, list_of_files)
     close(f)

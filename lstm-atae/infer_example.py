@@ -59,7 +59,7 @@ def main(sentence, keyword, path):
     }
     # set your trained models here
     model_state_dict_paths = {
-        'atae_lstm': path + 'state_dict/atae_lstm_car_val_acc0.843',
+        'atae_lstm': path + 'state_dict/atae_lstm_car_val_acc0.8334',
         # 'ian': 'state_dict/ian_restaurant_acc0.7911',
         # 'memnet': 'state_dict/memnet_restaurant_acc0.7911',
         # 'aoa': 'state_dict/aoa_restaurant_acc0.8063',
