@@ -1,0 +1,927 @@
+noise coming from power steering pump no fluid in system pump is seized inspected found hole in power steering hose from reservoir to cooler bracket to hold hose in position missing alternator pulley caused hole replaced power steering pump replaced return hose from reservoir to cooler refilled fluid bleed air from system test drovesecured hose away from $T$ notewater pump leaking coolant recommend water pump and serpentine belt topped off coolant
+alternator
+0
+noise coming from power steering pump no fluid in system pump is seized inspected found hole in power steering hose from reservoir to cooler bracket to hold hose in position missing $T$ pulley caused hole replaced power steering pump replaced return hose from reservoir to cooler refilled fluid bleed air from system test drovesecured hose away from alternator notewater pump leaking coolant recommend water pump and serpentine belt topped off coolant
+alternator
+1
+line c alternator  replace  fault stored  generator electrical fault in circuit passive  recommend replacement of $T$
+alternator
+0
+line c $T$  replace  fault stored  generator electrical fault in circuit passive  recommend replacement of alternator
+alternator
+1
+declined replace $T$ with integrated voltage regulator will need to rewire system for the new voltage regulator
+alternator
+-1
+engine oil leak at the spool valve and valve co ver gasket leaking into the alternator need t o replace front spool valve front valve cover gasket and $T$  front brake p ads and rotors  recommend  tires soo n
+alternator
+0
+engine oil leak at the spool valve and valve co ver gasket leaking into the $T$ need t o replace front spool valve front valve cover gasket and alternator  front brake p ads and rotors  recommend  tires soo n
+alternator
+0
+drivingmost often at hwy speeds on accle has died slow speedc stop  time since been doinghappened on way here from ludlow road tested to confirm  plus miles unable to reproduce concernwas able to confirm alternator output drops below spec while drivingestimate to $T$  declined at this time
+alternator
+-1
+drivingmost often at hwy speeds on accle has died slow speedc stop  time since been doinghappened on way here from ludlow road tested to confirm  plus miles unable to reproduce concernwas able to confirm $T$ output drops below spec while drivingestimate to alternator  declined at this time
+alternator
+-1
+recommend valve cover gaskets  leaking onto $T$ tune up passenger side axle transmission flush powersteering flush upper control arms on both sides
+alternator
+0
+verified customers concern vehicle will not start and dies when jump started recommend replacing battery due to battery failed load test also recommend replacing alternator due to being faulty and would not hold battery charged replaced $T$ tested starting functions all operations are normal at this time
+alternator
+1
+verified customers concern vehicle will not start and dies when jump started recommend replacing battery due to battery failed load test also recommend replacing $T$ due to being faulty and would not hold battery charged replaced alternator tested starting functions all operations are normal at this time
+alternator
+0
+recommend front and side mounts   bottom trans mount   $T$ noisy   timing belt tensioner noisy   kit
+alternator
+0
+alternator  replace  after second charging system test found charging voltage within spec but just at the min specification vif it drops any further will recommend replacement of $T$
+alternator
+0
+$T$  replace  after second charging system test found charging voltage within spec but just at the min specification vif it drops any further will recommend replacement of alternator
+alternator
+1
+found passive fault stored  generator electrical fault in circuit alternator testing okay at this time however due to fault suggest replacing $T$ customer advised
+alternator
+0
+found passive fault stored  generator electrical fault in circuit $T$ testing okay at this time however due to fault suggest replacing alternator customer advised
+alternator
+1
+recommend tech noted the following the $T$ light is on exhaust is leaking at the flex pipe will need to check brakes again soon or at the next service
+abs
+0
+recommended services water pump is leaking front left headlamp is out hood cable front sway bar bushing kit oil pump and gasket s $T$ diagnosis srs diagnosis front upper control arms rear sway bar bushings
+abs
+0
+recommend owner advised battery tray rusted outfloor boards are rusted outwill need body shop repairs will need complete exhaustno longer availableneeds srs module no longer available will need front brake pads power steering high pressure hose starting to swell up cleaned relucter wheel for $T$
+abs
+0
+need $T$
+alternator
+1
+performed oil and filter change filled with w mobil  synthetic oil  replaced engine oil cap due to cap not sealing properly added bg moa oil additive to new engine oil added bg cf fuel additive to fuel tank cleared debris from the air intake inlets cleared debris from the radiator inlets cleared convertible top drain removed the pollen filter cleared debris from the pollen filter housing installed new pollen filter inspected the air filter and cleared debris from the air box air filter is ok cleared plenum drain performed bg ac and ventilation system service added bg fuel treatment inspected under carriage for damage and leaks under carriage is ok inspected brake lines and hose for damage and leaks brake lines and hoses are ok inspected suspension for damage and play suspension is ok performed visual tire inspection  tires are ok performed visual brake inspection brakes are ok bur the rear brake rotors are at the minimum thickness  replacement is recommended soon inspected cooling system for leaks cooling system is ok inspected power steering components for damage play leaks power steering components are ok inspected exhaust for damage and leaks exhaust system is ok inspected exterior lights no exterior lights out inspected interior lights no interior lights out checked the operation of the horns horns are ok checked the operation of the washer system washer system is ok checked the operation of the windshield wipers windshield wipers are ok performed guided fault finding scan no faults detected reset service interval set tire pressures and topped up fluids performed brake fluid service flushed brake fluid from brake hydraulic system bled new brake fluid into the brake hydraulic system and checked the function of the abs $T$ is operating to manufactures design next brake fluid service is due september
+abs
+1
+performed oil and filter change filled with w mobil  synthetic oil  replaced engine oil cap due to cap not sealing properly added bg moa oil additive to new engine oil added bg cf fuel additive to fuel tank cleared debris from the air intake inlets cleared debris from the radiator inlets cleared convertible top drain removed the pollen filter cleared debris from the pollen filter housing installed new pollen filter inspected the air filter and cleared debris from the air box air filter is ok cleared plenum drain performed bg ac and ventilation system service added bg fuel treatment inspected under carriage for damage and leaks under carriage is ok inspected brake lines and hose for damage and leaks brake lines and hoses are ok inspected suspension for damage and play suspension is ok performed visual tire inspection  tires are ok performed visual brake inspection brakes are ok bur the rear brake rotors are at the minimum thickness  replacement is recommended soon inspected cooling system for leaks cooling system is ok inspected power steering components for damage play leaks power steering components are ok inspected exhaust for damage and leaks exhaust system is ok inspected exterior lights no exterior lights out inspected interior lights no interior lights out checked the operation of the horns horns are ok checked the operation of the washer system washer system is ok checked the operation of the windshield wipers windshield wipers are ok performed guided fault finding scan no faults detected reset service interval set tire pressures and topped up fluids performed brake fluid service flushed brake fluid from brake hydraulic system bled new brake fluid into the brake hydraulic system and checked the function of the $T$ abs is operating to manufactures design next brake fluid service is due september
+abs
+1
+multi point inspection performed multi point inspection and noted the following  $T$ belt monitor needs replacement plastic pulley has come apart  rear brake pads and rotors worn rear pads measured mm and front at mm  tires expired  front dot  lr dot  rr dot  rear tires also measured  and front tires   recommend wheel alignment with new tires if replaced  timing chain covers leaking oil  engine belly pan missing  no recent major maintenance recorded air filter dirty  found rear spoiler noisy on test drive rec to replace drive and cable  during test drive noted the clutch pedal slightly stiff clutch disc may be close to being worn
+alternator
+0
+performed b service service includes submenu items per checklist  elk grove acura  minimum service b replace engine oil and filter install windshield wiper solvent b inspect front and rear brakes b check parking brake adjustment b visually inspect tie rod ends steering gear box and boots b visually inspect suspension components b visually inspect driveshaft boots b visually inspect brake hoses and line including $T$ b visually inspect all fluid levels and condition of fluids top off as needed b visually inspect exhaust system b visually inspect fuel lines and connections did not rotate tires recommended to replace  or all  tires rotate tires check tire pressure and condition inspect drive belt check vin  for open recalls or campaigns clean battery cable ends and terminals and install anticorrosion pads perform multipoint inspection
+abs
+1
+completed battery has a bad cell power steering pump leaking strut mounts torn alignment $T$ bolt missing client declined repairs nc
+alternator
+-1
+client declined the $T$ tensioner and aux belts
+alternator
+-1
+customer states all lights on dash are coming on verified customers concern the check engine light abs and brake light are on abs was on for original vin is missing and configuration was mismatched performed abs configuration and vin was configured to $T$ since codes went from active to stored for the check engine light codes was an active p cylinder  misfire swapped ignition coils plugs from cylinder  to  and monitored misfires cylinder  was still misfiring checked fuel injectors injectors were good within specifications performed compression test on cylinder  compression was very low at psi compared to psi which is normal recommend engine tear down suspect engine has possible internal valve train failure
+abs
+1
+customer states all lights on dash are coming on verified customers concern the check engine light abs and brake light are on abs was on for original vin is missing and configuration was mismatched performed $T$ configuration and vin was configured to abs since codes went from active to stored for the check engine light codes was an active p cylinder  misfire swapped ignition coils plugs from cylinder  to  and monitored misfires cylinder  was still misfiring checked fuel injectors injectors were good within specifications performed compression test on cylinder  compression was very low at psi compared to psi which is normal recommend engine tear down suspect engine has possible internal valve train failure
+abs
+1
+customer states all lights on dash are coming on verified customers concern the check engine light abs and brake light are on $T$ was on for original vin is missing and configuration was mismatched performed abs configuration and vin was configured to abs since codes went from active to stored for the check engine light codes was an active p cylinder  misfire swapped ignition coils plugs from cylinder  to  and monitored misfires cylinder  was still misfiring checked fuel injectors injectors were good within specifications performed compression test on cylinder  compression was very low at psi compared to psi which is normal recommend engine tear down suspect engine has possible internal valve train failure
+abs
+1
+customer states all lights on dash are coming on verified customers concern the check engine light $T$ and brake light are on abs was on for original vin is missing and configuration was mismatched performed abs configuration and vin was configured to abs since codes went from active to stored for the check engine light codes was an active p cylinder  misfire swapped ignition coils plugs from cylinder  to  and monitored misfires cylinder  was still misfiring checked fuel injectors injectors were good within specifications performed compression test on cylinder  compression was very low at psi compared to psi which is normal recommend engine tear down suspect engine has possible internal valve train failure
+abs
+1
+performed b service service includes submenu items per checklist  elk grove acura  value service b replace engine oil and filter install windshield wiper solvent b inspect front and rear brakes b check parking brake adjustment b visually inspect tie rod ends steering gear box and boots b visually inspect suspension components b visually inspect driveshaft boots b visually inspect brake hoses and line including $T$ b visually inspect all fluid levels and condition of fluids top off as needed b visually inspect exhaust system b visually inspect fuel lines and connections  rotate tires check tire pressure and condition inspect drive belt check vin  for open recalls or campaigns clean battery cable ends and terminals and install anticorrosion pads perform multipoint inspection install premium fuel system conditioners deposit control and ethanol defense kit install premium universal coolant conditioner service includes day complimentary roadside care with tire hazard coverage activation required
+abs
+1
+misfires on cylinder  and  replaced coils now no misfires recommend tbelt water pump coolant plugs drive belt trans fluid and brake fluid abs and traction control lights on recommend diagnosis on $T$ system brake pedal feels low recommend complete brake inspection
+abs
+0
+misfires on cylinder  and  replaced coils now no misfires recommend tbelt water pump coolant plugs drive belt trans fluid and brake fluid $T$ and traction control lights on recommend diagnosis on abs system brake pedal feels low recommend complete brake inspection
+abs
+0
+recall p alternator internally shorted not charging replace $T$ assembly wd  wk models p  hours
+alternator
+1
+recall p $T$ internally shorted not charging replace alternator assembly wd  wk models p  hours
+alternator
+1
+perform recall s program pcmtcmrfh and ipc as per fca could not do recall battery voltage to low recall well over  hour with good battery customer will need to return to do recall $T$ was bad and took all voltage out of battery new battery brought by customer recall sreprogram the pcm  tcm  rfh  ipc modules and insert owners manual addendum card  ld  lx models s  hours
+alternator
+1
+as soon as jumper removedadvise inspection found alternator failedhas oil presence from valve coversbattery also failedresealed both valve covers replaced $T$ and batteryreplaced air filter and verified operation front brakes at mmdiscard needs now owner declined estimate  brake fluid is dark needs serviced  owner declined
+alternator
+1
+as soon as jumper removedadvise inspection found $T$ failedhas oil presence from valve coversbattery also failedresealed both valve covers replaced alternator and batteryreplaced air filter and verified operation front brakes at mmdiscard needs now owner declined estimate  brake fluid is dark needs serviced  owner declined
+alternator
+1
+found vehicle was slow to start performed battery test and test results were to replace battery performed starter draw and alternator test both starter and $T$ tested ok removed drivers front seat and removed battery new battery was installed scan tool was used to code new battery into gateway module after coding new battery into gateway module the sunroof power windows electric steering column throttle body and steering angle sensor were all calibrated and adapted fault memory was read and erased tpms was calibrated and vehicle was test driven vehicle now starts normally
+alternator
+1
+found vehicle was slow to start performed battery test and test results were to replace battery performed starter draw and $T$ test both starter and alternator tested ok removed drivers front seat and removed battery new battery was installed scan tool was used to code new battery into gateway module after coding new battery into gateway module the sunroof power windows electric steering column throttle body and steering angle sensor were all calibrated and adapted fault memory was read and erased tpms was calibrated and vehicle was test driven vehicle now starts normally
+alternator
+1
+perform complimentary multi point visual inspection check and set tire pressuresalso recommend overdue for spark plugsoverdue for coolant serviceoverdue for power steering fluid servicehas signs of rodents in engine compartmentchew marks on $T$ wiring but lights not on at this timeadvised customersee attached service sheet
+abs
+0
+field service action r qx $T$ actuator itb
+abs
+1
+while car is running alternator is only running at v alternator should be running at v recommend replacement of $T$
+alternator
+0
+while car is running alternator is only running at v $T$ should be running at v recommend replacement of alternator
+alternator
+0
+while car is running $T$ is only running at v alternator should be running at v recommend replacement of alternator
+alternator
+0
+performed b service service includes submenu items per checklist  elk grove acura  minimum service b replace engine oil and filter install windshield wiper solvent b inspect front and rear brakes b check parking brake adjustment b visually inspect tie rod ends steering gear box and boots b visually inspect suspension components b visually inspect driveshaft boots b visually inspect brake hoses and line including $T$ b visually inspect all fluid levels and condition of fluids top off as needed b visually inspect exhaust system b visually inspect fuel lines and connections  rotate tires check tire pressure and condition inspect drive belt check vin  for open recalls or campaigns clean battery cable ends and terminals and install anticorrosion pads perform multipoint inspection no rot
+abs
+1
+performed brake fluid service flushed brake fluid from brake hydraulic system bled new brake fluid into the brake hydraulic system and checked the function of the abs $T$ is operating to manufactures design next brake fluid service is due november
+abs
+1
+performed brake fluid service flushed brake fluid from brake hydraulic system bled new brake fluid into the brake hydraulic system and checked the function of the $T$ abs is operating to manufactures design next brake fluid service is due november
+abs
+1
+declined $T$ pulley on reed unit side replace
+alternator
+-1
+replaced both evt magnets hrs $T$ ps pump and bracket pulleys must be remove to replace evt  customer declined repair at this time
+alternator
+1
+client requests to test inspect and replace battery on spa platform perform vida $T$ test and reset bms indicator
+alternator
+1
+fault traced issue to faulty v battery $T$ and coil packs recommended work was declined by client at this time
+alternator
+0
+replace $T$ assembly p
+alternator
+1
+battery and charging system ok  the vehicle cranked over normally after multiple attempts due to faulty clutch switch tested battery battery tests at a over the rated a the battery tester reads the battery state as goodrecharge charged battery during service tests alternator the $T$ tests good and responds to loads normally recommend the battery be charged via trickle charger maintainer when vehicle is not in use
+alternator
+1
+battery and charging system ok  the vehicle cranked over normally after multiple attempts due to faulty clutch switch tested battery battery tests at a over the rated a the battery tester reads the battery state as goodrecharge charged battery during service tests $T$ the alternator tests good and responds to loads normally recommend the battery be charged via trickle charger maintainer when vehicle is not in use
+alternator
+1
+miscellaneous tried to start vehicle but would die after several seconds connected vehicle to vida and found dtc ecmd engine control module  idle speed control signal too low went through fault tracing procedures including fuel system and intake system no fault were found on both systems tried to start vehicle for another test but no crank only clicking from starter used a jump starter and engine was able to start and stay idle the entire time vehicle was on fault traced engine stalling to electrical system including battery $T$ and coils
+alternator
+2
+d check engine lights on $T$ brake codecat convertor codeneeds upper ball joints and tag lamp bulbs
+abs
+0
+generator failure internal defect charge battery perform inspection of wiring and connections at battery generator pdc and jumper harness connections perform voltage drop and full field tests generator is not operational when full fielded pcm duty cycle verified replaced $T$ per diagnosis checked for dtcs after cleared codes okay
+alternator
+1
+performed b service service includes submenu items per checklist  elk grove acura  value service b replace engine oil and filter install windshield wiper solvent b inspect front and rear brakes b check parking brake adjustment b visually inspect tie rod ends steering gear box and boots b visually inspect suspension components b visually inspect driveshaft boots b visually inspect brake hoses and line including $T$ b visually inspect all fluid levels and condition of fluids top off as needed b visually inspect exhaust system b visually inspect fuel lines and connections check tire pressure and condition inspect drive belt check vin  for open recalls or campaigns clean battery cable ends and terminals and install anticorrosion pads perform multipoint inspection install premium fuel system conditioners deposit control and ethanol defense kit install premium universal coolant conditioner note no tire rotation performed due to all four tires needing replacement soon
+abs
+1
+c tech  tu  tested charging system and found low voltage checked $T$ ok tested starter and tested for amperage draw from charging system all ok found voltage low due to battery testing weak battery appears to be original recommend battery replacement declined at this time
+alternator
+1
+checked out abs system  no current fault codes present  did have stored fault code for left rear $T$ wheel speed sensor    tax  customer declined repair at this time
+abs
+1
+checked out $T$ system  no current fault codes present  did have stored fault code for left rear abs wheel speed sensor    tax  customer declined repair at this time
+abs
+1
+recommend $T$  battery   front tires
+alternator
+0
+recommend tech recommends battery however battery terminals rusted and corroded may need a positive battery cable when replaced no $T$ noise heard at this time noise while driving will need to be diagnosed by technician
+alternator
+2
+performed b service service includes submenu items per checklist  elk grove acura  minimum service b replace engine oil and filter install windshield wiper solvent b inspect front and rear brakes b check parking brake adjustment b visually inspect tie rod ends steering gear box and boots b visually inspect suspension components b visually inspect driveshaft boots b visually inspect brake hoses and line including $T$ b visually inspect all fluid levels and condition of fluids top off as needed b visually inspect exhaust system b visually inspect fuel lines and connections  rotate tires check tire pressure and condition inspect drive belt check vin  for open recalls or campaigns clean battery cable ends and terminals and install anticorrosion pads perform multipoint inspection no rotate
+abs
+1
+declined replace $T$
+alternator
+-1
+recall cr inflater ecall cr as required mo d check engine lights on $T$ brake codecat convertor codeneeds upper ball joints and tag lamp bulbs
+abs
+1
+i was able to duplicate an abnormal whine noise  i found the alt is making noise  rec replacing before further testing  i replaced the $T$ and retest ok now
+alternator
+1
+replace both front hubs install left front out er tie rod end with steering components fabric ate left front $T$ sensor bracket perform alig nment with tires plus ta x
+abs
+1
+performed b service service includes submenu items per checklist  elk grove acura  value service b replace engine oil and filter install windshield wiper solvent b inspect front and rear brakes b check parking brake adjustment b visually inspect tie rod ends steering gear box and boots b visually inspect suspension components b visually inspect driveshaft boots b visually inspect brake hoses and line including $T$ b visually inspect all fluid levels and condition of fluids top off as needed b visually inspect exhaust system b visually inspect fuel lines and connections  rotate tires check tire pressure and condition inspect drive belt check vin  for open recalls or campaigns perform multipoint inspection note no tire rotation performed  one of the rear tires is worn near minimum service limits
+abs
+1
+recommend tech recommends $T$  ds hid headlight igniter and control unit  brake flush  power steering flush  ps rack starting to leak rear brake pads and am rotors  rear differential service  timing belt package spark plugs and valve adjustment due at  k
+alternator
+0
+perform battery test battery tests good but low on charge charge battery and check charging and starting system found $T$ is charging at  volts and  amps found starter is drawing  peak amps causing a slow crank at times replace starter and inspect starteralternator harness during repairs harness has already been updated and replacement is not recommended at this time vehicle starts properly at this time
+alternator
+1
+performed b service service includes submenu items per checklist  elk grove acura  minimum service b replace engine oil and filter install windshield wiper solvent b inspect front and rear brakes b check parking brake adjustment b visually inspect tie rod ends steering gear box and boots b visually inspect suspension components b visually inspect driveshaft boots b visually inspect brake hoses and line including $T$ b visually inspect all fluid levels and condition of fluids top off as needed b visually inspect exhaust system b visually inspect fuel lines and connections did not perform tire rotation recommended all  tires and alignment see attached tire quotes check tire pressure and condition inspect drive belt check vin  for open recalls or campaigns clean battery cable ends and terminals and install anticorrosion pads perform multipoint inspection
+abs
+1
+performed b service service includes submenu items per checklist  elk grove acura  minimum service b replace engine oil and filter install windshield wiper solvent b inspect front and rear brakes b check parking brake adjustment b visually inspect tie rod ends steering gear box and boots b visually inspect suspension components b visually inspect driveshaft boots b visually inspect brake hoses and line including $T$ b visually inspect all fluid levels and condition of fluids top off as needed b visually inspect exhaust system b visually inspect fuel lines and connections check tire pressure and condition inspect drive belt check vin  for open recalls or campaigns perform multipoint inspection note no tire rotation  better tires on front of vehicle
+abs
+1
+charging voltage to high  read print and delete fault memory passive over voltage faults per freeze frame the battery voltage was to high on sep     volt suggest to replace $T$ see est
+alternator
+0
+performed recall t removed and replaced $T$ okay at this time
+alternator
+1
+roadtest vehicle normal stops ok  did  panic stops to check $T$ activation check for uneven brake pads wear ok front mm and rear mm system and components operating normal
+abs
+2
+tech recd wiper inserts brake and power steering fluid flush  tires $T$  cust declined
+alternator
+-1
+as soon as jumper removedadvise inspection found alternator failedhas oil presence from valve coversbattery also failedresealed both valve covers replaced $T$ and batteryreplaced air filter and verified operation
+alternator
+1
+as soon as jumper removedadvise inspection found $T$ failedhas oil presence from valve coversbattery also failedresealed both valve covers replaced alternator and batteryreplaced air filter and verified operation
+alternator
+1
+perform complimentary multi point visual inspection check and set tire pressures recommend diag for check engine light $T$ light airbag light and traction control light passenger front tire missing lug nut recommend coolant flush rec replacing front shocks
+abs
+0
+oil trap severely plugged timing belt covered in oil evap emission canister missing both front tie rod end boots torn $T$ light on vehicle horn bracket broken front drivers side fender liner missing
+abs
+2
+diagnosed for cause of $T$ concern has history code u in the rear diff control module c c c c c c c c c in the bcm and code c u in the ebcm the only thing found failing at this time is the right front tire pressure sensor so it wont all a tire relearn to be done needs to have the sensor replaced then drive and evaluate no repair done today
+abs
+1
+recommended replacing $T$ drive belt te nsioner drive belt ideler pully and drive bel t  rear brakes  customer declined
+alternator
+0
+alternator shaft slightly bent    inspected vehicle found when spinning alternator shaft fan to wobble bent shaft recommended replacement of alternator and bearings customer approved repair no alternator available from porsche aftermarket bosch remanufactured alternator used removed alternator transferred fan to new alternator and replaced bearing and hardware installed $T$ assembly replaced belts and corrected tension to  kg charged battery and test drove vehicle readjusted belts vehicle ok
+alternator
+1
+alternator shaft slightly bent    inspected vehicle found when spinning alternator shaft fan to wobble bent shaft recommended replacement of alternator and bearings customer approved repair no alternator available from porsche aftermarket bosch remanufactured alternator used removed alternator transferred fan to new $T$ and replaced bearing and hardware installed alternator assembly replaced belts and corrected tension to  kg charged battery and test drove vehicle readjusted belts vehicle ok
+alternator
+1
+alternator shaft slightly bent    inspected vehicle found when spinning alternator shaft fan to wobble bent shaft recommended replacement of alternator and bearings customer approved repair no alternator available from porsche aftermarket bosch remanufactured alternator used removed $T$ transferred fan to new alternator and replaced bearing and hardware installed alternator assembly replaced belts and corrected tension to  kg charged battery and test drove vehicle readjusted belts vehicle ok
+alternator
+1
+alternator shaft slightly bent    inspected vehicle found when spinning alternator shaft fan to wobble bent shaft recommended replacement of alternator and bearings customer approved repair no alternator available from porsche aftermarket bosch remanufactured $T$ used removed alternator transferred fan to new alternator and replaced bearing and hardware installed alternator assembly replaced belts and corrected tension to  kg charged battery and test drove vehicle readjusted belts vehicle ok
+alternator
+1
+alternator shaft slightly bent    inspected vehicle found when spinning alternator shaft fan to wobble bent shaft recommended replacement of alternator and bearings customer approved repair no $T$ available from porsche aftermarket bosch remanufactured alternator used removed alternator transferred fan to new alternator and replaced bearing and hardware installed alternator assembly replaced belts and corrected tension to  kg charged battery and test drove vehicle readjusted belts vehicle ok
+alternator
+1
+alternator shaft slightly bent    inspected vehicle found when spinning alternator shaft fan to wobble bent shaft recommended replacement of $T$ and bearings customer approved repair no alternator available from porsche aftermarket bosch remanufactured alternator used removed alternator transferred fan to new alternator and replaced bearing and hardware installed alternator assembly replaced belts and corrected tension to  kg charged battery and test drove vehicle readjusted belts vehicle ok
+alternator
+0
+alternator shaft slightly bent    inspected vehicle found when spinning $T$ shaft fan to wobble bent shaft recommended replacement of alternator and bearings customer approved repair no alternator available from porsche aftermarket bosch remanufactured alternator used removed alternator transferred fan to new alternator and replaced bearing and hardware installed alternator assembly replaced belts and corrected tension to  kg charged battery and test drove vehicle readjusted belts vehicle ok
+alternator
+2
+$T$ shaft slightly bent    inspected vehicle found when spinning alternator shaft fan to wobble bent shaft recommended replacement of alternator and bearings customer approved repair no alternator available from porsche aftermarket bosch remanufactured alternator used removed alternator transferred fan to new alternator and replaced bearing and hardware installed alternator assembly replaced belts and corrected tension to  kg charged battery and test drove vehicle readjusted belts vehicle ok
+alternator
+2
+bolts for front timing cover have broken causing oil to leak from front cover inspected vehicle and found engine oil leaking under the engine connected piwis and created val no codes related to oil leak found at this time removed engine under panel and inspected and found front cover leaking oil cleaned and put leak trace pouter on the front cover road tested vehicle and found the front cover is leaking oil all pics included in ppn rr left and right middle under panels rr left and right front wheels and wheel well paneling drained coolant evacuated ac system rr left and right side air intake boxes disconnected battery ground strap for engine removal disconnected dme and removed disconnected fuse panel and removed removed engine removed air intake distributor unflanged engine from transmission rr all spark plugs rr left and right side valve covers installed with new hardware and gaskets rr $T$ removed front cover and found several broken bolts from factory causing oil to leak from front cover reinstalled front cover with new gaskets and silicone insured timing for the engine is correct adjusted camshafts flanged engine back to transmission reinstalled engine reconnected ground strap reconnected fuse panel and reinstalled and connected dme refilled coolant to max level refilled engine oil and corrected level refilled transmission oil to max level performed vehicle measure and alignment to factory specifications after repairs connected piwis and centered steering angle sensor after repairs performed coolant system check after repairs and found ok performed ac system operation test and found blowing at  degrees and high side has psi and low side psi performed val after repairs no current codes at this time programmed roof assembly programmed dme adjusted locking cable cleaned engine bay of residual engine oil performed extended road test performed additional val
+alternator
+1
+yellow abs lamp on abs light diagnosed to be bad rear hydraulic circuit electro valve vehicle will need new $T$ unit
+abs
+0
+yellow abs lamp on $T$ light diagnosed to be bad rear hydraulic circuit electro valve vehicle will need new abs unit
+abs
+2
+yellow $T$ lamp on abs light diagnosed to be bad rear hydraulic circuit electro valve vehicle will need new abs unit
+abs
+2
+confirmed vehicle dyes when trying to drive ran faults have multiple random faults cleared faults attempted to test drive vehicle shuts off with no power noted vehicle has a secondary battery tested main battery main battery tested recharge charged battery tested battery again battery tested good tested aux battery battery failed performed alternator check $T$ failed customer declined repairs
+alternator
+-1
+confirmed vehicle dyes when trying to drive ran faults have multiple random faults cleared faults attempted to test drive vehicle shuts off with no power noted vehicle has a secondary battery tested main battery main battery tested recharge charged battery tested battery again battery tested good tested aux battery battery failed performed $T$ check alternator failed customer declined repairs
+alternator
+2
+recommend timing belt kit with water pump $T$ failing power steering pump starting to leak power steering flush k service front passenger door seal driver side headlight right side engine pad upper engine mount power steering rack failing
+alternator
+0
+verified customer concern abs light is on dtc  modlatorcontrol unit internal circuit malfunction  battery voltage low performed troubleshooting $T$ light is on due previous low battery condition customer has replaced battery since then cleared all dtcs and rechecked  all ok at this time
+abs
+1
+verified customer concern $T$ light is on dtc  modlatorcontrol unit internal circuit malfunction  battery voltage low performed troubleshooting abs light is on due previous low battery condition customer has replaced battery since then cleared all dtcs and rechecked  all ok at this time
+abs
+1
+performed complimentary multi point visual inspection checked and set tire pressures battery post have corrosion and terminals recommend pressure coolant test recommend upper control arm bushings sway bar link bushings recommend  tires r and alignment brake light $T$ light traction light on
+abs
+0
+verified customer concern of check engine light on and $T$ lights coming on found loose connection to back of sccm unable to secure has play recommend sccm module and recheck also verified running rough found ignition wires bad have low resistance recommend replace spark plug wiresalso throttle body full of carbonrecommend fuel injection service as welladvised customer requests replace spark plug wires idle improved and also replaced sccm and wiggled connector no longer dropping out vehicle operating as designed at this timesee below for fuel injection service
+abs
+1
+recommend $T$ wheel sensor    tax blend door actuator    tax
+abs
+0
+tes warning lights on dash came on veh shut o ff alternator not charging causing battery to go deadneeds $T$  pars and lab orcustomer declined completes tire pressure and top off visible fluids  veh needs frt brakescabin filtermisc light bulbs and wiper blades
+alternator
+-1
+tes warning lights on dash came on veh shut o ff $T$ not charging causing battery to go deadneeds alternator  pars and lab orcustomer declined completes tire pressure and top off visible fluids  veh needs frt brakescabin filtermisc light bulbs and wiper blades
+alternator
+2
+internal failure of absvsa unit modulator  replaced abs modulator and bleed brake system $T$ operation normal now
+abs
+1
+internal failure of absvsa unit modulator  replaced $T$ modulator and bleed brake system abs operation normal now
+abs
+1
+performed brake fluid service flushed brake fluid from brake hydraulic system bled new brake fluid into the brake hydraulic system and checked the function of the abs $T$ is operating to manufactures design next brake fluid service is due september
+abs
+1
+performed brake fluid service flushed brake fluid from brake hydraulic system bled new brake fluid into the brake hydraulic system and checked the function of the $T$ abs is operating to manufactures design next brake fluid service is due september
+abs
+1
+$T$ code  open in right front wheel speed sensor found chewed wires on harness side of rf wheel speed sensor repair wires system tested normal at this time recommend  mile service
+abs
+1
+found abs and wd to be only systems that can be accessed both have can com faults  performed inspection of can system with check box found voltage to be out of specs on can system began disconnecting control modules on can system one at a time and checking voltage disconnected ecm no change $T$ no change tcm no change ipdmno change wd controller no change electric power steeringno change airbag control unit voltage went up to specs reconnected all other systems and rechecked with consult all other systems now communicating airbag control unit doesnt appear to have been replaced after accident failed airbag control unit causing vehicle to go in to can failure recommended and replaced airbag control unit vehicle now starting as designed
+abs
+1
+found $T$ and wd to be only systems that can be accessed both have can com faults  performed inspection of can system with check box found voltage to be out of specs on can system began disconnecting control modules on can system one at a time and checking voltage disconnected ecm no change abs no change tcm no change ipdmno change wd controller no change electric power steeringno change airbag control unit voltage went up to specs reconnected all other systems and rechecked with consult all other systems now communicating airbag control unit doesnt appear to have been replaced after accident failed airbag control unit causing vehicle to go in to can failure recommended and replaced airbag control unit vehicle now starting as designed
+abs
+1
+performed b service service includes submenu items per checklist  elk grove acura  minimum service b replace engine oil and filter b inspect front and rear brakes b check parking brake adjustment b visually inspect tie rod ends steering gear box and boots b visually inspect suspension components b visually inspect driveshaft boots b visually inspect brake hoses and line including $T$ b visually inspect all fluid levels and condition of fluids top off as needed b visually inspect exhaust system b visually inspect fuel lines and connections check tire pressure and condition inspect drive belt check vin  for open recalls or campaigns perform multipoint inspection no tire rotation performed  both front tires need to be replaced as soon as possible left rear tire also needs replacement soon
+abs
+1
+recommend tech recommends $T$ due to leaking spool valve assembly leaking spool valve assembly replacement timing belt package with tensionertensioner is noisy previous recos
+alternator
+0
+on  ck and advise see history attached random intermittant no signal rft wheel speed sensor code c found excessive grease on the exciter ring caused from grease seeping past the seal and harden on the exciter ring creating a hard barrier on the ring rr hub removed exciter ring and clear away debris replaced hub seal cleared codes and test drive as required with idss attached to monitor signal operation standard time  add  olh for cleaning $T$ components health report  please also not that the regeneration frequency is only  this figure needs to improve or dpfexhaust issues will happen
+abs
+2
+found abs pump leaking from side of valve block needs abs unit customer supplied used part install $T$ unit and bleed brake system code control unit test drive ok
+abs
+1
+found abs pump leaking from side of valve block needs $T$ unit customer supplied used part install abs unit and bleed brake system code control unit test drive ok
+abs
+0
+found $T$ pump leaking from side of valve block needs abs unit customer supplied used part install abs unit and bleed brake system code control unit test drive ok
+abs
+2
+performed b service service includes submenu items per checklist  elk grove acura  minimum service b replace engine oil and filter install windshield wiper solvent b inspect front and rear brakes b check parking brake adjustment b visually inspect tie rod ends steering gear box and boots b visually inspect suspension components b visually inspect driveshaft boots b visually inspect brake hoses and line including $T$ b visually inspect all fluid levels and condition of fluids top off as needed b visually inspect exhaust system b visually inspect fuel lines and connections  did not rotate best tires are up front  tires check tire pressure and condition inspect drive belt check vin  for open recalls or campaigns clean battery cable ends and terminals and install anticorrosion pads perform multipoint inspection
+abs
+1
+replaced locked up $T$ pulley idler rollers and serpentine belt
+alternator
+1
+$T$ ligth on drive shaft bearing worn brake worn tire worn need other repairs service light on
+abs
+2
+the issue with the speedo odo appears to be internal recommend sending unit to hamps speddometer where they will inspect the unit internally and give us a quote to rebuild once the speedo arrived to them they went through it and updated the internals once it was back and installed it still did not work found some wiring damage in under the main fuse panel in the front trunk made some wiring repairs and also found that the abs relay was bad replaced the $T$ relay and the speedo odo is now working
+abs
+1
+the issue with the speedo odo appears to be internal recommend sending unit to hamps speddometer where they will inspect the unit internally and give us a quote to rebuild once the speedo arrived to them they went through it and updated the internals once it was back and installed it still did not work found some wiring damage in under the main fuse panel in the front trunk made some wiring repairs and also found that the $T$ relay was bad replaced the abs relay and the speedo odo is now working
+abs
+2
+$T$ light on
+abs
+2
+as per ro perform inspection please see xtime print out for recommendations car should be towed from the dealer ship due to the dangerous condition of the tires and the large oil leaks once the car was able to run after line a repairs found car to be approximately  qts low on engine oil also dme control unit will not communicate with diagnostic tester and the abs system has a hard fault stored causing the light $T$ light to stay on diagnostic time will be required to address these issues
+abs
+0
+as per ro perform inspection please see xtime print out for recommendations car should be towed from the dealer ship due to the dangerous condition of the tires and the large oil leaks once the car was able to run after line a repairs found car to be approximately  qts low on engine oil also dme control unit will not communicate with diagnostic tester and the $T$ system has a hard fault stored causing the light abs light to stay on diagnostic time will be required to address these issues
+abs
+0
+unable to verify at this time note aftermarket $T$ installed when checking battery voltage with engine running the voltage briefly fluctuated between  volts and  volts after a short time it stabilized at  volts recommend customer monitor vehicle for this concern and return if the issue persists or worsens
+alternator
+2
+battgood brake pads  f  r recommend front brake pads  rotors soontax tires  f  r anti freeze f timing belt looks original recommend replacement interval is  yrstax wiper blades streakxxtax $T$ is noisy suspect internal bearing failingtax upper engine mount agedtorntax control arm bushings agedtorntax shifter detent worntax
+alternator
+0
+resealed oil both cam covers and replaced oil filler tube completed oil change with new filter housing cleaned engine road tested ok note cv boots torn tires at mm all  coils cracking and rubber swollen from oil and $T$ making very loud noise from bearing bearing could seize customer declined repairs
+alternator
+-1
+tested battery $T$ and starter all test good tested vehicle for battery draw found battery draw within specs suggested new negative battery cable but vehicle started everytime we started it replaced negative battery cable assembly with new note underhood fuse block full of mud
+alternator
+1
+client advised alternator is faulty  not charg ing battery need to replace $T$ and upd ate with coolant hose modification client decl ined repairs at this time opted to take vehicl e to his independent shop for nd opinion batt ery was replaced with new battery again as cour tesy to client as requested also supplied client with his original battery that was replaced on prior visit
+alternator
+0
+client advised $T$ is faulty  not charg ing battery need to replace alternator and upd ate with coolant hose modification client decl ined repairs at this time opted to take vehicl e to his independent shop for nd opinion batt ery was replaced with new battery again as cour tesy to client as requested also supplied client with his original battery that was replaced on prior visit
+alternator
+2
+on initial test drive to warm up for service vehicle stumbled several times and had an $T$ failure after this initial test drive i was never able to duplicate the concern again though there were several faults present in different control modules for overvoltage  not wanting to deliver the customer in a state in which it would fail on them as it did on me i attempted driving multiple times with test equipment to duplicate the concern and catch it in the act but the symptom never reoccurred though the abspsm failures came on the instrument cluster and there were corresponding faults recorded by these and other control modules  i ran several tests on the electrical system charging system and battery and all passed at this time there is a possibility that this is just a oneoff issue but it may also be the beginning manifestation of a failing part with regard to this the battery life is currently registering around  with the original battery but is not showing any other signs of failure and passes all tests at this time however failing batteries can cause odd and intermittent electrical problems  in the end i was unable to duplicate the concern again and the vehicle drove fine over several test drives totaling  miles  this fault led to the finding and repairing of the fault on line m for the lane change system
+abs
+2
+has codes c and c needs $T$ modulerr wheel speed sensornew rr brake pipe cylinder to hose and the rear wheel cylinders are showing signs of fluid leaking starting estimate around
+abs
+0
+recommended $T$ due to failing test  d eclined
+alternator
+0
+crf wheel speed sensor circuit openlow voltage verified abs stabilitrak and service traction control message being displayed lifted vehicle and inspected rf wheel hub reluctor ring ring is good inspected wheel speed sensor harness harness ok inspected car side of wheel speed sensor harness and found harness broken chewed thru by a rodent needs rf wheel speed sensor harness repaired repaired rf $T$ harness cleared dtcs operating to spec t
+abs
+1
+crf wheel speed sensor circuit openlow voltage verified $T$ stabilitrak and service traction control message being displayed lifted vehicle and inspected rf wheel hub reluctor ring ring is good inspected wheel speed sensor harness harness ok inspected car side of wheel speed sensor harness and found harness broken chewed thru by a rodent needs rf wheel speed sensor harness repaired repaired rf abs harness cleared dtcs operating to spec t
+abs
+2
+$T$ leaking
+alternator
+0
+mpi customer declined front strut replacement customer declined alternator bracket replacement $T$ bracket broken potential for catastrophic failure loss of cooling power steering charging power and air conditioning premature drive belt wear recommend replacing bracket as soon as possible recommend checking drive belt wear frequently
+alternator
+-1
+mpi customer declined front strut replacement customer declined $T$ bracket replacement alternator bracket broken potential for catastrophic failure loss of cooling power steering charging power and air conditioning premature drive belt wear recommend replacing bracket as soon as possible recommend checking drive belt wear frequently
+alternator
+-1
+mpi mil  $T$  psm light are on  fault for the maf sneosr due to it being unplugged  i think all of the faults are related  the psm cant control engine intervention without the maf signal  most likely needs a sensor  front tires are newer but there is a vibration  highway speed rear tires are bald and need replaced   the clutch pedal feels like the pressure late is going bad  may need a clutch soon engine is slow to start  battery may need charged or replaced front sway bar end links have play  need replaced  you can hear them creaking while driving oil leaks present  pcv valve and rms area may need further diag pollen is dirty and the front plenum has debris in the water drains  rear pads have been replaced but the rotors are nearing min spec  mm min mm
+abs
+2
+found alarm never went off in  days checked dtcs none found related to alarm checked vta trigger data found the only alarm trigger data set was prior to tsb flash of tipm done on the th cleared vta data so it can be checked if concern returns found alternator whinging worse at times will need alternator in near future new $T$ partslabor tax
+alternator
+0
+found alarm never went off in  days checked dtcs none found related to alarm checked vta trigger data found the only alarm trigger data set was prior to tsb flash of tipm done on the th cleared vta data so it can be checked if concern returns found alternator whinging worse at times will need $T$ in near future new alternator partslabor tax
+alternator
+0
+found alarm never went off in  days checked dtcs none found related to alarm checked vta trigger data found the only alarm trigger data set was prior to tsb flash of tipm done on the th cleared vta data so it can be checked if concern returns found $T$ whinging worse at times will need alternator in near future new alternator partslabor tax
+alternator
+2
+performed brake line bleeding performed $T$ actuator valve check all  ok replaced reservoir cap inspection and repair complete
+abs
+1
+flash orc from aa to ab initialize $T$
+abs
+2
+performed t recall flashed occupant restraint module aa to ab cleared codes and intialized $T$ module
+abs
+1
+vehicle battery would not turn over car attempted to jump the vehicle but car would not turn over before any further diag the vehicle battery needs to be replace installed and programmed new battery performed electrical load test on starter and $T$ test results did not fail test drove vehicle to verify repairs
+alternator
+1
+tes warning lights on dash came on veh shut o ff alternator not charging causing battery to go deadneeds $T$  pars and lab orcustomer declined
+alternator
+-1
+tes warning lights on dash came on veh shut o ff $T$ not charging causing battery to go deadneeds alternator  pars and lab orcustomer declined
+alternator
+2
+cp tu tech  replaced starteralternator cable vehicle had long crank due to high resistance from starter cable which was also causing starter to draw too much amperage removed air box center pipe for intake manifold $T$ and loosened ac compressor for access fully charged battery while vehicle was in shop checked charging system and verified proper operation after repairs
+alternator
+1
+belt ribs are starting to show cracks and wear  replace fan belt $T$ belt and ac compressor belt
+alternator
+1
+power steering belt is not properly installedis waliking off pulley needs front lower control arms bushings are worn as well as upper and lower torque mounts estimate to replace all  is due for timing belt by age if done with $T$ repair would total  owner declined
+alternator
+-1
+recommend $T$ system diagnosis recommend timin g belt service due to miles recommend brake sy stem diagnosis
+abs
+0
+tech found $T$ actuator does not need to be replaced
+abs
+1
+performed brake fluid service flushed brake fluid from brake hydraulic system bled new brake fluid into the brake hydraulic system and checked the function of the abs $T$ is operating to manufactures design next brake fluid service is due nov
+abs
+1
+performed brake fluid service flushed brake fluid from brake hydraulic system bled new brake fluid into the brake hydraulic system and checked the function of the $T$ abs is operating to manufactures design next brake fluid service is due nov
+abs
+1
+recall t recall t performed inspection found pn  on $T$ no replacement needed
+alternator
+1
+replaced $T$
+alternator
+1
+no problem found road tested to verify concern no abnormal braking noises noted performed $T$ stops to clean brake pad and rotor surfaces for customer satisfaction
+abs
+1
+rec replacing the battery and $T$ before further testing  i then check all systems for any stored failure codes  see attach print out  i cleared all codes and retest  i found codes p  hos bank  sensor  heater circuit malfunction and code p  hos bank  sensor  heater circuit malfunction came back on  i then performed the troubleshooting for p and p  test results indicates replace both hos bank  sensor  and bank  sensor  then performed the idle learn before further testing  note i also check the map sensor voltage was at  specs is at  volts  rec valve adjustment    i replaced both the hos bank  sensor  and bank  sensor  and retest ok at this time
+alternator
+1
+filterschassis lubeset tire pressure top off visible fluids complete as requested  lft wheel is metal to metalneeds possible caliper ft brake pads and rotors  parts alone around  plus labor the brake pad is about to fall out of the caliper refer to $T$   for repairs
+abs
+1
+left brake light bulb front sway bar link boots are cracked $T$ rear bearing is noisy rear tires are cracked in the tread and also the side walls and the front wipers are separating replaced both front wiper blades and the left rear brake light tested okay customer declined all other repairs at this time
+alternator
+-1
+verified hard start battery weak but tacts good verified $T$ output ok check for iod none fully charged battery and retest with gr failed bad cell recommend replacing battery
+alternator
+0
+declined diagnose $T$ warning light
+abs
+-1
+customer states $T$ light came on found idler pulley had failed and belt is beyond service life belt had come off resulting in no function of accessories replaced all idlers due to age tensioner assembly damper due to leakage and belt due to heavy cracking note vehicle needs a lot more work to be safe including tires and left rear wheel did not test drive due to safety concern
+alternator
+2
+squeaking noise coming from the belt area drive belt worn customer states there is a squeaky noise beltpulley type noise specially at start up inspected drive belt drive belt was dry and worn removed air box replaced drive belt to start with squeaky noise was still present further diagnosed and found the $T$ pulley making noise
+alternator
+2
+internal fault in alternator removed and replaced $T$ and engine drive belt as per porsche instructions verified battery starting and charging systems are working properly following repair
+alternator
+1
+internal fault in $T$ removed and replaced alternator and engine drive belt as per porsche instructions verified battery starting and charging systems are working properly following repair
+alternator
+1
+verified customers concern service electronic brake system light is on performed $T$ initialization cleared service electronic braking system light no dtcs or lights on at this time
+abs
+1
+i check electrical system  i load test the battery  failed test  bad cell  i also check charging system  volts at idle  specs  volts  rec replacing the alternator and battery before further testing  i replaced the $T$ and retest  voltage at idle  ok now
+alternator
+1
+i check electrical system  i load test the battery  failed test  bad cell  i also check charging system  volts at idle  specs  volts  rec replacing the $T$ and battery before further testing  i replaced the alternator and retest  voltage at idle  ok now
+alternator
+1
+verified by  vehiclefound battery deadtested charging system when trying to jump start hook up jumper box and shorted across negative post check and found alternator shorted internally recommend alternator and recheck system advisedrequests replace alternator and recheck after $T$ charging system is working at good charge target v charging at   battery wont hold the charge tried charging for approx  hour still not holding see test replaced battery per customer request
+alternator
+1
+verified by  vehiclefound battery deadtested charging system when trying to jump start hook up jumper box and shorted across negative post check and found alternator shorted internally recommend alternator and recheck system advisedrequests replace $T$ and recheck after alternator charging system is working at good charge target v charging at   battery wont hold the charge tried charging for approx  hour still not holding see test replaced battery per customer request
+alternator
+1
+verified by  vehiclefound battery deadtested charging system when trying to jump start hook up jumper box and shorted across negative post check and found alternator shorted internally recommend $T$ and recheck system advisedrequests replace alternator and recheck after alternator charging system is working at good charge target v charging at   battery wont hold the charge tried charging for approx  hour still not holding see test replaced battery per customer request
+alternator
+0
+verified by  vehiclefound battery deadtested charging system when trying to jump start hook up jumper box and shorted across negative post check and found $T$ shorted internally recommend alternator and recheck system advisedrequests replace alternator and recheck after alternator charging system is working at good charge target v charging at   battery wont hold the charge tried charging for approx  hour still not holding see test replaced battery per customer request
+alternator
+2
+abs rear electro valve abs light diagnosed to be bad rear hydraulic circuit electro valve vehicle will need new $T$ unit if light comes back on tech was able to clear light and went on test drive light no longer on  hydraulic control unit kit ss
+abs
+0
+abs rear electro valve $T$ light diagnosed to be bad rear hydraulic circuit electro valve vehicle will need new abs unit if light comes back on tech was able to clear light and went on test drive light no longer on  hydraulic control unit kit ss
+abs
+2
+$T$ rear electro valve abs light diagnosed to be bad rear hydraulic circuit electro valve vehicle will need new abs unit if light comes back on tech was able to clear light and went on test drive light no longer on  hydraulic control unit kit ss
+abs
+2
+abs traction light noise c tone wheel rf tires all  and swap tire wheel removed wheel speed sensor and inspect tone wheel and sensor worn teeth on tine wheel excessive meatal on $T$ sensor recommend wheel bearing and sensor right front tone only available with new axle will need to replace axle as well replaced test drove after repair no noisr heard steering wheel straight no dtc or lights operating as designed at this time
+abs
+0
+$T$ traction light noise c tone wheel rf tires all  and swap tire wheel removed wheel speed sensor and inspect tone wheel and sensor worn teeth on tine wheel excessive meatal on abs sensor recommend wheel bearing and sensor right front tone only available with new axle will need to replace axle as well replaced test drove after repair no noisr heard steering wheel straight no dtc or lights operating as designed at this time
+abs
+2
+checked condition of the serpentine belt found small and big cracks on the entire belt removed old serpentine belt checked idler pulleys and tensioner pulley after removing the serpentine belt found the noisy idler pulley on the right side of the engine next to the $T$ need a new idler pulley replaced serpentine belt
+alternator
+2
+performed b service service includes submenu items per checklist  elk grove acura  minimum service b replace engine oil and filter install windshield wiper solvent b inspect front and rear brakes b check parking brake adjustment b visually inspect tie rod ends steering gear box and boots b visually inspect suspension components b visually inspect driveshaft boots b visually inspect brake hoses and line including $T$ b visually inspect all fluid levels and condition of fluids top off as needed b visually inspect exhaust system b visually inspect fuel lines and connections  check tire pressure and condition inspect drive belt check vin  for open recalls or campaigns clean battery cable ends and terminals and install anticorrosion pads perform multipoint inspection
+abs
+1
+performed visual inspection brakes  front  rear  tires  front  rear  coolant   good battery failed test    tax to have volvo battery installed recommend new wiper blades because of tornsmearing   tax found right front cv boot torn for right front axle shaft    tax to have it replaced also found abs warning light on prior to service  found fault code for $T$ hydraulic pumpunit   tax
+abs
+0
+performed visual inspection brakes  front  rear  tires  front  rear  coolant   good battery failed test    tax to have volvo battery installed recommend new wiper blades because of tornsmearing   tax found right front cv boot torn for right front axle shaft    tax to have it replaced also found $T$ warning light on prior to service  found fault code for abs hydraulic pumpunit   tax
+abs
+2
+recommend replace both front axles replace both front lower control arms replace right engine mount replace torque mount replace upper engine mount replace broken exhaust hanger replace  tires with alignment replace front cvvt hubs replace timing belt with water pump replace $T$ module oil and filter change brake fluid flush power steering fluid flush
+abs
+0
+faulty alternator upon inspection found alternator to be faulty picture attached performed val and sent found faults for generator parts ordered removed underbody panel removed drive belt removed and replaced $T$ with new reinstalled drive belt and underbody panel
+alternator
+1
+faulty alternator upon inspection found $T$ to be faulty picture attached performed val and sent found faults for generator parts ordered removed underbody panel removed drive belt removed and replaced alternator with new reinstalled drive belt and underbody panel
+alternator
+2
+faulty $T$ upon inspection found alternator to be faulty picture attached performed val and sent found faults for generator parts ordered removed underbody panel removed drive belt removed and replaced alternator with new reinstalled drive belt and underbody panel
+alternator
+2
+rec brake flush trans flush air filter and tpms light flashing $T$ light flashing
+abs
+0
+found ground for headlamps and hvac control and cruise bad causing these system not to work propperly repaired bag ground all systems operating normal now needs a battery $T$ and srs light on
+abs
+0
+performed b service service includes submenu items per checklist  elk grove acura  minimum service b replace engine oil and filter b inspect front and rear brakes b check parking brake adjustment b visually inspect tie rod ends steering gear box and boots b visually inspect suspension components b visually inspect driveshaft boots b visually inspect brake hoses and line including $T$ b visually inspect all fluid levels and condition of fluids top off as needed b visually inspect exhaust system b visually inspect fuel lines and connections check tire pressure and condition inspect drive belt check vin  for open recalls or campaigns perform multipoint inspection
+abs
+1
+performed u recall performed flashed occupant restraint module ah to ac cleared codes initialized $T$ module okay at this time
+abs
+1
+verified customer concern battery dead due to faulty alternator getting correct duty cycle from pcm but is not charging also making loud humming noise indicating coming apart internally rec alternator and recheck charged battery and disconnected alt now starts normal $T$ disconnected from power and as well as main connector due to alt getting hot when power attached ok to tow
+alternator
+2
+verified customer concern battery dead due to faulty alternator getting correct duty cycle from pcm but is not charging also making loud humming noise indicating coming apart internally rec $T$ and recheck charged battery and disconnected alt now starts normal alternator disconnected from power and as well as main connector due to alt getting hot when power attached ok to tow
+alternator
+0
+verified customer concern battery dead due to faulty $T$ getting correct duty cycle from pcm but is not charging also making loud humming noise indicating coming apart internally rec alternator and recheck charged battery and disconnected alt now starts normal alternator disconnected from power and as well as main connector due to alt getting hot when power attached ok to tow
+alternator
+2
+found at  for gear selectormode and abs for right wheel speed sensor customer declined gear shift repair found debris on wheel speed sensor and tone ring cleaned off both checked wiring at sensor connector and abs module found pin tension good and no corrosion found wires test good no high resistance or shorts cleared codes and drove found codes did not return and all sensors reading normally recommend that they drive the car if code returns then may need to start with wheel speed sensor may have intermittent issue internal to $T$ module
+abs
+2
+found at  for gear selectormode and abs for right wheel speed sensor customer declined gear shift repair found debris on wheel speed sensor and tone ring cleaned off both checked wiring at sensor connector and $T$ module found pin tension good and no corrosion found wires test good no high resistance or shorts cleared codes and drove found codes did not return and all sensors reading normally recommend that they drive the car if code returns then may need to start with wheel speed sensor may have intermittent issue internal to abs module
+abs
+2
+found at  for gear selectormode and $T$ for right wheel speed sensor customer declined gear shift repair found debris on wheel speed sensor and tone ring cleaned off both checked wiring at sensor connector and abs module found pin tension good and no corrosion found wires test good no high resistance or shorts cleared codes and drove found codes did not return and all sensors reading normally recommend that they drive the car if code returns then may need to start with wheel speed sensor may have intermittent issue internal to abs module
+abs
+-1
+recall using suction tool removed oil brake fluid from reservoir replaced with genuine mitsubishi dot  brake fluid part  mzex raised vehicle and individually bleed the brakes according to the recall specs once bleeding was complete checked for leaks and pedal travel all normal at this time hooked up mutse scan tool and performed valve flushing function raised vehicle and bleed brake system again performed valve flushing and system bleed  times as per recall spec on mutse performed abs hydraulic unit valve testing pump drive and each individual valve test each valve working properly at this time no need to replace $T$ hydraulic unit scrapped dot or from cap and applied new stickers opcm
+abs
+1
+recall using suction tool removed oil brake fluid from reservoir replaced with genuine mitsubishi dot  brake fluid part  mzex raised vehicle and individually bleed the brakes according to the recall specs once bleeding was complete checked for leaks and pedal travel all normal at this time hooked up mutse scan tool and performed valve flushing function raised vehicle and bleed brake system again performed valve flushing and system bleed  times as per recall spec on mutse performed $T$ hydraulic unit valve testing pump drive and each individual valve test each valve working properly at this time no need to replace abs hydraulic unit scrapped dot or from cap and applied new stickers opcm
+abs
+1
+alteantor is pulling amprage from the battery battery is after market battery installed without vent hose passed battery test midtronics and vat  sings of rodents in the vehicle and engine area let vehicle sit locked for  min and tested amperage draw and found at  amps very high pulled fuse related to pcm fuse  row d left front fuse box no change in amperage found signs of rodents in the trunk checked for power through each fuse row a b c d e and found no signs of power gained access to the engine bay and pulled main power cable from the alternator and found amperage has dropped down to  amps recommend replace $T$ and check operation after repairs customer declined repairs
+alternator
+0
+alteantor is pulling amprage from the battery battery is after market battery installed without vent hose passed battery test midtronics and vat  sings of rodents in the vehicle and engine area let vehicle sit locked for  min and tested amperage draw and found at  amps very high pulled fuse related to pcm fuse  row d left front fuse box no change in amperage found signs of rodents in the trunk checked for power through each fuse row a b c d e and found no signs of power gained access to the engine bay and pulled main power cable from the $T$ and found amperage has dropped down to  amps recommend replace alternator and check operation after repairs customer declined repairs
+alternator
+2
+performed b service service includes submenu items per checklist  elk grove acura  minimum service b replace engine oil and filter install windshield wiper solvent b inspect front and rear brakes b check parking brake adjustment b visually inspect tie rod ends steering gear box and boots b visually inspect suspension components b visually inspect driveshaft boots b visually inspect brake hoses and line including $T$ b visually inspect all fluid levels and condition of fluids top off as needed b visually inspect exhaust system b visually inspect fuel lines and connections  rotate tires check tire pressure and condition inspect drive belt check vin  for open recalls or campaigns clean battery cable ends and terminals and install anticorrosion pads perform multipoint inspection
+abs
+1
+low battery power troubleshoot no startno crank battery failed testingsee print out report for details replaced battery to ensure basic electrical power supply verified $T$ output within specs at this time advise unable to fully test startingcharging system performance due to engine poor running condition
+alternator
+2
+recommend $T$ x     tax
+ABS SENSORS
+0
+declined recommend $T$ replace
+alternator
+-1
+abs light is on not cel fuse blown attempted to read out fault memory could not communicate with $T$ module removed carpet and inspected connection for control unit okay found blow fuse for the unit replaced fuse and checked for any shorts in the wiring found none recommend replacement of the hydraulic accumulator and a brake circuit flush due to the booster pump running each time the car is started after sitting for an extended period of time
+abs
+2
+$T$ light is on not cel fuse blown attempted to read out fault memory could not communicate with abs module removed carpet and inspected connection for control unit okay found blow fuse for the unit replaced fuse and checked for any shorts in the wiring found none recommend replacement of the hydraulic accumulator and a brake circuit flush due to the booster pump running each time the car is started after sitting for an extended period of time
+abs
+2
+check voltage drop at $T$ cable tenths of a volt within specs at this time vehicle at operating tempinspected starter function and charging system function both okay at this timevehicle is currently cranking normalyrecommend continuing to monitor
+alternator
+0
+performed safety recall p replaced $T$
+alternator
+1
+verified complaint center console ac control unit parking brake and clock inop second had missing from clock vehicle start normally at this time checked battery voltage voltage ok at v checked $T$ charging charging ok at v val scanned fault memory faults stored due to low voltage parking brake ac control unit clock center console lost communication with gateway checked all fuses fuses ok found accessory charger plugged into v outlet removed charger found customer belongings obstructing v outlet an earing has fallen into the  outlet causing draw  short removed earing checked fuse and checked v outlet voltage all ok at this time restored communication to inop control units all control units awake and active checked functions of parking brake operating normally no faults return checked functions of ac operator control unit operating normally no faults return checked functions of center consol operating normally clock operating normally reset date and time scanned fault memory no faults val clock missing second hand quote for replacement attached repairs declined at this time verified battery holding charge after repair battery and v charging system operating as designed at this time
+alternator
+1
+oil pressure switchtax nvld pump tax also needs rear differential speed sensor also needs but not available is the $T$ control module
+abs
+1
+flashed occupant restraint control module and initialized $T$ part  aaac
+abs
+1
+carried out multi point inspection as requested performed visual inspection completed sheet checked and topped off all fluids as needed checked condition of tires and adjusted air pressures as needed during inspection noticed rear lid struts and weak and have a hard time holding the lid up also vehicle ride height sensor bracket is broken and will need to be replaced $T$ is not charging the battery and will also need to be replaced brake measurements frontmm mm rearmm mm
+alternator
+2
+abs recall check drain flush clean refill inspect $T$ unit ok cm
+abs
+1
+$T$ recall check drain flush clean refill inspect abs unit ok cm
+abs
+1
+cel codes upon arrival p batter voltage low  needs batter c left front wheel speed sensor $T$ and traction control light on
+abs
+2
+performed complimentary multi point visual inspection checked and set tire pressures recommend diagnostic for leaking transmission recommend engine air filter brake pads are low $T$ and brake on prior to service
+abs
+0
+perform recall flush brake system $T$ check valve ok
+abs
+1
+verified concern created val check found hard faults for pdcc and chassis inspected vehicle found a lot of rodent debris in engine bay found chewed wires going to sensor for chassis in corner of engine bay passenger side found  chewed wires but rest are not visible need to remove coolant tank and abs pump to inspect the wires found engine hood insulation on passenger side chewed up recommend further inspection time to remove parts for further diagnosis and replacement of hood insulation cost to performed inspection and replace insulation could be further charges depending on what else may be found if no further damage found would only need to repair wires replace insulation reinstall and bleed coolant reservoir and $T$ pump parts labor and tax
+abs
+1
+verified concern created val check found hard faults for pdcc and chassis inspected vehicle found a lot of rodent debris in engine bay found chewed wires going to sensor for chassis in corner of engine bay passenger side found  chewed wires but rest are not visible need to remove coolant tank and $T$ pump to inspect the wires found engine hood insulation on passenger side chewed up recommend further inspection time to remove parts for further diagnosis and replacement of hood insulation cost to performed inspection and replace insulation could be further charges depending on what else may be found if no further damage found would only need to repair wires replace insulation reinstall and bleed coolant reservoir and abs pump parts labor and tax
+abs
+2
+recommend $T$ trac and brake light are on will need futher diag   tune up is overdue no history   with throttle body service coolant system services are due
+abs
+0
+battery failed front position bulbs burned out air filter dirty pollen filter dirty brake fluid has high water concentration $T$ coupler needs replacement
+alternator
+0
+has codes c and c needs $T$ modulerr wheel speed sensornew rr brake pipe cylinder to hose and the rear wheel cylinders are showing signs of fluid leaking starting estimate around  starts drive runs and the ac is cold has a rear lift gate that does not work nor appear to have any switches
+abs
+0
+could not verify customers concern test drove vehicle twice radio or interior lights did not shut off problem is more likely related to stereo system installation battery voltage measured at  volts while car is running $T$ amperage was tested at amps which indicates it operating normally dtcs attached to repair order
+alternator
+2
+performed alternator test with gr diagnostics machine alternator failed test recommend replacing $T$ before further testing
+alternator
+0
+performed alternator test with gr diagnostics machine $T$ failed test recommend replacing alternator before further testing
+alternator
+2
+performed $T$ test with gr diagnostics machine alternator failed test recommend replacing alternator before further testing
+alternator
+2
+recommend new $T$ recommend rear cv boots recommend oil pan gasket recommend power steering rack
+alternator
+0
+performed b service service includes submenu items per checklist  elk grove acura  minimum service b replace engine oil and filter install windshield wiper solvent b inspect front and rear brakes b check parking brake adjustment b visually inspect tie rod ends steering gear box and boots b visually inspect suspension components b visually inspect driveshaft boots b visually inspect brake hoses and line including $T$ b visually inspect all fluid levels and condition of fluids top off as needed b visually inspect exhaust system b visually inspect fuel lines and connections  did not rotate tires customer declined  rotate tires check tire pressure and condition inspect drive belt check vin  for open recalls or campaigns clean battery cable ends and terminals and install anticorrosion pads perform multipoint inspection
+abs
+1
+customer states every hazard light is on and vehicle will not start diag determined the $T$ and battery would need replaced the customer declined the repairs
+alternator
+-1
+generator faulty intermittent no charge verified customer concern found vehicle discharged and required jump start removed jump box and vehicle died again generator fault in cluster produced and sent val checked battery voltage and generator excitation current with tester at idle with jump box connected and found battery voltage low and excitation current at  amps indicating gateway not attempting to charge battery put drivers seat into service position and charged battery to full capacity and performed load test found battery weak but holding v rechecked alternator output via drive links and actual values and found alternator putting out requested v for limited time until alternator began to growl slightly at idle and output voltage dropped to  volts disconnected battery cable removed serpentine belt removed and replaced alternator reassembled vehicle and rechecked alternator output found charging voltage at v at idle and can be commanded successfully via drive links performed extended road test and found $T$ output ok no faults returned in cluster produced and sent after val
+alternator
+1
+generator faulty intermittent no charge verified customer concern found vehicle discharged and required jump start removed jump box and vehicle died again generator fault in cluster produced and sent val checked battery voltage and generator excitation current with tester at idle with jump box connected and found battery voltage low and excitation current at  amps indicating gateway not attempting to charge battery put drivers seat into service position and charged battery to full capacity and performed load test found battery weak but holding v rechecked alternator output via drive links and actual values and found alternator putting out requested v for limited time until alternator began to growl slightly at idle and output voltage dropped to  volts disconnected battery cable removed serpentine belt removed and replaced alternator reassembled vehicle and rechecked $T$ output found charging voltage at v at idle and can be commanded successfully via drive links performed extended road test and found alternator output ok no faults returned in cluster produced and sent after val
+alternator
+1
+generator faulty intermittent no charge verified customer concern found vehicle discharged and required jump start removed jump box and vehicle died again generator fault in cluster produced and sent val checked battery voltage and generator excitation current with tester at idle with jump box connected and found battery voltage low and excitation current at  amps indicating gateway not attempting to charge battery put drivers seat into service position and charged battery to full capacity and performed load test found battery weak but holding v rechecked alternator output via drive links and actual values and found alternator putting out requested v for limited time until alternator began to growl slightly at idle and output voltage dropped to  volts disconnected battery cable removed serpentine belt removed and replaced $T$ reassembled vehicle and rechecked alternator output found charging voltage at v at idle and can be commanded successfully via drive links performed extended road test and found alternator output ok no faults returned in cluster produced and sent after val
+alternator
+1
+generator faulty intermittent no charge verified customer concern found vehicle discharged and required jump start removed jump box and vehicle died again generator fault in cluster produced and sent val checked battery voltage and generator excitation current with tester at idle with jump box connected and found battery voltage low and excitation current at  amps indicating gateway not attempting to charge battery put drivers seat into service position and charged battery to full capacity and performed load test found battery weak but holding v rechecked alternator output via drive links and actual values and found alternator putting out requested v for limited time until $T$ began to growl slightly at idle and output voltage dropped to  volts disconnected battery cable removed serpentine belt removed and replaced alternator reassembled vehicle and rechecked alternator output found charging voltage at v at idle and can be commanded successfully via drive links performed extended road test and found alternator output ok no faults returned in cluster produced and sent after val
+alternator
+2
+generator faulty intermittent no charge verified customer concern found vehicle discharged and required jump start removed jump box and vehicle died again generator fault in cluster produced and sent val checked battery voltage and generator excitation current with tester at idle with jump box connected and found battery voltage low and excitation current at  amps indicating gateway not attempting to charge battery put drivers seat into service position and charged battery to full capacity and performed load test found battery weak but holding v rechecked alternator output via drive links and actual values and found $T$ putting out requested v for limited time until alternator began to growl slightly at idle and output voltage dropped to  volts disconnected battery cable removed serpentine belt removed and replaced alternator reassembled vehicle and rechecked alternator output found charging voltage at v at idle and can be commanded successfully via drive links performed extended road test and found alternator output ok no faults returned in cluster produced and sent after val
+alternator
+2
+generator faulty intermittent no charge verified customer concern found vehicle discharged and required jump start removed jump box and vehicle died again generator fault in cluster produced and sent val checked battery voltage and generator excitation current with tester at idle with jump box connected and found battery voltage low and excitation current at  amps indicating gateway not attempting to charge battery put drivers seat into service position and charged battery to full capacity and performed load test found battery weak but holding v rechecked $T$ output via drive links and actual values and found alternator putting out requested v for limited time until alternator began to growl slightly at idle and output voltage dropped to  volts disconnected battery cable removed serpentine belt removed and replaced alternator reassembled vehicle and rechecked alternator output found charging voltage at v at idle and can be commanded successfully via drive links performed extended road test and found alternator output ok no faults returned in cluster produced and sent after val
+alternator
+2
+performed u occupant restraint module and $T$ was programmed orc before aa after ac
+abs
+1
+on  ck and advise see history attached random intermittant no signal rft wheel speed sensor code c found excessive grease on the exciter ring caused from grease seeping past the seal and harden on the exciter ring creating a hard barrier on the ring rr hub removed exciter ring and clear away debris replaced hub seal cleared codes and test drive as required with idss attached to monitor signal operation standard time  add  olh for cleaning $T$ components
+abs
+1
+performed b service service includes submenu items per checklist  elk grove acura  minimum service b replace engine oil and filter install windshield wiper solvent b inspect front and rear brakes b check parking brake adjustment b visually inspect tie rod ends steering gear box and boots b visually inspect suspension components b visually inspect driveshaft boots b visually inspect brake hoses and line including $T$ b visually inspect all fluid levels and condition of fluids top off as needed b visually inspect exhaust system b visually inspect fuel lines and connections check tire pressure and condition inspect drive belt check vin  for open recalls or campaigns clean battery cable ends and terminals and install anticorrosion pads perform multipoint inspection note no tire rotation performed  uneven tread wear would cause vehicle to pull to one side
+abs
+1
+performed fault test and found alternator output low not charging batterywill need to replace $T$ to repair issue  installed customer deferred at this time
+alternator
+0
+performed fault test and found $T$ output low not charging batterywill need to replace alternator to repair issue  installed customer deferred at this time
+alternator
+2
+recommend front brake pads  code for $T$ l ight  vsa solenoid valve malfunction
+abs
+0
+unable to duplicate concern parasitic draw is magood charging system is operating correctly  charge battery over night until charger indicated full inspected fuses in fuse box found a few fuses in the wrong slots and over or under rated for location after correcting fuse box began parasitic draw test and found after approx  minutes the car paraqsitic draw was at ma which is correct for this car performed function test of starter and alternator voltage stays in correct range above  volts during cranking and the $T$ is charging at  volts and is putting out  amps under load ok at this time now fault is found with the vehicle recommend installing a new battery due to the amount of time the battery has lost charged as well as install a battery maintainer is the car is not going to be driven
+alternator
+2
+unable to duplicate concern parasitic draw is magood charging system is operating correctly  charge battery over night until charger indicated full inspected fuses in fuse box found a few fuses in the wrong slots and over or under rated for location after correcting fuse box began parasitic draw test and found after approx  minutes the car paraqsitic draw was at ma which is correct for this car performed function test of starter and $T$ voltage stays in correct range above  volts during cranking and the alternator is charging at  volts and is putting out  amps under load ok at this time now fault is found with the vehicle recommend installing a new battery due to the amount of time the battery has lost charged as well as install a battery maintainer is the car is not going to be driven
+alternator
+2
+flashed occupant restraint controller and initialized $T$ ahac
+abs
+1
+replace serpentine belt $T$ rear bearing is dry and noisy
+alternator
+1
+recommend notealternatorbattery warning lights were on when we started the car and alternator was not chargeing and battery is weakneeds a new battery and alternatorcust declined all repairs at this time notecar may not start without a jump startcust understands this and has elected to drive car anyway the light did go out when car was pulled around to be parked and $T$ started chargeing again but is most likely on its way out and should be replaced
+alternator
+-1
+recommend notealternatorbattery warning lights were on when we started the car and $T$ was not chargeing and battery is weakneeds a new battery and alternatorcust declined all repairs at this time notecar may not start without a jump startcust understands this and has elected to drive car anyway the light did go out when car was pulled around to be parked and alternator started chargeing again but is most likely on its way out and should be replaced
+alternator
+0
+verified customers concern battery light is on placed vehicle on gr diagnostics machine and performed alternator test vehicle failed alternator test recommend replacing alternator before further testing replaced $T$ no battery light on at this time all starting functions are normal at this time
+alternator
+1
+verified customers concern battery light is on placed vehicle on gr diagnostics machine and performed alternator test vehicle failed alternator test recommend replacing $T$ before further testing replaced alternator no battery light on at this time all starting functions are normal at this time
+alternator
+0
+verified customers concern battery light is on placed vehicle on gr diagnostics machine and performed alternator test vehicle failed $T$ test recommend replacing alternator before further testing replaced alternator no battery light on at this time all starting functions are normal at this time
+alternator
+2
+verified customers concern battery light is on placed vehicle on gr diagnostics machine and performed $T$ test vehicle failed alternator test recommend replacing alternator before further testing replaced alternator no battery light on at this time all starting functions are normal at this time
+alternator
+1
+burnt startergernator harness client requests replacement of the starter harness when the vehicle was dropped off the windows and sunroof werewas open connected a jump box to the vehicle and closed the windows and sunroof attempted to start the vehicle the vehicle cranks over and tries to start pushed the vehicle into the shop and began replacement of the startergenerator harness removed the b plus cable to the starter and the generator section of the harness removed the airbox complete with the air flow meter removed the air guide for the alternator one of the nuts was missing on the lower right side removed the charging harness it was noticed there is a lot of corrosion on the alternator and as much as possible was cleaned off installed the sop wiring harness and routed accordingly installed the $T$ air guide and the air box with the air flow meter cleaned and installed the b plus line to the starter cleaned the cowl drains and the battery tray it was found the battery tray is rusting apart in the back corner towards the driver side using a jump box the engine started but runs rough during inspection it was found the timing belt has oil on it and it is highly recommended it be replaced and the front engine seals be addressed as well quoted a battery to the client as one was not provided with the starter the vehicle was driven outside awaiting client approval or declination of recommended repairs note the registration is out
+alternator
+1
+burnt startergernator harness client requests replacement of the starter harness when the vehicle was dropped off the windows and sunroof werewas open connected a jump box to the vehicle and closed the windows and sunroof attempted to start the vehicle the vehicle cranks over and tries to start pushed the vehicle into the shop and began replacement of the startergenerator harness removed the b plus cable to the starter and the generator section of the harness removed the airbox complete with the air flow meter removed the air guide for the alternator one of the nuts was missing on the lower right side removed the charging harness it was noticed there is a lot of corrosion on the $T$ and as much as possible was cleaned off installed the sop wiring harness and routed accordingly installed the alternator air guide and the air box with the air flow meter cleaned and installed the b plus line to the starter cleaned the cowl drains and the battery tray it was found the battery tray is rusting apart in the back corner towards the driver side using a jump box the engine started but runs rough during inspection it was found the timing belt has oil on it and it is highly recommended it be replaced and the front engine seals be addressed as well quoted a battery to the client as one was not provided with the starter the vehicle was driven outside awaiting client approval or declination of recommended repairs note the registration is out
+alternator
+2
+burnt startergernator harness client requests replacement of the starter harness when the vehicle was dropped off the windows and sunroof werewas open connected a jump box to the vehicle and closed the windows and sunroof attempted to start the vehicle the vehicle cranks over and tries to start pushed the vehicle into the shop and began replacement of the startergenerator harness removed the b plus cable to the starter and the generator section of the harness removed the airbox complete with the air flow meter removed the air guide for the $T$ one of the nuts was missing on the lower right side removed the charging harness it was noticed there is a lot of corrosion on the alternator and as much as possible was cleaned off installed the sop wiring harness and routed accordingly installed the alternator air guide and the air box with the air flow meter cleaned and installed the b plus line to the starter cleaned the cowl drains and the battery tray it was found the battery tray is rusting apart in the back corner towards the driver side using a jump box the engine started but runs rough during inspection it was found the timing belt has oil on it and it is highly recommended it be replaced and the front engine seals be addressed as well quoted a battery to the client as one was not provided with the starter the vehicle was driven outside awaiting client approval or declination of recommended repairs note the registration is out
+alternator
+2
+performed inspection tech states that he found failure to $T$ tech recommends to replace and recheck tech replaced and performed road test tech states that everythings fine at this time customer has  year warranty
+alternator
+1
+$T$ light is onrecommend diagnosis horn inoprecommend diagnosis left and right axle boots torn and leaking grease spare tire is flatwill not hold air
+abs
+0
+customer stated there was an oil leak under vehicle performed visual inspection  found oil residue under engine which seemed to be coming from top removed air box and pressure pipe performed visual inspection  unable to verify cause of leak recovered refrigerant drained coolant removed alternator ac compressor and $T$ bracket found oil leak to be coming from the case through bolt and oring recommend removal of engine engine disassemble removal of camshafts and cylinder head on bank  to performed proper repair
+alternator
+1
+customer stated there was an oil leak under vehicle performed visual inspection  found oil residue under engine which seemed to be coming from top removed air box and pressure pipe performed visual inspection  unable to verify cause of leak recovered refrigerant drained coolant removed $T$ ac compressor and alternator bracket found oil leak to be coming from the case through bolt and oring recommend removal of engine engine disassemble removal of camshafts and cylinder head on bank  to performed proper repair
+alternator
+1
+i was able to duplicate the car has no power when accelerating and also make an abnormal whinning grinding type noise when deccelerating  i then check the fluid level in the trans and also strained the fluid  i found alot of metal debri in the fluid  transmission is slipping and making whinning grinding type noise in all gears  rec replacing clutch assy and trans before further testing i replaced the trans cltuch assy and road test  note the $T$ light came on  i then check the system for any codes  i found code  right front wheel speed sensor circuit malfunction  i cleared codes and code came back on with  right front wheel speed sensor circuit malfunction  rec replacing the right front speed sensor  note i also notice on the test drive the whole car shakes  feels like bad axles  also rec replacing before further testing
+abs
+2
+car has a broken steering column lock with electrical faults in the kessy cu causing faults  cu faulty  electronic starting switch fault and  immobilizer key fault recommend replace steering column and ignition switch  entered car and found car has a broken steering column lock found car will not turn on and has immobilzer warning on the dash use piwis  tester to access alarm cu without car switched on found electrical faults in the kessy cu causing faults  cu faulty  electronic starting switch fault and  immobilizer key fault recommend replace steering column and ignition switch recommend replace steering column and ignition switch customer authorizes ignition switch replacement only installed switch and test cara now starts and runs but has a dead battery also has faults stored and a check engine light and a $T$ warning on in the dash further diagnosis and replacement of steering column is recommended
+abs
+0
+recommend po ect tstat code repair parts and labor   after breif test drive looks to need a $T$ ecu new part alone about   car needs much more
+abs
+0
+front spool valve leaking may soon start leaki ng into $T$ recommend front spool valve both front lower control arm bushings to rn and leaking recommend front lower control a rm bushings intake tube torn recommend a ir intake tube drive belt cracked   mile service due for second time timing belt  water pump drive belt coolant tensioner s park plugs valve clearance adjustment  oil leaking from oil pump seals recommend rep lacement with timing belt check maintenan ce history for transmission service  brake fluid flush  power steering fluid flush   rear differential service  and transfer case service
+alternator
+0
+battery dead due to faulty alternator  battery tested good after charged replaced alternator  and belts verified operating as designed  $T$    belt    belt    steering coupler worn  customer declined repair at this time  flexible coupling
+alternator
+2
+battery dead due to faulty alternator  battery tested good after charged replaced $T$  and belts verified operating as designed  alternator    belt    belt    steering coupler worn  customer declined repair at this time  flexible coupling
+alternator
+1
+battery dead due to faulty $T$  battery tested good after charged replaced alternator  and belts verified operating as designed  alternator    belt    belt    steering coupler worn  customer declined repair at this time  flexible coupling
+alternator
+2
+point inspection check belts hoses and lightscheck all fluids  top off reset $T$ light is onrecommend diagnosis horn inoprecommend diagnosis left and right axle boots torn and leaking grease spare tire is flatwill not hold air
+abs
+0
+checked for no power steering  $T$ light on
+abs
+1
+fluid service performed brake fluid service flushed brake fluid from brake hydraulic system bled new brake fluid into the brake hydraulic system and checked the function of the abs $T$ is operating to manufactures design next brake fluid service is due
+abs
+1
+fluid service performed brake fluid service flushed brake fluid from brake hydraulic system bled new brake fluid into the brake hydraulic system and checked the function of the $T$ abs is operating to manufactures design next brake fluid service is due
+abs
+1
+battery  checked  found the battery has a dead cell as per estimate replaced the battery  checked the $T$ after the repair found all ok
+alternator
+1
+read faults and found fault for stop light switch removed stop light switch and bench tested part had excessive resistance when activated removed and replaced stop light switch cleared faults and test drove vehicle $T$ light did not illuminate
+abs
+2
+verified traction $T$ light on related to line a deu to communication error when engine would turn off after repair on line a test drove vehicle to verify fix lights did not come on adn no codes returned vehicle ok at this time
+abs
+2
+if $T$ lamp returns we will reccomend replacmen t of the brake pressure accumualtor and flush t he fluid aproximate price to replace
+abs
+2
+recommend has code for evap leakevap canister solenoid failurecost to repla ce   plus taxno availableon backorder also code for left front $T$ sensorlight not nowcleqred code
+abs
+0
+check and verify concern heard noise coming from tensioner and alternator found dtc pe pgmfiacg lin communication error perform troubleshooting on dtc pe and recommend replacing the alternator and drive belt tensioner before further testing replace the $T$ and the tensioner clear dtc and retest operation the noise gone and charging system is normal at this time
+alternator
+0
+check and verify concern heard noise coming from tensioner and alternator found dtc pe pgmfiacg lin communication error perform troubleshooting on dtc pe and recommend replacing the $T$ and drive belt tensioner before further testing replace the alternator and the tensioner clear dtc and retest operation the noise gone and charging system is normal at this time
+alternator
+0
+check and verify concern heard noise coming from tensioner and $T$ found dtc pe pgmfiacg lin communication error perform troubleshooting on dtc pe and recommend replacing the alternator and drive belt tensioner before further testing replace the alternator and the tensioner clear dtc and retest operation the noise gone and charging system is normal at this time
+alternator
+2
+battery failed test and negative battery cable corroded test battery and failed test  replace battery and negative battery cable perform $T$ test  passed
+alternator
+1
+perform safety recall t replace alternator as per fca recall treplace the $T$ ld lx model with l engine t  hours
+alternator
+1
+perform safety recall t replace $T$ as per fca recall treplace the alternator ld lx model with l engine t  hours
+alternator
+1
+confirmed battery dead charged battery overnight tested battery and battery ok but not yet fully charged started car multiple times and battery held up ran vehicle at idle to operating temp checked voltage at battery at idle only  volts present voltage too low checked voltage output at alternator only v present at alternator output acceptable range is v output too low recommend replace $T$ and fully charge battery
+alternator
+0
+confirmed battery dead charged battery overnight tested battery and battery ok but not yet fully charged started car multiple times and battery held up ran vehicle at idle to operating temp checked voltage at battery at idle only  volts present voltage too low checked voltage output at alternator only v present at $T$ output acceptable range is v output too low recommend replace alternator and fully charge battery
+alternator
+2
+confirmed battery dead charged battery overnight tested battery and battery ok but not yet fully charged started car multiple times and battery held up ran vehicle at idle to operating temp checked voltage at battery at idle only  volts present voltage too low checked voltage output at $T$ only v present at alternator output acceptable range is v output too low recommend replace alternator and fully charge battery
+alternator
+2
+immobilizer control unit is in a locked state due to the alarm being activated and the battery being disconnected during an alarm event   verify fuses are in correct order and adjust as necessary connected battery and attempted to arm and disarm alarm systemthe remote does not light up indicating that the remote is not transmitting inspected remote and found inside is corroded and recommend replacement of alarm remote attempted to program remote to the car car will not respond to the new remote and the car still will not disarm pushed car into shop and install a test light in the place of the alarm horn as not to have the alarm constantly going off in the shop attempt to communicate with the vehicle tester will not communicate with alarm or dme removed drivers seat and protection cover over the immobilizer control unit installed test immobilizer control unit and remote and attempt to disarm and start the car car now disarms and starts recommend sending out immobilizer and remote to be sent out to be unlocked and reprogrammed to the new key sent out unit and key upon return i installed the immobilizer and attempted to arm and disarm car car now arms and disarms and starts alarmimmobilizer system is now operating correctly after the immobilizer issue has been repaired the car has hard faults in the $T$ system and the dme control unit will not communicate with the system tester both issues will require diagnosis time the car was not test driven due to the tire condition and engine oil leaks car is not safe to drive at this time and customer declines further work to the car car should not be driven and the car should be towed from the dealership
+abs
+2
+customer states vehicle would not start and needs to be jump started verified battery voltage after jump it was at  volts when running checked $T$ amperage it was at amps normal and voltage was volts when running also normal tested battery volts were low at  volts and cca was at  instaed of  recommend new battery
+alternator
+2
+alternator is faulty  during diagnosis found that alternator is not properly charging vehicle electrical system system battery voltage is  volts recommend replacing $T$ and testing system for proper charge customer declined repairs as per service manager replaced battery
+alternator
+0
+alternator is faulty  during diagnosis found that $T$ is not properly charging vehicle electrical system system battery voltage is  volts recommend replacing alternator and testing system for proper charge customer declined repairs as per service manager replaced battery
+alternator
+2
+$T$ is faulty  during diagnosis found that alternator is not properly charging vehicle electrical system system battery voltage is  volts recommend replacing alternator and testing system for proper charge customer declined repairs as per service manager replaced battery
+alternator
+2
+completed mpi recommended front brake pads mm recommended bcm replacement $T$ light recommended  tire right front   recommended right side axle boot replacementinner torn recommended alignment above recommended work was not performed at this time
+abs
+0
+diag checked positive starter cable for high resistance cable checked ok at  voltage drop $T$ tested ok putting out a at v checked ground side of power circuit and found the negative battery cable at the battery has ohms of resistance this is excessively high recommend replacing negative battery cable to start provided estimate
+alternator
+2
+found codes c  and c  set has current found codes u c u u set in history found both front speed sensors have internal open circuit replaced both front speed sensors with new and road tested found $T$ light came on during road test found codes u and c set as current tested system and found ebcm and connector end full of coolant causing concern customer declined repairs
+abs
+2
+declinedbattery was dead new aftermarket batt erycel is on  diag $T$ lt is on  diag air filter box bolts broken out pwr steering f luid was emptywiperswiper armssurpentine bel tblinkers inopmultiple fluid leaks pass airbag could not be installedglove box ja
+abs
+-1
+recommend right front tire  right front compliance bushings  $T$ light on  mil
+abs
+0
+recommend replacing $T$  straight time diag
+alternator
+0
+r  inspect $T$ actuator
+abs
+1
+replace defective $T$ car is now starting and driving customer to monitor
+alternator
+1
+drivingmost often at hwy speeds on accle has died slow speedc stop  time since been doinghappened on way here from ludlow road tested to confirm  plus miles unable to reproduce concernwas able to confirm alternator output drops below spec while drivingestimate to alternator  declined at this time power steering belt is not properly installedis waliking off pulley needs front lower control arms bushings are worn as well as upper and lower torque mounts estimate to replace all  is due for timing belt by age if done with $T$ repair would total  owner declined
+alternator
+-1
+drivingmost often at hwy speeds on accle has died slow speedc stop  time since been doinghappened on way here from ludlow road tested to confirm  plus miles unable to reproduce concernwas able to confirm alternator output drops below spec while drivingestimate to $T$  declined at this time power steering belt is not properly installedis waliking off pulley needs front lower control arms bushings are worn as well as upper and lower torque mounts estimate to replace all  is due for timing belt by age if done with alternator repair would total  owner declined
+alternator
+-1
+drivingmost often at hwy speeds on accle has died slow speedc stop  time since been doinghappened on way here from ludlow road tested to confirm  plus miles unable to reproduce concernwas able to confirm $T$ output drops below spec while drivingestimate to alternator  declined at this time power steering belt is not properly installedis waliking off pulley needs front lower control arms bushings are worn as well as upper and lower torque mounts estimate to replace all  is due for timing belt by age if done with alternator repair would total  owner declined
+alternator
+2
+jump started battery and drove it while running  volts were found at the $T$ indicating charging system is operational  volts were found at battery while car running after shutting down car static battery voltage found to be  volts considering vehicle history it is recommended that the battery be charged or replaced and car measured for parasitic current draws new battery installed current draw measured  milliamps were measured after vehicle went to sleep
+alternator
+2
+customer supplied coolant pump  removed rear bumper cover and exhaust to access and replaced the customer supplied coolant pump we also replaced the tension roller and both deflection guide rollers while we were there replacing the coolant pump we were not able to fill cooling system with coolant because the engine has a large coolant leak from under the intake distributer behind $T$ probably from the pressed in hose connection at the oil cooler on top of the engine recommend remove the engine and repair all eight pressed in pipes to be finished with that problem the problem is that when the engine is out their are several other recommended repairs to do at the same time this service was delayed at this time
+alternator
+2
+during maintenance inspection technician found engine oil leaking from engine timing covers onto $T$ drained engine coolant and air conditioning refrigerant from vehicle removed engine and transmission assembly unflanged transmission from engine set engine to tdc and locked cams removed timing cover cleaned engine components of oil residue cleaned all mating surfaces reinstalled timing cover with new gaskets sealant and bolts torqued all bolts to spec reinstalled all components and torqued all bolts to spec filled engine oil vacuum bled and filled cooling system and found no leaks while under vacuum installed new rubber fuel line assembly in engine compartment started vehicle and let warm up to operating temperature topped off oil confirmed cooling system bled properly performed throttle body and radiator grille adaptations recharged ac refrigerant test drove vehicle lifted vehicle once more and confirmed no further leaks performed  wheel alignment vehicle is operating as designed
+alternator
+2
+recommended service front brake padsrotors quote  the air bag light light is on brake light was on $T$ light ima light was on before the service today
+abs
+0
+performed b service service includes submenu items per checklist  elk grove acura  minimum service b replace engine oil and filter install windshield wiper solvent b inspect front and rear brakes b check parking brake adjustment b visually inspect tie rod ends steering gear box and boots b visually inspect suspension components b visually inspect driveshaft boots b visually inspect brake hoses and line including $T$ b visually inspect all fluid levels and condition of fluids top off as needed b visually inspect exhaust system b visually inspect fuel lines and connections did not rotate recommended new tires soon check tire pressure and condition inspect drive belt check vin  for open recalls or campaigns clean battery cable ends and terminals and install anticorrosion pads perform multipoint inspection
+abs
+1
