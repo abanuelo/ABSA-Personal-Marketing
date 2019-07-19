@@ -4,7 +4,7 @@ Will apply several techniques such as ngrams bag of words, lstm neural networks,
 ## Results of Models
 
 ### Ngrams Bag of Words - Baseline Method 1
-Ngrams bag-of-words ABSA is generating an overall accuracy of 0.34. Lenient Baseline. 
+Ngrams bag-of-words ABSA is generating an overall accuracy of 34%. Lenient Baseline. 
 
 ### Content Attention Based Aspect Based Sentiment Analysis (CABASC) - Method 2
 CABASC model currently performs at 60% accuracy averaged across all servicing categories included in this report. For more information of servicing categories please see data CSV files.
